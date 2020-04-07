@@ -168,11 +168,6 @@ arXiv: https://arxiv.org/abs/2003.09871
 
     *Linda Wang, Alexander Wong*
 
-1. **"Mapping the Landscape of Artificial Intelligence Applications against COVID-19."** arXiv, 2020. <br>
-arXiv: https://arxiv.org/abs/2003.11336
-
-    *Joseph Bullock, Alexandra (Sasha)Luccioni, Katherine Hoffmann Pham, Cynthia Sin Nga Lam, Miguel Luengo-Oroz*
-
 1. **"Automatic Detection of Coronavirus Disease (COVID-19) Using X-ray Images and Deep Convolutional Neural Networks."** arXiv, 2020.<br>
 arXiv: https://arxiv.org/abs/2003.10849
 
