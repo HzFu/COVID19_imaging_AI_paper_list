@@ -24,7 +24,7 @@ Link: http://ftp.iza.org/dp13110.pdf
 1. **Digital technology and COVID-19.**  Nature Medicine, 2020. <br>
 doi: https://doi.org/10.1038/s41591-020-0824-5
 
-    *Daniel Shu Wei Ting, Lawrence Carin, Victor Dzau, and Tien Y. Wong *
+    *Daniel Shu Wei Ting, Lawrence Carin, Victor Dzau, and Tien Y. Wong*
 
 1. **A British Society of Thoracic Imaging statement: considerations in designing local imaging diagnostic algorithms for the COVID-19 pandemic.** Clinical Radiology, Volume 75, Issue 5, May 2020, Pages 329-334 <br>
 doi: https://doi.org/10.1016/j.crad.2020.03.008
