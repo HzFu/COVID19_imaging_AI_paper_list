@@ -16,6 +16,12 @@ Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Dengping Fan*](https://
 
 ## Survey and comment  <a id="survey" class="anchor" href="#survey" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
 
+1. **"Review of Artificial Intelligence Techniques in Imaging Data Acquisition, Segmentation and Diagnosis for COVID-19."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2004.02731
+
+    *Feng Shi, Jun Wang, Jun Shi, Ziyan Wu, Qian Wang, Zhenyu Tang, Kelei He, Yinghuan Shi, Dinggang Shen*
+
+
 1. **"Artificial Intelligence against COVID-19: An Early Review."** IZA Discussion Papers 13110, Institute of Labor Economics (IZA), 2020. <br>
 Link: http://ftp.iza.org/dp13110.pdf
 
