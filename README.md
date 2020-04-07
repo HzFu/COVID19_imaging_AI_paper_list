@@ -272,8 +272,23 @@ doi: https://doi.org/10.1101/2020.03.20.20039834
 
     *Cheng Jin, Weixiang Chen, Yukun Cao, Zhanwei Xu, Xin Zhang, Lei Deng, Chuansheng Zheng, Jie Zhou, Heshui Shi, Jianjiang Feng*
 
-1. **"Large-Scale Screening of COVID-19 from Community Acquired Pneumonia using Infection Size-Aware Classification."** arXiv, 2020 <br>
+1. **"Large-Scale Screening of COVID-19 from Community Acquired Pneumonia using Infection Size-Aware Classification."** arXiv, 2020. <br>
 arXiv: https://arxiv.org/abs/2003.09860
 
     *Feng Shi, Liming Xia, Fei Shan, Dijia Wu, Ying Wei, Huan Yuan, Huiting Jiang, Yaozong Gao, He Sui, Dinggang Shen*
+
+1. **"Coronavirus Detection and Analysis on Chest CT with Deep Learning."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2004.02640
+
+    *Ophir Gozes, Maayan Frid-Adar, Nimrod Sagie, Huangqi Zhang, Wenbin Ji, Hayit Greenspan*
+
+1. **"Finding Covid-19 from Chest X-rays using Deep Learning on a Small Dataset."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2004.02060
+
+    *Lawrence O. Hall, Rahul Paul, Dmitry B. Goldgof, Gregory M. Goldgof*
+
+1. **"COVID-CAPS: A Capsule Network-based Framework for Identification of COVID-19 cases from X-ray Image."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2004.02696
+
+    *Parnian Afshar, Shahin Heidarian, Farnoosh Naderkhani, Anastasia Oikonomou, Konstantinos N. Plataniotis, Arash Mohammadi*
 
