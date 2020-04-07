@@ -4,7 +4,7 @@ We are collecting the COVID-19 imaging-based AI research papers and datasets. If
 
 Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Dengping Fan*](https://dpfan.net/), [*Geng Chen*](https://www.researchgate.net/profile/Geng_Chen13), and [*Tao Zhou*](https://taozh2017.github.io) .
 
---- Updated by: 2020-04-07 ------
+--- *Last updated: 2020/04/07* ---
 
 ## [Content](#content)
 
