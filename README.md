@@ -128,6 +128,11 @@ doi: https://doi.org/10.1148/radiol.2020201160
 
     *Ho Yuen Frank Wong, Hiu Yin Sonia Lam, Ambrose Ho-Tung Fong, Siu Ting Leung, Thomas Wing-Yan Chin, Christine Shing Yen Lo, Macy Mei-Sze Lui, Jonan Chun Yin Lee, Keith Wan-Hang Chiu, Tom Chung, Elaine Yuen Phin Lee, Eric Yuk Fai Wan, Fan Ngai Ivan Hung, Tina Poy Wing Lam, Michael Kuo, and Ming-Yen Ng*
 
+1. **"A Systematic Meta-Analysis of CT Features of COVID-19: Lessons from Radiology."** medRxiv, 2020. <br>
+doi: https://doi.org/10.1101/2020.04.04.20052241
+
+    *Vasantha Kumar Venugopal, Vidur Mahajan, Sriram Rajan, Vikash Kumar Agarwal, Ruchika Rajan, Salsabeel Syed, Harsh Mahajan*
+
 
 ## [AI-related Technical Paper](#technical)  <a id="technical" class="anchor" href="#technical" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
