@@ -116,6 +116,12 @@ doi: https://doi.org/10.1148/ryct.2020200075
 doi: https://doi.org/10.1016/S0140-6736(20)30183-5
 
     *Chaolin Huang, Yeming Wang, Xingwang Li, Lili Ren, Jianping Zhao, Yi Hu, Li Zhang, Guohui Fan, Jiuyang Xu, Xiaoying Gu, Zhenshun Cheng, Ting Yu, Jiaan Xia, Yuan Wei, Wenjuan Wu, Xuelei Xie, Wen Yin, Hui Li, Min Liu, Yan Xiao, Hong Gao, Li Guo, Jungang Xie, Guangfa Wang, Rongmeng Jiang, Zhancheng Gao, Qi Jin, Jianwei Wang, and Bin Cao*
+ 
+
+1. **"Frequency and Distribution of Chest Radiographic Findings in COVID-19 Positive Patients."** medRxiv, 2020. <br>
+doi: https://doi.org/10.1148/radiol.2020201160
+
+    *Ho Yuen Frank Wong, Hiu Yin Sonia Lam, Ambrose Ho-Tung Fong, Siu Ting Leung, Thomas Wing-Yan Chin, Christine Shing Yen Lo, Macy Mei-Sze Lui, Jonan Chun Yin Lee, Keith Wan-Hang Chiu, Tom Chung, Elaine Yuen Phin Lee, Eric Yuk Fai Wan, Fan Ngai Ivan Hung, Tina Poy Wing Lam, Michael Kuo, and Ming-Yen Ng*
 
 
 ## [AI-related Technical Paper](#technical)  <a id="technical" class="anchor" href="#technical" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
@@ -229,6 +235,45 @@ doi: https://doi.org/10.1101/2020.04.03.20048868
 
     *Saban Ozturk, Umut Ozkaya, Mucahid Barstugan*
 
+1. **"Covid-19: Automatic detection from X-Ray images utilizing Transfer Learning with Convolutional Neural Networks."** arXiv, 2020 <br>
+arXiv: https://arxiv.org/abs/2003.11617
+
+    *Ioannis D. Apostolopoulos, Tzani Bessiana*
+
+1. **"Machine learning-based CT radiomics model for predicting hospital stay in patients with pneumonia associated with SARS-CoV-2 infection: A multicenter study."** medRxiv, 2020. <br>
+doi: https://doi.org/10.1101/2020.02.29.20029603
+
+    *Xiaolong Qi, Zicheng Jiang, QIAN YU, Chuxiao Shao, Hongguang Zhang, Hongmei Yue, Baoyi Ma, Yuancheng Wang, Chuan Liu, Xiangpan Meng, Shan Huang, Jitao Wang, Dan Xu, Junqiang Lei, Guanghang Xie, Huihong Huang, Jie Yang, Jiansong Ji, Hongqiu Pan, Shengqiang Zou, Shenghong Ju*
+
+1. **"Deep learning-based model for detecting 2019 novel coronavirus pneumonia on high-resolution computed tomography: a prospective study."** medRxiv, 2020. <br>
+doi: https://doi.org/10.1101/2020.02.25.20021568
+
+    *Jun Chen, Lianlian Wu, Jun Zhang, Liang Zhang, Dexin Gong, Yilin Zhao, Shan Hu, Yonggui Wang, Xiao Hu, Biqing Zheng, Kuo Zhang, Huiling Wu, Zehua Dong, Youming Xu, Yijie Zhu, Xi Chen, Lilei Yu, Honggang Yu*
+
+1. **"Severe COVID-19 Pneumonia: Assessing Inflammation Burden with Volume-rendered Chest CT."** Radiology: Cardiothoracic Imaging, 2020, 2:2  <br>
+doi: https://doi.org/10.1148/ryct.2020200044
+
+    *Lei Tang, Xiaoyong Zhang, Yvquan Wang, and Xianchun Zeng*
+
+1. **"Quantitative computed tomography analysis for stratifying the severity of Coronavirus Disease 2019."** Journal of Pharmaceutical Analysis, 2020, 2095-1779  <br>
+doi: https://doi.org/10.1016/j.jpha.2020.03.004
+
+    *Cong Shen, Nan Yu, Shubo Cai, Jie Zhou, Jiexin Sheng, Kang Liu, Heping Zhou, Youmin Guo, Gang Niu*
 
 
+1. **"Deep learning Enables Accurate Diagnosis of Novel Coronavirus (COVID-19) with CT images."** medRxiv, 2020. <br>
+doi: https://doi.org/10.1101/2020.02.23.20026930
+
+    *Ying Song,  Shuangjia Zheng, Liang Li, Xiang Zhang, Xiaodong Zhang, Ziwang Huang, Jianwen Chen, Huiying Zhao, Yusheng Jie, Ruixuan Wang, Yutian Chong,  Jun Shen,  Yunfei Zha,  Yuedong Yang*
+
+
+1. **"Development and Evaluation of an AI System for COVID-19 Diagnosis."** medRxiv, 2020. <br>
+doi: https://doi.org/10.1101/2020.03.20.20039834
+
+    *Cheng Jin, Weixiang Chen, Yukun Cao, Zhanwei Xu, Xin Zhang, Lei Deng, Chuansheng Zheng, Jie Zhou, Heshui Shi, Jianjiang Feng*
+
+1. **"Large-Scale Screening of COVID-19 from Community Acquired Pneumonia using Infection Size-Aware Classification."** arXiv, 2020 <br>
+arXiv: https://arxiv.org/abs/2003.09860
+
+    *Feng Shi, Liming Xia, Fei Shan, Dijia Wu, Ying Wei, Huan Yuan, Huiting Jiang, Yaozong Gao, He Sui, Dinggang Shen*
 
