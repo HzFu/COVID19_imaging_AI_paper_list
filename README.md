@@ -37,6 +37,11 @@ doi: https://doi.org/10.1016/j.crad.2020.03.008
 
     *A. Nair, J.C.L. Rodrigues, S. Hare, A. Edey, A. Devaraj, J. Jacob, A. Johnstone, R. McStay, Erika Denton, G. Robinson*
 
+1. **Mapping the landscape of artificial intelligence applications against COVID-19.** arXiv, 2020. (Submitted on 25 Mar 2020) <br>
+arXiv: https://arxiv.org/abs/2003.11336 <br>
+
+    *Joseph Bullock, Alexandra (Sasha)Luccioni, Katherine Hoffmann Pham, Cynthia Sin Nga Lam, Miguel Luengo-Oroz*
+
 
 ## Datasets <a id="dataset" class="anchor" href="#dataset" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
