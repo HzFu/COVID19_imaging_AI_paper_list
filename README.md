@@ -14,7 +14,7 @@ Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Dengping Fan*](https://
 4. <a href="#technical"> AI-related Technical Paper </a>
 
 
-## [Survey and comment](#survey)
+## Survey and comment  <a id="survey" class="anchor" href="#survey" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
 
 1. **"Artificial Intelligence against COVID-19: An Early Review."** IZA Discussion Papers 13110, Institute of Labor Economics (IZA), 2020. <br>
 Link: http://ftp.iza.org/dp13110.pdf
@@ -32,7 +32,7 @@ doi: https://doi.org/10.1016/j.crad.2020.03.008
     *A. Nair, J.C.L. Rodrigues, S. Hare, A. Edey, A. Devaraj, J. Jacob, A. Johnstone, R. McStay, Erika Denton, G. Robinson*
 
 
-## [Datasets](#dataset)   
+## Datasets <a id="dataset" class="anchor" href="#dataset" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
 1. **"COVID-19 image data collection."** arXiv, 2020. (Submitted on 25 Mar 2020) <br>
 arXiv: https://arxiv.org/abs/2003.11597 <br>
@@ -59,7 +59,7 @@ Kaggle: https://www.kaggle.com/khoongweihao/covid19-xray-dataset-train-test-sets
 Link: http://medicalsegmentation.com/covid19/
 
 
-## [Imaging-based Clinical Paper](#clinical)   
+## [Imaging-based Clinical Paper](#clinical)   <a id="clinical" class="anchor" href="#clinical" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
 1. **"Sensitivity of Chest CT for COVID-19: Comparison to RT-PCR."** Radiology, 2020. Published Online: Feb 19 2020 <br>
 doi: https://doi.org/10.1148/radiol.2020201237
@@ -112,7 +112,7 @@ doi: https://doi.org/10.1016/S0140-6736(20)30183-5
     *Chaolin Huang, Yeming Wang, Xingwang Li, Lili Ren, Jianping Zhao, Yi Hu, Li Zhang, Guohui Fan, Jiuyang Xu, Xiaoying Gu, Zhenshun Cheng, Ting Yu, Jiaan Xia, Yuan Wei, Wenjuan Wu, Xuelei Xie, Wen Yin, Hui Li, Min Liu, Yan Xiao, Hong Gao, Li Guo, Jungang Xie, Guangfa Wang, Rongmeng Jiang, Zhancheng Gao, Qi Jin, Jianwei Wang, and Bin Cao*
 
 
-## [AI-related Technical Paper](#technical)  
+## [AI-related Technical Paper](#technical)  <a id="technical" class="anchor" href="#technical" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
 
 1. **"A deep learning algorithm using CT images to screen for Corona Virus Disease (COVID-19)."** medRxiv, 2020. <br>
