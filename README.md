@@ -4,7 +4,7 @@ We are collecting the COVID-19 imaging-based AI research papers and datasets. If
 
 Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Dengping Fan*](https://dpfan.net/), [*Geng Chen*](https://www.researchgate.net/profile/Geng_Chen13), and [*Tao Zhou*](https://taozh2017.github.io) .
 
---- *Last updated: 2020/04/07* ---
+--- *Last updated: 2020/04/08* ---
 
 ## [Content](#content)
 
@@ -132,6 +132,24 @@ doi: https://doi.org/10.1148/radiol.2020201160
 doi: https://doi.org/10.1101/2020.04.04.20052241
 
     *Vasantha Kumar Venugopal, Vidur Mahajan, Sriram Rajan, Vikash Kumar Agarwal, Ruchika Rajan, Salsabeel Syed, Harsh Mahajan*
+
+1. **"Differences in Clinical and Imaging Presentation of Pediatric Patients with COVID-19 in Comparison with Adults."** Radiology: Cardiothoracic Imaging, 2020, 2:2  <br>
+doi: https://doi.org/10.1148/ryct.2020200117
+
+    *Amei Chen, Junxiang Huang, Yuting Liao, Zaosong Liu, Dandan Chen, Chongzhe Yang, Ruimeng Yang, and Xinhua Wei*
+
+1. **"A Systematic Meta-Analysis of CT Features of COVID-19: Lessons from Radiology."** medRxiv, 2020. <br>
+doi: https://doi.org/10.1101/2020.04.04.20052241
+
+    *Vasantha Kumar Venugopal, Vidur Mahajan, Sriram Rajan, Vikash Kumar Agarwal, Ruchika Rajan, Salsabeel Syed, Harsh Mahajan*
+
+1. **"A globally available COVID-19 - Template for clinical imaging studies."** medRxiv, 2020. <br>
+doi: https://doi.org/10.1101/2020.04.02.20048793
+
+    *Gabriel Alexander Salg, Maria Katharina Ganten, Matthias Baumhauer, Claus Peter Heussel, Jens Kleesiek*
+
+
+
 
 
 ## [AI-related Technical Paper](#technical)  <a id="technical" class="anchor" href="#technical" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
