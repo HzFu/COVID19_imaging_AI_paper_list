@@ -74,7 +74,10 @@ Kaggle: https://www.kaggle.com/tawsifurrahman/covid19-radiography-database
 Kaggle: https://www.kaggle.com/khoongweihao/covid19-xray-dataset-train-test-sets
 
 1. **"COVID-19 CT segmentation dataset"** <br>
-Link: http://medicalsegmentation.com/covid19/
+Link: https://medicalsegmentation.com/covid19/
+
+1. **"Fighting Covid-19 Challenge - A platform for open research on large Covid-19 imaging datasets"** <br>
+Link: https://www.covid19challenge.eu
 
 1. **"COVID-19: CASISTICA RADIOLOGICA ITALIANA"**<br>
 Link: https://www.sirm.org/category/senza-categoria/covid-19/
