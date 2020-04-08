@@ -269,6 +269,10 @@ arXiv: https://arxiv.org/abs/2004.02640
 
     *Ophir Gozes, Maayan Frid-Adar, Nimrod Sagie, Huangqi Zhang, Wenbin Ji, Hayit Greenspan*
 
+1. **"Harmony-Search and Otsu based System for Coronavirus Disease (COVID-19) Detection using Lung CT Scan Images."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2004.03431
+
+    *V. Rajinikanth, Nilanjan Dey, Alex Noel Joseph Raj, Aboul Ella Hassanien, K.C. Santosh, N. Sri Madhava Raja*
 
 
 ### CXR-based methods: <a id="technical_CXR" class="anchor" href="#technical_CXR" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
@@ -338,3 +342,12 @@ arXiv: https://arxiv.org/abs/2004.02696
 
     *Parnian Afshar, Shahin Heidarian, Farnoosh Naderkhani, Anastasia Oikonomou, Konstantinos N. Plataniotis, Arash Mohammadi*
 
+1. **"COVID-Xpert: An AI Powered Population Screening of COVID-19 Cases Using Chest Radiography Images."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2004.03042
+
+    *Xin Li, Dongxiao Zhu*
+
+1. **"Deep Learning on Chest X-ray Images to Detect and Evaluate Pneumonia Cases at the Era of COVID-19."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2004.03399
+
+    *Karim Hammoudi, Halim Benhabiles, Mahmoud Melkemi, Fadi Dornaika, Ignacio Arganda-Carreras, Dominique Collard, Arnaud Scherpereel*
