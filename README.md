@@ -163,7 +163,10 @@ doi: https://doi.org/10.1101/2020.04.02.20048793
 
     *Gabriel Alexander Salg, Maria Katharina Ganten, Matthias Baumhauer, Claus Peter Heussel, Jens Kleesiek*
 
+1. **"CT image visual quantitative evaluation and clinical classification of coronavirus disease (COVID-19)."** European Radiology, 2020. <br>
+doi: https://doi.org/10.1007/s00330-020-06817-6
 
+    *Kunwei Li, Yijie Fang, Wenjuan Li, Cunxue Pan, Peixin Qin, Yinghua Zhong, Xueguo Liu, Mingqian Huang, Yuting Liao, and Shaolin Li*
 
 
 
