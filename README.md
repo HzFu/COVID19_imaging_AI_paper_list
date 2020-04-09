@@ -277,6 +277,15 @@ arXiv: https://arxiv.org/abs/2004.03431
 
     *V. Rajinikanth, Nilanjan Dey, Alex Noel Joseph Raj, Aboul Ella Hassanien, K.C. Santosh, N. Sri Madhava Raja*
 
+1. **"COVID_MTNet: COVID-19 Detection with Multi-Task Deep Learning Approaches."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2004.03747
+
+    *Md Zahangir Alom, M M Shaifur Rahman, Mst Shamima Nasrin, Tarek M. Taha, Vijayan K. Asari*
+
+1. **"Coronavirus (COVID-19) Classification using Deep Features Fusion and Ranking Technique."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2004.03698
+
+    *Umut Ozkaya, Saban Ozturk, Mucahid Barstugan*
 
 ### CXR-based methods: <a id="technical_CXR" class="anchor" href="#technical_CXR" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
@@ -354,3 +363,8 @@ arXiv: https://arxiv.org/abs/2004.03042
 arXiv: https://arxiv.org/abs/2004.03399
 
     *Karim Hammoudi, Halim Benhabiles, Mahmoud Melkemi, Fadi Dornaika, Ignacio Arganda-Carreras, Dominique Collard, Arnaud Scherpereel*
+
+1. **"COVID_MTNet: COVID-19 Detection with Multi-Task Deep Learning Approaches."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2004.03747
+
+    *Md Zahangir Alom, M M Shaifur Rahman, Mst Shamima Nasrin, Tarek M. Taha, Vijayan K. Asari*
