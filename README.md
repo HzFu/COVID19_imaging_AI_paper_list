@@ -4,7 +4,7 @@ We are collecting the COVID-19 imaging-based AI research papers and datasets. If
 
 Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Dengping Fan*](https://dpfan.net/), [*Geng Chen*](https://www.researchgate.net/profile/Geng_Chen13), and [*Tao Zhou*](https://taozh2017.github.io).
 
---- *Last updated: 2020/04/08* ---
+--- *Last updated: 2020/04/10* ---
 
 ## Content :
 
@@ -169,6 +169,10 @@ doi: https://doi.org/10.1007/s00330-020-06817-6
     *Kunwei Li, Yijie Fang, Wenjuan Li, Cunxue Pan, Peixin Qin, Yinghua Zhong, Xueguo Liu, Mingqian Huang, Yuting Liao, and Shaolin Li*
 
 
+1. **"The Role of Chest Imaging in Patient Management during the COVID-19 Pandemic: A Multinational Consensus Statement from the Fleischner Society."** Radiology, 2020. <br>
+doi: https://doi.org/10.1148/radiol.2020201365
+
+    *Geoffrey D. Rubin, Christopher J. Ryerson, Linda B. Haramati, Nicola Sverzellati, Jeffrey P. Kanne, Suhail Raoof, Neil W. Schluger, Annalisa Volpi, Jae-Joon Yim, Ian B. K. Martin, Deverick J. Anderson, Christina Kong, Talissa Altes, Andrew Bush, Sujal R. Desai, Jonathan Goldin, Jin Mo Goo, Marc Humbert, Yoshikazu Inoue, Hans-Ulrich Kauczor, Fengming Luo, Peter J. Mazzone, Mathias Prokop, Martine Remy-Jardin, Luca Richeldi, Cornelia M. Schaefer-Prokop, Noriyuki Tomiyama, Athol U. Wells, and Ann N. Leung*
 
 ## AI-related Technical Papers: <a id="technical" class="anchor" href="#technical" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
