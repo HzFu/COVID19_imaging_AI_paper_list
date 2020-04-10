@@ -372,3 +372,12 @@ arXiv: https://arxiv.org/abs/2004.03399
 arXiv: https://arxiv.org/abs/2004.03747
 
     *Md Zahangir Alom, M M Shaifur Rahman, Mst Shamima Nasrin, Tarek M. Taha, Vijayan K. Asari*
+
+1. **"DeepCOVIDExplainer: Explainable COVID-19 Predictions Based on Chest X-ray Images."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2004.04582
+
+    *Md. Rezaul Karim, Till Döhmen, Dietrich Rebholz-Schuhmann, Stefan Decker, Michael Cochez, Oya Beyan*
+
+
+
+
