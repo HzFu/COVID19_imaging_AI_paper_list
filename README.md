@@ -4,7 +4,7 @@ We are collecting the COVID-19 imaging-based AI research papers and datasets. If
 
 Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Dengping Fan*](https://dpfan.net/), [*Geng Chen*](https://www.researchgate.net/profile/Geng_Chen13), and [*Tao Zhou*](https://taozh2017.github.io).
 
---- *Last updated: 2020/04/10* ---
+--- *Last updated: 2020/04/11* ---
 
 ## Content :
 
@@ -29,7 +29,7 @@ Link: http://ftp.iza.org/dp13110.pdf
 
     *Wim Naudé.*
 
-1. **"Systematic review and critical appraisal of prediction models for diagnosis and prognosis of COVID-19 infection."** medRvix, 2020. <br>
+1. **"Systematic review and critical appraisal of prediction models for diagnosis and prognosis of COVID-19 infection."** medRvix 2020.03.24.20041020, 2020. <br>
 doi: https://doi.org/10.1101/2020.03.24.20041020
 
     *Laure Wynants, Ben Van Calster, Marc MJ Bonten, Gary S Collins, Thomas PA Debray, Maarten De Vos, Maria C Haller, Georg Heinze, Karel GM Moons, Richard D Riley, Ewoud Schuit, Luc Smits, Kym IE Snell, Ewout W Steyerberg, Christine Wallisch,  Maarten van Smeden*
@@ -138,12 +138,12 @@ doi: https://doi.org/10.1016/S0140-6736(20)30183-5
     *Chaolin Huang, Yeming Wang, Xingwang Li, Lili Ren, Jianping Zhao, Yi Hu, Li Zhang, Guohui Fan, Jiuyang Xu, Xiaoying Gu, Zhenshun Cheng, Ting Yu, Jiaan Xia, Yuan Wei, Wenjuan Wu, Xuelei Xie, Wen Yin, Hui Li, Min Liu, Yan Xiao, Hong Gao, Li Guo, Jungang Xie, Guangfa Wang, Rongmeng Jiang, Zhancheng Gao, Qi Jin, Jianwei Wang, and Bin Cao*
  
 
-1. **"Frequency and Distribution of Chest Radiographic Findings in COVID-19 Positive Patients."** medRxiv, 2020. <br>
+1. **"Frequency and Distribution of Chest Radiographic Findings in COVID-19 Positive Patients."** Radiology, 2020. <br>
 doi: https://doi.org/10.1148/radiol.2020201160
 
     *Ho Yuen Frank Wong, Hiu Yin Sonia Lam, Ambrose Ho-Tung Fong, Siu Ting Leung, Thomas Wing-Yan Chin, Christine Shing Yen Lo, Macy Mei-Sze Lui, Jonan Chun Yin Lee, Keith Wan-Hang Chiu, Tom Chung, Elaine Yuen Phin Lee, Eric Yuk Fai Wan, Fan Ngai Ivan Hung, Tina Poy Wing Lam, Michael Kuo, and Ming-Yen Ng*
 
-1. **"A Systematic Meta-Analysis of CT Features of COVID-19: Lessons from Radiology."** medRxiv, 2020. <br>
+1. **"A Systematic Meta-Analysis of CT Features of COVID-19: Lessons from Radiology."** medRxiv 2020.04.04.20052241, 2020. <br>
 doi: https://doi.org/10.1101/2020.04.04.20052241
 
     *Vasantha Kumar Venugopal, Vidur Mahajan, Sriram Rajan, Vikash Kumar Agarwal, Ruchika Rajan, Salsabeel Syed, Harsh Mahajan*
@@ -153,12 +153,12 @@ doi: https://doi.org/10.1148/ryct.2020200117
 
     *Amei Chen, Junxiang Huang, Yuting Liao, Zaosong Liu, Dandan Chen, Chongzhe Yang, Ruimeng Yang, and Xinhua Wei*
 
-1. **"A Systematic Meta-Analysis of CT Features of COVID-19: Lessons from Radiology."** medRxiv, 2020. <br>
+1. **"A Systematic Meta-Analysis of CT Features of COVID-19: Lessons from Radiology."** medRxiv 2020.04.04.20052241, 2020. <br>
 doi: https://doi.org/10.1101/2020.04.04.20052241
 
     *Vasantha Kumar Venugopal, Vidur Mahajan, Sriram Rajan, Vikash Kumar Agarwal, Ruchika Rajan, Salsabeel Syed, Harsh Mahajan*
 
-1. **"A globally available COVID-19 - Template for clinical imaging studies."** medRxiv, 2020. <br>
+1. **"A globally available COVID-19 - Template for clinical imaging studies."** medRxiv 2020.04.02.20048793, 2020. <br>
 doi: https://doi.org/10.1101/2020.04.02.20048793
 
     *Gabriel Alexander Salg, Maria Katharina Ganten, Matthias Baumhauer, Claus Peter Heussel, Jens Kleesiek*
@@ -180,7 +180,7 @@ doi: https://doi.org/10.1148/radiol.2020201365
 ### CT-based methods: <a id="technical_CT" class="anchor" href="#technical_CT" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
 
-1. **"A deep learning algorithm using CT images to screen for Corona Virus Disease (COVID-19)."** medRxiv, 2020. <br>
+1. **"A deep learning algorithm using CT images to screen for Corona Virus Disease (COVID-19)."** medRxiv 2020.02.14.20023028, 2020. <br>
 doi: https://doi.org/10.1101/2020.02.14.20023028
 
     *Shuai Wang, Bo Kang, Jinlu Ma, Xianjun Zeng, Mingming Xiao, Jia Guo, Mengjiao Cai, Jingyi Yang, Yaodong Li, Xiangfei Meng, Bo Xu.*
@@ -206,13 +206,13 @@ doi: https://doi.org/10.1101/2020.03.12.20027185
 
     *Chuansheng Zheng, Xianbo Deng, Qing Fu, Qiang Zhou, Jiapei Feng, Hui Ma, Wenyu Liu, Xinggang Wang*
 
-1. **"AI-assisted CT imaging analysis for COVID-19 screening: Building and deploying a medical AI system in four weeks."** medRxiv, 2020. <br>
+1. **"AI-assisted CT imaging analysis for COVID-19 screening: Building and deploying a medical AI system in four weeks."** medRxiv 2020.03.19.20039354, 2020. <br>
 doi: https://doi.org/10.1101/2020.03.19.20039354
 
     *Shuo Jin, Bo Wang, Haibo Xu, Chuan Luo, Lai Wei, Wei Zhao, Xuexue Hou, Wenshuo Ma, Zhengqing Xu, Zhuozhao Zheng, Wenbo Sun, Lan Lan, Wei Zhang, Xiangdong Mu, Chenxi Shi, Zhongxiao Wang, Jihae Lee, Zijian Jin, Minggui Lin, Hongbo Jin, Liang Zhang, Jun Guo, Benqi Zhao, Zhizhong Ren, Shuhao Wang, Zheng You, Jiahong Dong, Xinghuan Wang, Jianming Wang, Wei Xu*
 
 
-1. **"A Fully Automatic Deep Learning System for COVID-19 Diagnostic and Prognostic Analysis."** medRvix, 2020. <br>
+1. **"A Fully Automatic Deep Learning System for COVID-19 Diagnostic and Prognostic Analysis."** medRvix 2020.03.24.20042317, 2020. <br>
 doi: https://doi.org/10.1101/2020.03.24.20042317
 
     *Shuo Wang, Yunfei Zha, Weimin Li, Qingxia Wu, Xiaohu Li, Meng Niu, Meiyun Wang, Xiaoming Qiu, Hongjun Li, He Yu, Wei Gong, Yan Bai, Li Li, Yongbei Zhu, Liusu Wang, Jie Tian*
@@ -234,12 +234,12 @@ doi: https://doi.org/10.1148/radiol.2020200905
     *Lin Li, Lixin Qin, Zeguo Xu, Youbing Yin, Xin Wang, Bin Kong, Junjie Bai, Yi Lu, Zhenghan Fang, Qi Song, Kunlin Cao, Daliang Liu, Guisheng Wang, Qizhong Xu, Xisheng Fang, Shiqin Zhang, Juan Xia, and Jun Xia*
 
  
-1. **"Machine learning-based CT radiomics model for predicting hospital stay in patients with pneumonia associated with SARS-CoV-2 infection: A multicenter study."** medRxiv, 2020. <br>
+1. **"Machine learning-based CT radiomics model for predicting hospital stay in patients with pneumonia associated with SARS-CoV-2 infection: A multicenter study."** medRxiv 2020.02.29.20029603, 2020. <br>
 doi: https://doi.org/10.1101/2020.02.29.20029603
 
     *Xiaolong Qi, Zicheng Jiang, QIAN YU, Chuxiao Shao, Hongguang Zhang, Hongmei Yue, Baoyi Ma, Yuancheng Wang, Chuan Liu, Xiangpan Meng, Shan Huang, Jitao Wang, Dan Xu, Junqiang Lei, Guanghang Xie, Huihong Huang, Jie Yang, Jiansong Ji, Hongqiu Pan, Shengqiang Zou, Shenghong Ju*
 
-1. **"Deep learning-based model for detecting 2019 novel coronavirus pneumonia on high-resolution computed tomography: a prospective study."** medRxiv, 2020. <br>
+1. **"Deep learning-based model for detecting 2019 novel coronavirus pneumonia on high-resolution computed tomography: a prospective study."** medRxiv 2020.02.25.20021568, 2020. <br>
 doi: https://doi.org/10.1101/2020.02.25.20021568
 
     *Jun Chen, Lianlian Wu, Jun Zhang, Liang Zhang, Dexin Gong, Yilin Zhao, Shan Hu, Yonggui Wang, Xiao Hu, Biqing Zheng, Kuo Zhang, Huiling Wu, Zehua Dong, Youming Xu, Yijie Zhu, Xi Chen, Lilei Yu, Honggang Yu*
@@ -255,13 +255,13 @@ doi: https://doi.org/10.1016/j.jpha.2020.03.004
     *Cong Shen, Nan Yu, Shubo Cai, Jie Zhou, Jiexin Sheng, Kang Liu, Heping Zhou, Youmin Guo, Gang Niu*
 
 
-1. **"Deep learning Enables Accurate Diagnosis of Novel Coronavirus (COVID-19) with CT images."** medRxiv, 2020. <br>
+1. **"Deep learning Enables Accurate Diagnosis of Novel Coronavirus (COVID-19) with CT images."** medRxiv 2020.02.23.20026930, 2020. <br>
 doi: https://doi.org/10.1101/2020.02.23.20026930
 
     *Ying Song,  Shuangjia Zheng, Liang Li, Xiang Zhang, Xiaodong Zhang, Ziwang Huang, Jianwen Chen, Huiying Zhao, Yusheng Jie, Ruixuan Wang, Yutian Chong,  Jun Shen,  Yunfei Zha,  Yuedong Yang*
 
 
-1. **"Development and Evaluation of an AI System for COVID-19 Diagnosis."** medRxiv, 2020. <br>
+1. **"Development and Evaluation of an AI System for COVID-19 Diagnosis."** medRxiv 2020.03.20.20039834, 2020. <br>
 doi: https://doi.org/10.1101/2020.03.20.20039834
 
     *Cheng Jin, Weixiang Chen, Yukun Cao, Zhanwei Xu, Xin Zhang, Lei Deng, Chuansheng Zheng, Jie Zhou, Heshui Shi, Jianjiang Feng*
@@ -332,7 +332,7 @@ arXiv: https://arxiv.org/abs/2004.01184
 
     *Nour Eldeen M. Khalifa, Mohamed Hamed N. Taha, Aboul Ella Hassanien, Sally Elghamrawy*
 
-1. **"Automatic X-ray COVID-19 Lung Image Classification System based on Multi-Level Thresholding and Support Vector Machine."** medRxiv, 2020. <br>
+1. **"Automatic X-ray COVID-19 Lung Image Classification System based on Multi-Level Thresholding and Support Vector Machine."** medRxiv 2020.03.30.20047787, 2020. <br>
 doi: https://doi.org/10.1101/2020.03.30.20047787
 
     *Aboul Ella Hassanien Sr., Lamia Nabil Mahdy Jr., Kadry Ali Ezzat Jr., Haytham H. Elmousalami Jr., Hassan Aboul Ella Jr.*
@@ -343,7 +343,7 @@ arXiv: https://arxiv.org/abs/2003.11617
 
     *Ioannis D. Apostolopoulos, Tzani Bessiana*
 
-1. **"Classification of Coronavirus Images using Shrunken Features."** medRxiv, 2020. <br>
+1. **"Classification of Coronavirus Images using Shrunken Features."** medRxiv 2020.04.03.20048868, 2020. <br>
 doi: https://doi.org/10.1101/2020.04.03.20048868
 
     *Saban Ozturk, Umut Ozkaya, Mucahid Barstugan*
@@ -379,5 +379,15 @@ arXiv: https://arxiv.org/abs/2004.04582
     *Md. Rezaul Karim, Till Döhmen, Dietrich Rebholz-Schuhmann, Stefan Decker, Michael Cochez, Oya Beyan*
 
 
+1. **"Artificial intelligence applied on chest X-ray can aid in the diagnosis of COVID-19 infection: a first experience from Lombardy, Italy."** medRxiv 2020.04.08.20040907, 2020. <br>
+doi: https://doi.org/10.1101/2020.04.08.20040907
+
+    *Isabella Castiglioni, Davide Ippolito, Matteo Interlenghi, Caterina Beatrice Monti, Christian Salvatore, Simone Schiaffino, Annalisa Polidori, Davide Gandola, Cristina Messa, Francesco Sardanelli*
+
+1. **"Can AI help in screening Viral and COVID-19 pneumonia?"** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2003.13145
+
+    *Muhammad E. H. Chowdhury, Tawsifur Rahman, Amith Khandakar, Rashid Mazhar, Muhammad Abdul Kadir, Zaid Bin Mahbub, Khandakar R. Islam, Muhammad Salman Khan, Atif Iqbal, Nasser Al-Emadi, Mamun Bin Ibne Reaz*
 
 
+    
