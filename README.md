@@ -4,7 +4,7 @@ We are collecting the COVID-19 imaging-based AI research papers and datasets. If
 
 Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Dengping Fan*](https://dpfan.net/), [*Geng Chen*](https://www.researchgate.net/profile/Geng_Chen13), and [*Tao Zhou*](https://taozh2017.github.io).
 
---- *Last updated: 2020/04/11* ---
+--- *Last updated: 2020/04/12* ---
 
 ## Content :
 
@@ -14,7 +14,9 @@ Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Dengping Fan*](https://
 4. <a href="#technical"> AI-related Technical Papers </a>
     1. <a href="#technical_CT"> CT-based methods: </a>
     1. <a href="#technical_CXR"> CXR-based methods: </a>
-
+5. See COVID-19 preprints from: 
+    1. [arXiv](https://arxiv.org/covid19search)
+    1. [medRxiv and bioRxiv](https://connect.biorxiv.org/relate/content/181)
 
 ## Survey and comments:  <a id="survey" class="anchor" href="#survey" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
 
@@ -52,6 +54,7 @@ arXiv: https://arxiv.org/abs/2003.11336 <br>
 
 ## Datasets: <a id="dataset" class="anchor" href="#dataset" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
+
 1. **"COVID-19 image data collection."** arXiv, 2020. <br>
 arXiv: https://arxiv.org/abs/2003.11597 <br>
 GitHub: https://github.com/ieee8023/covid-chestxray-dataset
@@ -84,6 +87,11 @@ Link: https://www.sirm.org/category/senza-categoria/covid-19/
 
 1. **"Radiopaedia: COVID-19"**<br>
 Link: https://radiopaedia.org/articles/covid-19-3
+
+1. **"COVID-19: A Survey on Public Medical Imaging Data Resources."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2004.04569 
+
+    *Roman Kalkreuth, Paul Kaufmann*
 
 ## Imaging-based Clinical Papers: <a id="clinical" class="anchor" href="#clinical" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
