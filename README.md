@@ -17,6 +17,10 @@ Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Dengping Fan*](https://
 5. See COVID-19 preprints from: 
     1. [arXiv](https://arxiv.org/covid19search)
     1. [medRxiv and bioRxiv](https://connect.biorxiv.org/relate/content/181)
+6. COVID-19 Special Issue CFP: 
+    1. [IEEE T-MI Special Issue on "Imaging-based Diagnosis of COVID-19"](http://uat.embs.org/wp-content/uploads/2020/03/Special_Issue_CFP_COVID-19.pdf)
+    1. [IEEE J-BHI Special Issue on "AI-driven Informatics, Sensing, Imaging and Big Data Analytics for Fighting the COVID-19 Pandemic"](https://www.embs.org/ai-driven-informatics-sensing-imaging-and-big-data-analytics-for-fighting-the-covid-19-pandemic/)
+
 
 ## Survey and comments:  <a id="survey" class="anchor" href="#survey" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
 
