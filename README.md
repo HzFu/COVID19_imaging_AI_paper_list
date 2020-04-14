@@ -19,7 +19,7 @@ Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Deng-Ping Fan*](https:/
 5. See COVID-19 papers from: 
     1. [arXiv](https://arxiv.org/covid19search)
     1. [medRxiv and bioRxiv](https://connect.biorxiv.org/relate/content/181)
-    1. [Radiology](https://pubs.rsna.org/2019-ncov)
+    1. [RSNA](https://www.rsna.org/covid-19)
     1. [JAMA](https://jamanetwork.com/journals/jama/pages/coronavirus-alert)
     1. [NEJM](https://www.nejm.org/coronavirus)
     1. [Science](https://www.sciencemag.org/collections/coronavirus)
