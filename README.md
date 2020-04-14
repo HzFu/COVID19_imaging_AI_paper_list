@@ -1,6 +1,6 @@
 # COVID-19 Imaging-based AI Research Collection
 
-We are collecting the COVID-19 imaging-based AI research papers and datasets. If you have paper to recommend or any suggestions, please feel free to contact us. 
+This is a collection of COVID-19 imaging-based AI research papers and datasets. If you have paper to recommend or any suggestions, please feel free to contact us. 
 
 Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Deng-Ping Fan*](https://dpfan.net/), [*Geng Chen*](https://www.researchgate.net/profile/Geng_Chen13), and [*Tao Zhou*](https://taozh2017.github.io).
 
@@ -21,12 +21,20 @@ Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Deng-Ping Fan*](https:/
 4. <a href="#technical"> AI-related Technical Papers </a>
     1. <a href="#technical_CT"> CT-based methods: </a>
     1. <a href="#technical_CXR"> CXR-based methods: </a>
-5. See COVID-19 preprints from: 
+5. See COVID-19 papers from: 
     1. [arXiv](https://arxiv.org/covid19search)
     1. [medRxiv and bioRxiv](https://connect.biorxiv.org/relate/content/181)
+    1. [Radiology](https://pubs.rsna.org/2019-ncov)
+    1. [JAMA](https://jamanetwork.com/journals/jama/pages/coronavirus-alert)
+    1. [NEJM](https://www.nejm.org/coronavirus)
+    1. [Science](https://www.sciencemag.org/collections/coronavirus)
+    1. [PNAS](https://www.pnas.org/covid-19)
 6. COVID-19 Special Issue CFP: 
     1. [IEEE T-MI Special Issue on "Imaging-based Diagnosis of COVID-19"](http://uat.embs.org/wp-content/uploads/2020/03/Special_Issue_CFP_COVID-19.pdf)
     1. [IEEE J-BHI Special Issue on "AI-driven Informatics, Sensing, Imaging and Big Data Analytics for Fighting the COVID-19 Pandemic"](https://www.embs.org/ai-driven-informatics-sensing-imaging-and-big-data-analytics-for-fighting-the-covid-19-pandemic/)
+7. COVID-19 World Dashboard:
+    1. From: [World Health Organization (WHO)](https://covid19.who.int)
+    1. From: [Johns Hopkins University (JHU)](https://coronavirus.jhu.edu/map.html)
 
 
 ------
