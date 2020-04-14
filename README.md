@@ -4,7 +4,7 @@ We are collecting the COVID-19 imaging-based AI research papers and datasets. If
 
 Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Dengping Fan*](https://dpfan.net/), [*Geng Chen*](https://www.researchgate.net/profile/Geng_Chen13), and [*Tao Zhou*](https://taozh2017.github.io).
 
---- *Last updated: 2020/04/12* ---
+--- *Last updated: 2020/04/14* ---
 
 ## Content :
 
@@ -25,6 +25,10 @@ arXiv: https://arxiv.org/abs/2004.02731
 
     *Feng Shi, Jun Wang, Jun Shi, Ziyan Wu, Qian Wang, Zhenyu Tang, Kelei He, Yinghuan Shi, Dinggang Shen*
 
+1. **"Detection of Covid-19 From Chest X-ray Images Using Artificial Intelligence: An Early Review."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2004.05436
+
+    *Muhammad Ilyas, Hina Rehman, Amine Nait-ali*
 
 1. **"Artificial Intelligence against COVID-19: An Early Review."** IZA Discussion Papers 13110, Institute of Labor Economics (IZA), 2020. <br>
 Link: http://ftp.iza.org/dp13110.pdf
@@ -299,6 +303,13 @@ arXiv: https://arxiv.org/abs/2004.03698
 
     *Umut Ozkaya, Saban Ozturk, Mucahid Barstugan*
 
+1. **"Residual Attention U-Net for Automated Multi-Class Segmentation of COVID-19 Chest CT Images."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2004.05645
+
+    *Xiaocong Chen, Lina Yao, Yu Zhang*
+
+
+
 ### CXR-based methods: <a id="technical_CXR" class="anchor" href="#technical_CXR" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
 
@@ -397,5 +408,17 @@ arXiv: https://arxiv.org/abs/2003.13145
 
     *Muhammad E. H. Chowdhury, Tawsifur Rahman, Amith Khandakar, Rashid Mazhar, Muhammad Abdul Kadir, Zaid Bin Mahbub, Khandakar R. Islam, Muhammad Salman Khan, Atif Iqbal, Nasser Al-Emadi, Mamun Bin Ibne Reaz*
 
+1. **"Deep Learning COVID-19 Features on CXR using Limited Training Data Sets."** arXiv, 2020.<br>
+arXiv: https://arxiv.org/abs/2004.05758
 
-    
+    *Yujin Oh, Sangjoon Park, Jong Chul Ye*
+
+1. **"Towards an Efficient Deep Learning Model for COVID-19 Patterns Detection in X-ray Images."**  arXiv, 2020. <br>  
+arXiv: https://arxiv.org/abs/2004.05717
+
+    *Eduardo Luz, Pedro Lopes Silva, Rodrigo Silva, Gladston Moreira*
+
+1. **"Unveiling COVID-19 from Chest X-ray with deep learning: a hurdles race with small data."**  arXiv, 2020. <br>  
+arXiv: https://arxiv.org/abs/2004.05405
+
+    *Enzo Tartaglione, Carlo Alberto Barbano, Claudio Berzovini, Marco Calandri, Marco Grangetto*
