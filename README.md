@@ -104,7 +104,7 @@ arXiv: https://arxiv.org/abs/2004.04569
 ## Imaging-based Clinical Papers: <a id="clinical" class="anchor" href="#clinical" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
 1. **"Sensitivity of Chest CT for COVID-19: Comparison to RT-PCR."** Radiology, 2020. <br>
-doi: https://doi.org/10.1148/radiol.2020201237
+doi: https://doi.org/10.1148/radiol.2020200432
 
     *Yicheng Fang, Huangqi Zhang, Jicheng Xie, Minjie Lin, Lingjun Ying, Peipei Pang, and Wenbin Ji*
 
