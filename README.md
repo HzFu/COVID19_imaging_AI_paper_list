@@ -1,13 +1,11 @@
 # COVID-19 Imaging-based AI Research Collection
 
-We are collecting the COVID-19 imaging-based AI research papers and datasets. If you have paper to recommend or any suggestions, please feel free to contact us. 
-
-Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Deng-Ping Fan*](https://dpfan.net/), [*Geng Chen*](https://www.researchgate.net/profile/Geng_Chen13), and [*Tao Zhou*](https://taozh2017.github.io).
+We are collecting the COVID-19 imaging-based AI research papers and datasets. If you have paper to recommend or any suggestions, please feel free to contact us (Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Deng-Ping Fan*](https://dpfan.net/), [*Geng Chen*](https://www.researchgate.net/profile/Geng_Chen13), and [*Tao Zhou*](https://taozh2017.github.io)).
 
 If you find this repo helpful, please cite it as follows:
 
 ```
-@misc{COVID-19-Imaging-AI-Collection,
+@misc{COVID19-AI-Collection,
 howpublished = {\url{https://github.com/HzFu/COVID19_imaging_AI_paper_list}},   
 title = {{COVID-19 Imaging-based AI Research Collection}},  
 author = {Fu, Huazhu and Fan, Deng-Ping and Chen, Geng and Zhou, Tao}  
