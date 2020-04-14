@@ -1,10 +1,25 @@
 # COVID-19 Imaging-based AI Research Collection
 
-We are collecting the COVID-19 imaging-based AI research papers and datasets. If you have paper to recommend or any suggestions, please feel free to contact us.</p>
+We are collecting the COVID-19 imaging-based AI research papers and datasets. If you have paper to recommend or any suggestions, please feel free to contact us. 
 
-Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Dengping Fan*](https://dpfan.net/), [*Geng Chen*](https://www.researchgate.net/profile/Geng_Chen13), and [*Tao Zhou*](https://taozh2017.github.io).
+Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Deng-Ping Fan*](https://dpfan.net/), [*Geng Chen*](https://www.researchgate.net/profile/Geng_Chen13), and [*Tao Zhou*](https://taozh2017.github.io).
+
+If you find this repo helpful, please cite it as follows:
+
+```
+@misc{COVID-19-Imaging-AI-Collection,
+howpublished = {\url{https://github.com/HzFu/COVID19_imaging_AI_paper_list}},   
+title = {{COVID-19 Imaging-based AI Research Collection}},  
+author = {Fu, Huazhu and Fan, Deng-Ping and Chen, Geng and Zhou, Tao}  
+}  
+```
 
 --- *Last updated: 2020/04/14* ---
+
+
+
+
+------
 
 ## Content :
 
@@ -21,6 +36,8 @@ Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Dengping Fan*](https://
     1. [IEEE T-MI Special Issue on "Imaging-based Diagnosis of COVID-19"](http://uat.embs.org/wp-content/uploads/2020/03/Special_Issue_CFP_COVID-19.pdf)
     1. [IEEE J-BHI Special Issue on "AI-driven Informatics, Sensing, Imaging and Big Data Analytics for Fighting the COVID-19 Pandemic"](https://www.embs.org/ai-driven-informatics-sensing-imaging-and-big-data-analytics-for-fighting-the-covid-19-pandemic/)
 
+
+------
 
 ## Survey and comments:  <a id="survey" class="anchor" href="#survey" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
 
@@ -59,6 +76,8 @@ arXiv: https://arxiv.org/abs/2003.11336 <br>
 
     *Joseph Bullock, Alexandra (Sasha)Luccioni, Katherine Hoffmann Pham, Cynthia Sin Nga Lam, Miguel Luengo-Oroz*
 
+
+------
 
 ## Datasets: <a id="dataset" class="anchor" href="#dataset" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
@@ -100,6 +119,10 @@ Link: https://radiopaedia.org/articles/covid-19-3
 arXiv: https://arxiv.org/abs/2004.04569 
 
     *Roman Kalkreuth, Paul Kaufmann*
+
+
+------
+
 
 ## Imaging-based Clinical Papers: <a id="clinical" class="anchor" href="#clinical" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
@@ -189,6 +212,10 @@ doi: https://doi.org/10.1007/s00330-020-06817-6
 doi: https://doi.org/10.1148/radiol.2020201365
 
     *Geoffrey D. Rubin, Christopher J. Ryerson, Linda B. Haramati, Nicola Sverzellati, Jeffrey P. Kanne, Suhail Raoof, Neil W. Schluger, Annalisa Volpi, Jae-Joon Yim, Ian B. K. Martin, Deverick J. Anderson, Christina Kong, Talissa Altes, Andrew Bush, Sujal R. Desai, Jonathan Goldin, Jin Mo Goo, Marc Humbert, Yoshikazu Inoue, Hans-Ulrich Kauczor, Fengming Luo, Peter J. Mazzone, Mathias Prokop, Martine Remy-Jardin, Luca Richeldi, Cornelia M. Schaefer-Prokop, Noriyuki Tomiyama, Athol U. Wells, and Ann N. Leung*
+
+
+------
+
 
 ## AI-related Technical Papers: <a id="technical" class="anchor" href="#technical" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
@@ -426,3 +453,9 @@ arXiv: https://arxiv.org/abs/2004.05717
 arXiv: https://arxiv.org/abs/2004.05405
 
     *Enzo Tartaglione, Carlo Alberto Barbano, Claudio Berzovini, Marco Calandri, Marco Grangetto*
+
+1. **"COVID-MobileXpert: On-Device COVID-19 Screening using Snapshots of Chest X-Ray."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2004.03042
+
+    *Xin Li, Chengyin Li, Dongxiao Zhu*
+
