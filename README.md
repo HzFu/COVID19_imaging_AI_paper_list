@@ -1,4 +1,4 @@
-# COVID-19 Imaging-based AI Research Paper Collection
+# COVID-19 Imaging-based AI Research Collection
 
 We are collecting the COVID-19 imaging-based AI research papers and datasets. If you have paper to recommend or any suggestions, please feel free to contact us.</p>
 
