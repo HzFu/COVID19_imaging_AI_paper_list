@@ -13,7 +13,7 @@ Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Deng-Ping Fan*](https:/
 
 ------
 
-## Content :
+## Content:
 
 1. <a href="#survey"> Survey and comments </a>
 2. <a href="#dataset"> Datasets </a>
