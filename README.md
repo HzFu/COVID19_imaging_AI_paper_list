@@ -334,7 +334,15 @@ arXiv: https://arxiv.org/abs/2004.05645
 
     *Xiaocong Chen, Lina Yao, Yu Zhang*
 
+1. **"Weakly Supervised Deep Learning for COVID-19 Infection Detection and Classification from CT Images."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2004.06689
 
+    *Shaoping Hu, Yuan Gao, Zhangming Niu, Yinghui Jiang, Lao Li, Xianglu Xiao, Minhao Wang, Evandro Fei Fang, Wade Menpes-Smith, Jun Xia, Hui Ye, Guang Yang*
+
+1. **"An automatic COVID-19 CT segmentation based on U-Net with attention mechanism."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2004.06673
+
+    *Tongxue Zhou, Stéphane Canu, Su Ruan*
 
 ### CXR-based methods: <a id="technical_CXR" class="anchor" href="#technical_CXR" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
