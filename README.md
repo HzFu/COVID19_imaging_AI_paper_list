@@ -218,10 +218,7 @@ doi: https://doi.org/10.1148/radiol.2020201365
 
 ### CT-based methods: <a id="technical_CT" class="anchor" href="#technical_CT" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
-1. **"Inf-Net: Automatic COVID-19 Lung Infection Segmentation from CT Scans."** preprint, 2020. <br>
-pdf: http://dpfan.net/wp-content/uploads/2020TMISubmissionInfNet.pdf
 
-    *Deng-Ping Fan, Tao Zhou, Ge-Peng Ji, Yi Zhou, Geng Chen, Huazhu Fu, Jianbing Shen, and Ling Shao*
     
 1. **"A deep learning algorithm using CT images to screen for Corona Virus Disease (COVID-19)."** medRxiv 2020.02.14.20023028, 2020. <br>
 doi: https://doi.org/10.1101/2020.02.14.20023028
@@ -349,7 +346,10 @@ arXiv: https://arxiv.org/abs/2004.06673
 
     *Tongxue Zhou, Stéphane Canu, Su Ruan*
 
+1. **"Inf-Net: Automatic COVID-19 Lung Infection Segmentation from CT Scans."** preprint, 2020. <br>
+pdf: http://dpfan.net/wp-content/uploads/2020TMISubmissionInfNet.pdf
 
+    *Deng-Ping Fan, Tao Zhou, Ge-Peng Ji, Yi Zhou, Geng Chen, Huazhu Fu, Jianbing Shen, and Ling Shao*
 
 
 1. **"Sample-Efficient Deep Learning for COVID-19 Diagnosis Based on CT Scans."** preprint, 2020. <br>
