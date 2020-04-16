@@ -24,6 +24,7 @@ Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Deng-Ping Fan*](https:/
     1. [NEJM](https://www.nejm.org/coronavirus)
     1. [Science](https://www.sciencemag.org/collections/coronavirus)
     1. [PNAS](https://www.pnas.org/covid-19)
+    1. [The Lancet](https://www.thelancet.com/coronavirus)
 6. COVID-19 Special Issue CFP: 
     1. [IEEE T-MI Special Issue on "Imaging-based Diagnosis of COVID-19"](http://uat.embs.org/wp-content/uploads/2020/03/Special_Issue_CFP_COVID-19.pdf)
     1. [IEEE J-BHI Special Issue on "AI-driven Informatics, Sensing, Imaging and Big Data Analytics for Fighting the COVID-19 Pandemic"](https://www.embs.org/ai-driven-informatics-sensing-imaging-and-big-data-analytics-for-fighting-the-covid-19-pandemic/)
@@ -217,11 +218,15 @@ doi: https://doi.org/10.1148/radiol.2020201365
 
 ### CT-based methods: <a id="technical_CT" class="anchor" href="#technical_CT" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
+1. **"Inf-Net: Automatic COVID-19 Lung Infection Segmentation from CT Scans."** preprint, 2020. <br>
+pdf: http://dpfan.net/wp-content/uploads/2020TMISubmissionInfNet.pdf
 
+    *Deng-Ping Fan, Tao Zhou, Ge-Peng Ji, Yi Zhou, Geng Chen, Huazhu Fu, Jianbing Shen, and Ling Shao*
+    
 1. **"A deep learning algorithm using CT images to screen for Corona Virus Disease (COVID-19)."** medRxiv 2020.02.14.20023028, 2020. <br>
 doi: https://doi.org/10.1101/2020.02.14.20023028
 
-    *Shuai Wang, Bo Kang, Jinlu Ma, Xianjun Zeng, Mingming Xiao, Jia Guo, Mengjiao Cai, Jingyi Yang, Yaodong Li, Xiangfei Meng, Bo Xu.*
+    *Shuai Wang, Bo Kang, Jinlu Ma, Xianjun Zeng, Mingming Xiao, Jia Guo, Mengjiao Cai, Jingyi Yang, Yaodong Li, Xiangfei Meng, Bo Xu*
 
 1. **"Deep Learning System to Screen Coronavirus Disease 2019 Pneumonia."** arXiv, 2020. <br>
 arXiv: https://arxiv.org/abs/2002.09334
@@ -344,6 +349,15 @@ arXiv: https://arxiv.org/abs/2004.06673
 
     *Tongxue Zhou, Stéphane Canu, Su Ruan*
 
+
+
+
+1. **"Sample-Efficient Deep Learning for COVID-19 Diagnosis Based on CT Scans."** preprint, 2020. <br>
+pdf: https://pengtaoxie.github.io/covid-ct-method.pdf
+
+    *Xuehai He, Xingyi Yang, Shanghang Zhang, Jinyu Zhao, Yichen Zhang, Eric Xing, Pengtao Xie*
+
+
 ### CXR-based methods: <a id="technical_CXR" class="anchor" href="#technical_CXR" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
 
@@ -462,6 +476,20 @@ arXiv: https://arxiv.org/abs/2004.03042
 
     *Xin Li, Chengyin Li, Dongxiao Zhu*
 
+1. **"COVID-19 identification in chest X-ray images on flat and hierarchical classification scenarios."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2004.05835
+
+    *Rodolfo M. Pereira, Diego Bertolini, Lucas O. Teixeira, Carlos N. Silla Jr., Yandre M. G. Costa*
+
+1. **"Cardiac or Infectious? Transfer Learning with Chest X-Rays for ER Patient Classification."** medRxiv 2020.04.11.20062091, 2020. <br>
+doi: https://doi.org/10.1101/2020.04.11.20062091
+
+    *Jonathan Stubblefield, Mitchell Hervert, Jason Causey, Jake Qualls, Wei Dong, Lingrui Cai, Jennifer Fowler, Emily Bellis, Karl Walker, Jason H. Moore, Sara Nehring, Xiuzhen Huang*
+
+1. **"Classification of Coronavirus Images using Shrunken Features."** medRxiv 2020.04.03.20048868, 2020. <br>
+doi: https://doi.org/10.1101/2020.04.03.20048868
+
+    *Saban Ozturk, Umut Ozkaya, Mucahid Barstugan*
 
 ------
 
