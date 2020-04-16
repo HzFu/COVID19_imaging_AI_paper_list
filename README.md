@@ -357,6 +357,10 @@ pdf: https://pengtaoxie.github.io/covid-ct-method.pdf
 
     *Xuehai He, Xingyi Yang, Shanghang Zhang, Jinyu Zhao, Yichen Zhang, Eric Xing, Pengtao Xie*
 
+1. **"JCS: An Explainable COVID-19 Diagnosis System by Joint Classification and Segmentation."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2004.07054
+
+    *Yu-Huan Wu, Shang-Hua Gao, Jie Mei, Jun Xu, Deng-Ping Fan, Chao-Wei Zhao, Ming-Ming Cheng*
 
 ### CXR-based methods: <a id="technical_CXR" class="anchor" href="#technical_CXR" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
