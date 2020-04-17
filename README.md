@@ -362,6 +362,19 @@ arXiv: https://arxiv.org/abs/2004.07054
 
     *Yu-Huan Wu, Shang-Hua Gao, Jie Mei, Jun Xu, Deng-Ping Fan, Chao-Wei Zhao, Ming-Ming Cheng*
 
+1. **"Contextual Two-Stage U-Nets for Robust Pulmonary Lobe Segmentation in CT Scans of COVID-19 and COPD Patients."** arXiv, 2020<br>
+arXiv: https://arxiv.org/abs/2004.07443
+
+    *Weiyi Xie, Colin Jacobs, Jean-Paul Charbonnier, Bram van Ginneken*
+
+
+
+1. **"Radiologist-Level COVID-19 Detection Using CT Scans with Detail-Oriented Capsule Networks."** arXiv, 2020<br>
+arXiv: https://arxiv.org/abs/2004.07407
+
+    *Aryan Mobiny, Pietro Antonio Cicalese, Samira Zare, Pengyu Yuan, Mohammadsajad Abavisani, Carol C. Wu, Jitesh Ahuja, Patricia M. de Groot, Hien Van Nguyen*
+
+
 ### CXR-based methods: <a id="technical_CXR" class="anchor" href="#technical_CXR" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
 
