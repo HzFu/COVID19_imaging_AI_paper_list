@@ -352,8 +352,8 @@ pdf: http://dpfan.net/wp-content/uploads/2020TMISubmissionInfNet.pdf
     *Deng-Ping Fan, Tao Zhou, Ge-Peng Ji, Yi Zhou, Geng Chen, Huazhu Fu, Jianbing Shen, and Ling Shao*
 
 
-1. **"Sample-Efficient Deep Learning for COVID-19 Diagnosis Based on CT Scans."** preprint, 2020. <br>
-pdf: https://pengtaoxie.github.io/covid-ct-method.pdf
+1. **"Sample-Efficient Deep Learning for COVID-19 Diagnosis Based on CT Scans."** medRxiv, 2020. <br>
+doi: 10.1101/2020.04.13.20063941
 
     *Xuehai He, Xingyi Yang, Shanghang Zhang, Jinyu Zhao, Yichen Zhang, Eric Xing, Pengtao Xie*
 
@@ -367,12 +367,16 @@ arXiv: https://arxiv.org/abs/2004.07443
 
     *Weiyi Xie, Colin Jacobs, Jean-Paul Charbonnier, Bram van Ginneken*
 
-
-
 1. **"Radiologist-Level COVID-19 Detection Using CT Scans with Detail-Oriented Capsule Networks."** arXiv, 2020<br>
 arXiv: https://arxiv.org/abs/2004.07407
 
     *Aryan Mobiny, Pietro Antonio Cicalese, Samira Zare, Pengyu Yuan, Mohammadsajad Abavisani, Carol C. Wu, Jitesh Ahuja, Patricia M. de Groot, Hien Van Nguyen*
+
+1. **"Machine Learning Analysis of Chest CT Scan Images as a Complementary Digital Test of Coronavirus (COVID-19) Patients."** medRxiv 2020.04.13.20063479, 2020. <br>
+doi: https://doi.org/10.1101/2020.04.13.20063479
+
+    *Dhurgham Al-karawi, Shakir Al-Zaidi, Nisreen Polus, Sabah Jassim*
+
 
 
 ### CXR-based methods: <a id="technical_CXR" class="anchor" href="#technical_CXR" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
@@ -507,6 +511,18 @@ doi: https://doi.org/10.1101/2020.04.11.20062091
 doi: https://doi.org/10.1101/2020.04.03.20048868
 
     *Saban Ozturk, Umut Ozkaya, Mucahid Barstugan*
+
+1. **"Effectiveness Of Baseline And Post-Processed Chest X-Ray In Nonearly COVID-19 Patients."** medRxiv 2020.04.16.20061044, 2020. <br>
+https://doi.org/10.1101/2020.04.16.20061044
+
+    *Michele Gaeta, Giuseppe Cicero, Maria Adele Marino, Tommaso D'Angelo, Enrico Maria Mormina, Silvio Mazziotti, Alfredo Blandino, Giulio Siracusano, Aurelio La Corte, Massimo Chiappini, Giovanni Finocchio*
+
+1. **"Accurate Prediction of COVID-19 using Chest X-Ray Images through Deep Feature Learning model with SMOTE and Machine Learning Classifiers."** medRxiv 2020.04.13.20063461, 2020. <br>
+doi: https://doi.org/10.1101/2020.04.13.20063461
+
+    *Rahul Kumar, Ridhi Arora, Vipul Bansal, Vinodh J Sahayasheela, Himanshu Buckchash, Javed Imran, Narayanan Narayanan, Ganesh N Pandian, Balasubramanian Raman*
+
+
 
 ------
 
