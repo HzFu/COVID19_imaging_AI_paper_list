@@ -116,6 +116,10 @@ arXiv: https://arxiv.org/abs/2004.04569
 
     *Roman Kalkreuth, Paul Kaufmann*
 
+1. **"COVID-19 CT Lung and Infection Segmentation Dataset."**
+doi: http://doi.org/10.5281/zenodo.3757476
+
+    *Jun Ma,  Cheng Ge,  Yixin Wang,   Xingle An,  Jiantao Gao,  Ziqi Yu, Minqing Zhang, Xin Liu, Xueyuan Deng,  Shucheng Cao, Hao Wei,  Sen Mei,  Xiaoyu Yang,  Ziwei Nie, Chen Li,  Lu Tian, Yuntao Zhu, Qiongjie Zhu,  Guoqiang Dong, Jian He*
 
 ------
 
