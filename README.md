@@ -526,7 +526,15 @@ doi: https://doi.org/10.1101/2020.04.13.20063461
 
     *Rahul Kumar, Ridhi Arora, Vipul Bansal, Vinodh J Sahayasheela, Himanshu Buckchash, Javed Imran, Narayanan Narayanan, Ganesh N Pandian, Balasubramanian Raman*
 
+1. **"A New Modified Deep Convolutional Neural Network for Detecting COVID-19 from X-ray Images."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2004.08052
 
+    *Mohammad Rahimzadeh, Abolfazl Attar*
+
+1. **"Iteratively Pruned Deep Learning Ensembles for COVID-19 Detection in Chest X-rays."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2004.08379
+
+    *Sivaramakrishnan Rajaraman, Jen Siegelman, Philip O. Alderson, Lucas S. Folio, Les R. Folio, Sameer K. Antani*
 
 ------
 
