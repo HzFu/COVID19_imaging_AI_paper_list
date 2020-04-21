@@ -37,8 +37,8 @@ Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Deng-Ping Fan*](https:/
 
 ## Survey and comments:  <a id="survey" class="anchor" href="#survey" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
 
-1. **"Review of Artificial Intelligence Techniques in Imaging Data Acquisition, Segmentation and Diagnosis for COVID-19."** arXiv, 2020. <br>
-arXiv: https://arxiv.org/abs/2004.02731
+1. **"Review of Artificial Intelligence Techniques in Imaging Data Acquisition, Segmentation and Diagnosis for COVID-19."** IEEE Reviews in Biomedical Engineering, 2020. <br>
+doi: https://doi.org/10.1109/RBME.2020.2987975
 
     *Feng Shi, Jun Wang, Jun Shi, Ziyan Wu, Qian Wang, Zhenyu Tang, Kelei He, Yinghuan Shi, Dinggang Shen*
 
@@ -47,8 +47,8 @@ arXiv: https://arxiv.org/abs/2004.05436
 
     *Muhammad Ilyas, Hina Rehman, Amine Nait-ali*
 
-1. **"Computer Vision For COVID-19 Control: A Survey."** engrXiv, 15 Apr. 2020. Web. <br>
-doi: https://doi.org/10.31224/osf.io/yt9sx
+1. **"Computer Vision For COVID-19 Control: A Survey."** arXiv, 2020.  <br>
+arXiv: https://arxiv.org/abs/2004.09420 
 
     *Anwaar Ulhaq Asim Khan Douglas Gomes Manoranjan Paul*
 
