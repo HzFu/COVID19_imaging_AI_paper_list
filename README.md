@@ -556,6 +556,12 @@ arXiv: https://arxiv.org/abs/2004.00338
 
     *Ioannis D. Apostolopoulos, Sokratis Aznaouridis, Mpesiana Tzani*
 
+1. **"Diagnosing COVID-19 Pneumonia from X-Ray and CT Images using Deep Learning and Transfer Learning Algorithms."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2004.00038
+
+    *Halgurd S. Maghdid, Aras T. Asaad, Kayhan Zrar Ghafoor, Ali Safaa Sadiq, Muhammad Khurram Khan*
+
+
 ------
 
 If you find this repo helpful, please cite it as follows:
