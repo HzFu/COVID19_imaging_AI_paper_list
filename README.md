@@ -47,6 +47,11 @@ arXiv: https://arxiv.org/abs/2004.05436
 
     *Muhammad Ilyas, Hina Rehman, Amine Nait-ali*
 
+1. **"Computer Vision For COVID-19 Control: A Survey."** engrXiv, 15 Apr. 2020. Web. <br>
+doi: https://doi.org/10.31224/osf.io/yt9sx
+
+    *Anwaar Ulhaq Asim Khan Douglas Gomes Manoranjan Paul*
+
 1. **"Artificial Intelligence against COVID-19: An Early Review."** IZA Discussion Papers 13110, Institute of Labor Economics (IZA), 2020. <br>
 Link: http://ftp.iza.org/dp13110.pdf
 
@@ -535,6 +540,21 @@ arXiv: https://arxiv.org/abs/2004.08052
 arXiv: https://arxiv.org/abs/2004.08379
 
     *Sivaramakrishnan Rajaraman, Jen Siegelman, Philip O. Alderson, Lucas S. Folio, Les R. Folio, Sameer K. Antani*
+
+1. **"COVIDX-Net: A Framework of Deep Learning Classifiers to Diagnose COVID-19 in X-Ray Images."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2003.11055
+
+    *Ezz El-Din Hemdan, Marwa A. Shouman, Mohamed Esmail Karar*
+
+1. **"Deep-COVID: Predicting COVID-19 From Chest X-Ray Images Using Deep Transfer Learning."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2004.09363
+
+    *Shervin Minaee, Rahele Kafieh, Milan Sonka, Shakib Yazdani, Ghazaleh Jamalipour Soufi*
+
+1. **"Extracting possibly representative COVID-19 Biomarkers from X-Ray images with Deep Learning approach and image data related to Pulmonary Diseases."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2004.00338
+
+    *Ioannis D. Apostolopoulos, Sokratis Aznaouridis, Mpesiana Tzani*
 
 ------
 
