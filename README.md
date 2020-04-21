@@ -362,7 +362,7 @@ pdf: http://dpfan.net/wp-content/uploads/2020TMISubmissionInfNet.pdf
 
 
 1. **"Sample-Efficient Deep Learning for COVID-19 Diagnosis Based on CT Scans."** medRxiv, 2020. <br>
-doi: 10.1101/2020.04.13.20063941
+doi: https://doi.org/10.1101/2020.04.13.20063941
 
     *Xuehai He, Xingyi Yang, Shanghang Zhang, Jinyu Zhao, Yichen Zhang, Eric Xing, Pengtao Xie*
 
