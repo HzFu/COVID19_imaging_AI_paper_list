@@ -73,7 +73,7 @@ doi: https://doi.org/10.1016/j.crad.2020.03.008
     *A. Nair, J.C.L. Rodrigues, S. Hare, A. Edey, A. Devaraj, J. Jacob, A. Johnstone, R. McStay, Erika Denton, G. Robinson*
 
 1. **Mapping the landscape of artificial intelligence applications against COVID-19.** arXiv, 2020. (Submitted on 25 Mar 2020) <br>
-arXiv: https://arxiv.org/abs/2003.11336 <br>
+arXiv: https://arxiv.org/abs/2003.11336  
 
     *Joseph Bullock, Alexandra (Sasha)Luccioni, Katherine Hoffmann Pham, Cynthia Sin Nga Lam, Miguel Luengo-Oroz*
 
@@ -121,7 +121,7 @@ arXiv: https://arxiv.org/abs/2004.04569
 
     *Roman Kalkreuth, Paul Kaufmann*
 
-1. **"COVID-19 CT Lung and Infection Segmentation Dataset."**
+1. **"COVID-19 CT Lung and Infection Segmentation Dataset."** <br>
 doi: http://doi.org/10.5281/zenodo.3757476
 
     *Jun Ma,  Cheng Ge,  Yixin Wang,   Xingle An,  Jiantao Gao,  Ziqi Yu, Minqing Zhang, Xin Liu, Xueyuan Deng,  Shucheng Cao, Hao Wei,  Sen Mei,  Xiaoyu Yang,  Ziwei Nie, Chen Li,  Lu Tian, Yuntao Zhu, Qiongjie Zhu,  Guoqiang Dong, Jian He*
@@ -386,6 +386,16 @@ doi: https://doi.org/10.1101/2020.04.13.20063479
 
     *Dhurgham Al-karawi, Shakir Al-Zaidi, Nisreen Polus, Sabah Jassim*
 
+1. **"Diagnosis and Prediction Model for COVID19 Patients Response to Treatment based on Convolutional Neural Networks and Whale Optimization Algorithm Using CT Images."** medRxiv 2020.04.16.20063990, 2020. <br>
+doi: https://doi.org/10.1101/2020.04.16.20063990
+
+    *Sally M. ELGhamrawy, Abou Ellah Hassanien*
+
+1. **"MiniSeg: An Extremely Minimum Network for Efficient COVID-19 Segmentation."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2004.09750
+
+    *Yu Qiu, Yun Liu, Jing Xu*
+
 
 
 ### CXR-based methods: <a id="technical_CXR" class="anchor" href="#technical_CXR" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
@@ -561,7 +571,11 @@ arXiv: https://arxiv.org/abs/2004.00038
 
     *Halgurd S. Maghdid, Aras T. Asaad, Kayhan Zrar Ghafoor, Ali Safaa Sadiq, Muhammad Khurram Khan*
 
+1. **"Classification of COVID-19 in chest X-ray images using DeTraC deep convolutional neural network."** medRxiv 2020.03.30.20047456, 2020. <br>
+doi: https://doi.org/10.1101/2020.03.30.20047456
 
+    *Asmaa Abbas, Mohammed Abdelsamea, Mohamed Gaber*
+    
 ------
 
 If you find this repo helpful, please cite it as follows:
