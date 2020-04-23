@@ -396,7 +396,20 @@ arXiv: https://arxiv.org/abs/2004.09750
 
     *Yu Qiu, Yun Liu, Jing Xu*
 
+1. **"Firefly-Algorithm Supported Scheme to Detect COVID-19 Lesion in Lung CT Scan Images using Shannon Entropy and Markov-Random-Field."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2004.09239
 
+    *Venkatesan Rajinikanth, Seifedine Kadry, Krishnan Palani Thanaraj, Krishnamurthy Kamalanand, Sanghyun Seo*
+
+1. **"Automatic Detection of Coronavirus Disease (COVID-19) in X-ray and CT Images: A Machine Learning-Based Approach."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2004.10641
+
+    *Sara Hosseinzadeh Kassani, Peyman Hosseinzadeh Kassasni, Michal J. Wesolowski, Kevin A. Schneider, Ralph Deters*
+
+1. **"AI-Driven CT-based quantification, staging and short-term outcome prediction of COVID-19 pneumonia."** medRxiv 2020.04.17.20069187, 2020. <br>
+doi: https://doi.org/10.1101/2020.04.17.20069187
+
+    *Guillaume Chassagnon, Maria Vakalopoulou, Enzo Battistella, Stergios Christodoulidis, Trieu-Nghi Hoang-Thi, Severine Dangeard, Eric Deutsch, Fabrice Andre, Enora Guillo, Nara Halm, Stefany El Hajj, Florian Bompard, Sophie Neveu, Chahinez Hani, Ines Saab, Alienor Campredon, Hasmik Koulakian, Souhail Bennani, Gael Freche, Aurelien Lombard, Laure Fournier, Hippolyte Monnier, Teodor Grand, Jules Gregory, Antoine Khalil, Elyas Mahdjoub, Pierre-Yves Brillet, Stephane Tran Ba, Valerie Bousson, Marie-Pierre Revel, Nikos Paragios*
 
 ### CXR-based methods: <a id="technical_CXR" class="anchor" href="#technical_CXR" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
@@ -575,7 +588,18 @@ arXiv: https://arxiv.org/abs/2004.00038
 doi: https://doi.org/10.1101/2020.03.30.20047456
 
     *Asmaa Abbas, Mohammed Abdelsamea, Mohamed Gaber*
-    
+
+1. **"Deep Learning for Screening COVID-19 using Chest X-Ray Images."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2004.10507
+
+    *Sanhita Basu, Sushmita Mitra*
+
+1. **"Automatic Detection of Coronavirus Disease (COVID-19) in X-ray and CT Images: A Machine Learning-Based Approach."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2004.10641
+
+    *Sara Hosseinzadeh Kassani, Peyman Hosseinzadeh Kassasni, Michal J. Wesolowski, Kevin A. Schneider, Ralph Deters*
+
+
 ------
 
 If you find this repo helpful, please cite it as follows:
