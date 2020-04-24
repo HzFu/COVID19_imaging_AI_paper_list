@@ -411,6 +411,12 @@ doi: https://doi.org/10.1101/2020.04.17.20069187
 
     *Guillaume Chassagnon, Maria Vakalopoulou, Enzo Battistella, Stergios Christodoulidis, Trieu-Nghi Hoang-Thi, Severine Dangeard, Eric Deutsch, Fabrice Andre, Enora Guillo, Nara Halm, Stefany El Hajj, Florian Bompard, Sophie Neveu, Chahinez Hani, Ines Saab, Alienor Campredon, Hasmik Koulakian, Souhail Bennani, Gael Freche, Aurelien Lombard, Laure Fournier, Hippolyte Monnier, Teodor Grand, Jules Gregory, Antoine Khalil, Elyas Mahdjoub, Pierre-Yves Brillet, Stephane Tran Ba, Valerie Bousson, Marie-Pierre Revel, Nikos Paragios*
 
+1. **"COVID-19 Chest CT Image Segmentation -- A Deep Convolutional Neural Network Solution."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2004.10987
+
+    *Qingsen Yan, Bo Wang, Dong Gong, Chuan Luo, Wei Zhao, Jianhu Shen, Qinfeng Shi, Shuo Jin, Liang Zhang, Zheng You*
+
+
 ### CXR-based methods: <a id="technical_CXR" class="anchor" href="#technical_CXR" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
 
