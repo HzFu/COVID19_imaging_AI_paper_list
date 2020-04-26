@@ -4,7 +4,7 @@ This is a collection of COVID-19 imaging-based AI research papers and datasets. 
 
 Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Deng-Ping Fan*](https://dpfan.net/), [*Geng Chen*](https://www.researchgate.net/profile/Geng_Chen13), and [*Tao Zhou*](https://taozh2017.github.io).
 
---- *Last updated: 2020/04/14* --- 
+--- *Last updated: 2020/04/26* --- 
 
 ------
 
@@ -605,6 +605,10 @@ arXiv: https://arxiv.org/abs/2004.10641
 
     *Sara Hosseinzadeh Kassani, Peyman Hosseinzadeh Kassasni, Michal J. Wesolowski, Kevin A. Schneider, Ralph Deters*
 
+1. **"A web-based Diagnostic Tool for COVID-19 Using Machine Learning on Chest Radiographs (CXR)."** medRxiv 2020.04.21.20063263, 2020. <br>
+doi: https://doi.org/10.1101/2020.04.21.20063263
+
+    *Evariste Bosco Gueguim Kana, Martiale Gaetan Zebaze Kana, Armand F. Donfack Kana, Roussel Hardo Azanfack Kenfack*
 
 ------
 
