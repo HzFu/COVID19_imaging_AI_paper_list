@@ -551,7 +551,7 @@ doi: https://doi.org/10.1101/2020.04.03.20048868
     *Saban Ozturk, Umut Ozkaya, Mucahid Barstugan*
 
 1. **"Effectiveness Of Baseline And Post-Processed Chest X-Ray In Nonearly COVID-19 Patients."** medRxiv 2020.04.16.20061044, 2020. <br>
-https://doi.org/10.1101/2020.04.16.20061044
+doi: https://doi.org/10.1101/2020.04.16.20061044
 
     *Michele Gaeta, Giuseppe Cicero, Maria Adele Marino, Tommaso D'Angelo, Enrico Maria Mormina, Silvio Mazziotti, Alfredo Blandino, Giulio Siracusano, Aurelio La Corte, Massimo Chiappini, Giovanni Finocchio*
 
