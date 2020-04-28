@@ -45,6 +45,11 @@ doi: https://doi.org/10.1109/RBME.2020.2987975
 
     *Feng Shi, Jun Wang, Jun Shi, Ziyan Wu, Qian Wang, Zhenyu Tang, Kelei He, Yinghuan Shi, Dinggang Shen*
 
+1. **"The role of imaging in the detection and management of COVID-19: a review."** IEEE Reviews in Biomedical Engineering, 2020. <br>
+doi: https://doi.org/10.1109/RBME.2020.2990959
+
+    *Di Dong Zhenchao Tang, Shuo Wang, Hui Hui, Lixin Gong, Yao Lu, Zhong Xue, Hongen Liao, Fang Chen, Fan Yang, Ronghua Jin, Kun Wang, Zhenyu Liu, Jingwei Wei, Wei Mu, Hui Zhang, Jingying Jiang, Jie Tian, Hongjun Li*
+    
 1. **"Detection of Covid-19 From Chest X-ray Images Using Artificial Intelligence: An Early Review."** arXiv, 2020. <br>
 arXiv: https://arxiv.org/abs/2004.05436
 
