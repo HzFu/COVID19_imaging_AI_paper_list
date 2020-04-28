@@ -6,7 +6,7 @@ This is a collection of COVID-19 imaging-based AI research papers and datasets. 
 
 Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Deng-Ping Fan*](https://dpfan.net/), [*Geng Chen*](https://www.researchgate.net/profile/Geng_Chen13), and [*Tao Zhou*](https://taozh2017.github.io).
 
---- *Last updated: 2020/04/27* --- 
+--- *Last updated: 2020/04/28* --- 
 
 ------
 
@@ -28,8 +28,9 @@ Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Deng-Ping Fan*](https:/
     1. [PNAS](https://www.pnas.org/covid-19)
     1. [The Lancet](https://www.thelancet.com/coronavirus)
 6. COVID-19 Special Issue CFP: 
-    1. [IEEE T-MI Special Issue on "Imaging-based Diagnosis of COVID-19"](http://uat.embs.org/wp-content/uploads/2020/03/Special_Issue_CFP_COVID-19.pdf)
-    1. [IEEE J-BHI Special Issue on "AI-driven Informatics, Sensing, Imaging and Big Data Analytics for Fighting the COVID-19 Pandemic"](https://www.embs.org/ai-driven-informatics-sensing-imaging-and-big-data-analytics-for-fighting-the-covid-19-pandemic/)
+    1. [**IEEE T-MI:** Special Issue on "Imaging-based Diagnosis of COVID-19"](http://uat.embs.org/wp-content/uploads/2020/03/Special_Issue_CFP_COVID-19.pdf)
+    1. [**IEEE J-BHI:** Special Issue on "AI-driven Informatics, Sensing, Imaging and Big Data Analytics for Fighting the COVID-19 Pandemic"](https://www.embs.org/ai-driven-informatics-sensing-imaging-and-big-data-analytics-for-fighting-the-covid-19-pandemic/)
+    1. [**Medical Image Analysis:** Special Issue on "Intelligent Analysis of COVID-19 Imaging Data"](https://www.journals.elsevier.com/medical-image-analysis/call-for-papers/special-issue-on-intelligent-analysis-of-covid-19-imaging-da)
 7. COVID-19 World Dashboard:
     1. From: [World Health Organization (WHO)](https://covid19.who.int)
     1. From: [Johns Hopkins University (JHU)](https://coronavirus.jhu.edu/map.html)
@@ -87,13 +88,13 @@ arXiv: https://arxiv.org/abs/2003.11336
 
 1. **"COVID-19 image data collection."** arXiv, 2020. <br>
 arXiv: https://arxiv.org/abs/2003.11597 <br>
-GitHub: https://github.com/ieee8023/covid-chestxray-dataset
+dataset: https://github.com/ieee8023/covid-chestxray-dataset
 
     *Joseph Paul Cohen, Paul Morrison, and Lan Dao*
 
 1. **"COVID-CT-Dataset: a CT scan dataset about COVID-19."** arXiv, 2020. <br>
 arXiv: https://arxiv.org/abs/2003.13865 <br>
-GitHub: https://github.com/UCSD-AI4H/COVID-CT
+dataset: https://github.com/UCSD-AI4H/COVID-CT
 
     *Jinyu Zhao, Yichen Zhang, Xuehai He, and Pengtao Xie*
 
@@ -118,15 +119,29 @@ Link: https://www.sirm.org/category/senza-categoria/covid-19/
 1. **"Radiopaedia: COVID-19"**<br>
 Link: https://radiopaedia.org/articles/covid-19-3
 
-1. **"COVID-19: A Survey on Public Medical Imaging Data Resources."** arXiv, 2020. <br>
-arXiv: https://arxiv.org/abs/2004.04569 
 
-    *Roman Kalkreuth, Paul Kaufmann*
+1. **"COVID-19 CT Lung and Infection Segmentation Dataset."** arXiv, 2020. <br>
+doi: http://doi.org/10.5281/zenodo.3757476 <br>
+dataset: https://zenodo.org/record/3757476#.XqgOxS-cZXh
 
-1. **"COVID-19 CT Lung and Infection Segmentation Dataset."** <br>
-doi: http://doi.org/10.5281/zenodo.3757476
+    *Jun Ma, Cheng Ge, Yixin Wang, Xingle An, Jiantao Gao, Ziqi Yu, Minqing Zhang, Xin Liu, Xueyuan Deng, Shucheng Cao, Hao Wei, Sen Mei, Xiaoyu Yang, Ziwei Nie, Chen Li, Lu Tian, Yuntao Zhu, Qiongjie Zhu, Guoqiang Dong, Jian He*
 
-    *Jun Ma,  Cheng Ge,  Yixin Wang,   Xingle An,  Jiantao Gao,  Ziqi Yu, Minqing Zhang, Xin Liu, Xueyuan Deng,  Shucheng Cao, Hao Wei,  Sen Mei,  Xiaoyu Yang,  Ziwei Nie, Chen Li,  Lu Tian, Yuntao Zhu, Qiongjie Zhu,  Guoqiang Dong, Jian He*
+
+1. **"Towards Efficient COVID-19 CT Annotation: A Benchmark for Lung and Infection Segmentation."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2004.12537 <br>
+dataset: https://gitee.com/junma11/COVID-19-CT-Seg-Benchmark
+
+    *Jun Ma, Yixin Wang, Xingle An, Cheng Ge, Ziqi Yu, Jianan Chen, Qiongjie Zhu, Guoqiang Dong, Jian He, Zhiqiang He, Ziwei Nie, Xiaoping Yang*
+
+
+1. **"POCOVID-Net: Automatic Detection of COVID-19 From a New Lung Ultrasound Imaging Dataset (POCUS)."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2004.12084 <br>
+dataset: https://github.com/jannisborn/covid19_pocus_ultrasound
+
+    *Jannis Born, Gabriel Brändle, Manuel Cossio, Marion Disdier, Julie Goulet, Jérémie Roulin, Nina Wiedemann*
+
+
+
 
 ------
 
@@ -424,6 +439,17 @@ dataset: http://ncov-ai.big.ac.cn/download?lang=en
 
     *Kang Zhang, Xiaohong Liu, Jun Shen, Zhihuan Li, Ye Sang, Xingwang Wu, Yunfei Cha, Wenhua Liang, Chengdi Wang, Ke Wang, Linsen Ye, Ming Gao, Zhongguo Zhou, Liang Li, Jin Wang, Zhizhong Yang, Huimin Cai, Jie Xu, Lei Yang, Wenjia Cai, Wenqin Xu, Shaoxu Wu, Wei Zhang, Shanping Jiang, Lianghong Zheng, Xuan Zhang, Li Wang, Liu Lu,  Jiaming Li, Haiying Wu, Winston Wang, Oulan Li, Charlotte Zhang, Liang Liang, Tao Wu, Ruiyun Deng, Kang Wei, Yong Zhou, Ting Chen, Johnson Yiu-Nam Lau, Manson Fok, Jianxing He, Tianxin Lin, Weimin Li, Guangyu Wang*
 
+1. **"A Light CNN for detecting COVID-19 from CT scans of the chest."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2004.12837
+
+    *Matteo Polsinelli, Luigi Cinque, Giuseppe Placidi*
+
+1. **"AI-Driven CT-based quantification, staging and short-term outcome prediction of COVID-19 pneumonia."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2004.12852
+
+    *Guillaume Chassagnon, Maria Vakalopoulou, Enzo Battistella, Stergios Christodoulidis, Trieu-Nghi Hoang-Thi, Severine Dangeard, Eric Deutsch, Fabrice Andre, Enora Guillo, Nara Halm, Stefany El Hajj, Florian Bompard, Sophie Neveu, Chahinez Hani, Ines Saab, Alienor Campredon, Hasmik Koulakian, Souhail Bennani, Gael Freche, Aurelien Lombard, Laure Fournier, Hippolyte Monnier, Teodor Grand, Jules Gregory, Antoine Khalil, Elyas Mahdjoub, Pierre-Yves Brillet, Stephane Tran Ba, Valerie Bousson, Marie-Pierre Revel, Nikos Paragios*
+
+
 
 
 ### CXR-based methods: <a id="technical_CXR" class="anchor" href="#technical_CXR" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
@@ -623,4 +649,19 @@ doi: https://doi.org/10.1101/2020.04.21.20063263
 arXiv: https://arxiv.org/abs/2004.11676
 
     *Narinder Singh Punn, Sonali Agarwal*
+
+1. **"A Critic Evaluation of Methods for COVID-19 Automatic Detection from X-Ray Images."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2004.12823
+
+    *Gianluca Maguolo, Loris Nanni*
+
+1. **"A Cascaded Learning Strategy for Robust COVID-19 Pneumonia Chest X-Ray Screening."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2004.12786
+
+    *Chun-Fu Yeh, Hsien-Tzu Cheng, Andy Wei, Keng-Chi Liu, Mong-Chi Ko, Po-Chen Kuo, Ray-Jade Chen, Po-Chang Lee, Jen-Hsiang Chuang, Chi-Mai Chen, Nai-Kuan Chou, Yeun-Chung Chang, Kuan-Hua Chao, Yi-Chin Tu, Tyng-Luh Liu*
+
+1. **"Robust Screening of COVID-19 from Chest X-ray via Discriminative Cost-Sensitive Learning."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2004.12592
+
+    *Tianyang Li, Zhongyi Han, Benzheng Wei, Yuanjie Zheng, Yanfei Hong, Jinyu Cong*
 
