@@ -88,6 +88,11 @@ arXiv: https://arxiv.org/abs/2003.11336
 
     *Joseph Bullock, Alexandra (Sasha)Luccioni, Katherine Hoffmann Pham, Cynthia Sin Nga Lam, Miguel Luengo-Oroz*
 
+1. **"Zero-Shot Learning and its Applications from Autonomous Vehicles to COVID-19 Diagnosis: A Review."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2004.14143
+
+    *Mahdi Rezaei, Mahsa Shahidi*
+
 
 ------
 
@@ -472,6 +477,15 @@ arXiv: https://arxiv.org/abs/2004.12852
 doi: https://doi.org/10.1148/radiol.2020201491
 
     *Harrison X. Bai, Robin Wang, Zeng Xiong, Ben Hsieh, Ken Chang, Kasey Halsey, Thi My Linh Tran, Ji Whae Choi, Dong-Cui Wang, Lin-Bo Shi, Ji Mei, Xiao-Long Jiang, Ian Pan, Qiu-Hua Zeng, Ping-Feng Hu, Yi-Hui Li, Fei-Xian Fu, Raymond Y. Huang, Ronnie Sebro, Qi-Zhi Yu, Michael K. Atalay, and Wei-Hua Liao*
+
+1. **"Application of deep learning technique to manage COVID-19 in routine clinical practice using CT images: Results of 10 convolutional neural networks."** Computers in Biology and Medicine,
+2020. <br>
+doi: https://doi.org/10.1016/j.compbiomed.2020.103795
+
+        *Ali Abbasian Ardakani, Alireza Rajabzadeh Kanafi, U. Rajendra Acharya, Nazanin Khadem, Afshin Mohammadi*
+
+
+
 
 ### CXR-based methods: <a id="technical_CXR" class="anchor" href="#technical_CXR" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
