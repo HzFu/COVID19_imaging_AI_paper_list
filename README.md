@@ -253,7 +253,6 @@ doi: https://doi.org/10.1101/2020.04.24.20078584
 
     *Plamen Angelov, Eduardo Soares*
 
-
 1. **"Automated Diagnosis of COVID-19 Using Deep Learning and Data Augmentation on Chest CT."** medRxiv 2020.04.24.20078998, 2020. <br> 
 doi: https://doi.org/10.1101/2020.04.24.20078998
 
@@ -478,11 +477,10 @@ doi: https://doi.org/10.1148/radiol.2020201491
 
     *Harrison X. Bai, Robin Wang, Zeng Xiong, Ben Hsieh, Ken Chang, Kasey Halsey, Thi My Linh Tran, Ji Whae Choi, Dong-Cui Wang, Lin-Bo Shi, Ji Mei, Xiao-Long Jiang, Ian Pan, Qiu-Hua Zeng, Ping-Feng Hu, Yi-Hui Li, Fei-Xian Fu, Raymond Y. Huang, Ronnie Sebro, Qi-Zhi Yu, Michael K. Atalay, and Wei-Hua Liao*
 
-1. **"Application of deep learning technique to manage COVID-19 in routine clinical practice using CT images: Results of 10 convolutional neural networks."** Computers in Biology and Medicine,
-2020. <br>
+1. **"Application of deep learning technique to manage COVID-19 in routine clinical practice using CT images: Results of 10 convolutional neural networks."** Computers in Biology and Medicine, 2020. <br>
 doi: https://doi.org/10.1016/j.compbiomed.2020.103795
 
-        *Ali Abbasian Ardakani, Alireza Rajabzadeh Kanafi, U. Rajendra Acharya, Nazanin Khadem, Afshin Mohammadi*
+    *Ali Abbasian Ardakani, Alireza Rajabzadeh Kanafi, U. Rajendra Acharya, Nazanin Khadem, Afshin Mohammadi*
 
 
 
