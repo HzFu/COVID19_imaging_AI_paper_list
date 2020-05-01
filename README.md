@@ -133,7 +133,7 @@ Link: https://www.sirm.org/category/senza-categoria/covid-19/
 Link: https://radiopaedia.org/articles/covid-19-3
 
 
-1. **"COVID-19 CT Lung and Infection Segmentation Dataset."** arXiv, 2020. <br>
+1. **"COVID-19 CT Lung and Infection Segmentation Dataset."** [Data set]. Zenodo, 2020. <br>
 doi: http://doi.org/10.5281/zenodo.3757476 <br>
 dataset: https://zenodo.org/record/3757476#.XqgOxS-cZXh
 
