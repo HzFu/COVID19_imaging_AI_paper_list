@@ -395,8 +395,10 @@ arXiv: https://arxiv.org/abs/2004.06673
 
     *Tongxue Zhou, Stéphane Canu, Su Ruan*
 
-1. **"Inf-Net: Automatic COVID-19 Lung Infection Segmentation from CT Scans."** medRxiv 2020.04.22.20074948, 2020. <br>
-doi: https://doi.org/10.1101/2020.04.22.20074948
+1. **"Inf-Net: Automatic COVID-19 Lung Infection Segmentation from CT Scans."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2004.14133 <br>
+Project: https://github.com/DengPingFan/Inf-Net
+
 
     *Deng-Ping Fan, Tao Zhou, Ge-Peng Ji, Yi Zhou, Geng Chen, Huazhu Fu, Jianbing Shen, and Ling Shao*
 
