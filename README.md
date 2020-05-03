@@ -6,7 +6,7 @@ This is a collection of COVID-19 imaging-based AI research papers and datasets. 
 
 Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Deng-Ping Fan*](https://dpfan.net/), [*Geng Chen*](https://www.researchgate.net/profile/Geng_Chen13), and [*Tao Zhou*](https://taozh2017.github.io).
 
---- *Last updated: 2020/04/30* --- 
+--- *Last updated: 2020/05/03* --- 
 
 ------
 
@@ -57,6 +57,12 @@ doi: https://doi.org/10.1109/RBME.2020.2990959
 arXiv: https://arxiv.org/abs/2004.05436
 
     *Muhammad Ilyas, Hina Rehman, Amine Nait-ali*
+
+1. **"Curbing the AI-induced enthusiasm in diagnosing COVID-19 on chest X-Rays: the present and the near-future."** medRxiv 2020.04.28.20082776, 2020. <br>
+doi: https://doi.org/10.1101/2020.04.28.20082776
+
+    *Alexandru Burlacu, Radu Crisan-Dabija, Iolanda Valentina Popa, Bogdan Artene, Vasile Birzu, Mihai Pricop, Cristina Plesoianu, Daniele Generali*
+
 
 1. **"Computer Vision For COVID-19 Control: A Survey."** arXiv, 2020.  <br>
 arXiv: https://arxiv.org/abs/2004.09420 
