@@ -6,7 +6,7 @@ This is a collection of COVID-19 imaging-based AI research papers and datasets. 
 
 Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Deng-Ping Fan*](https://dpfan.net/), [*Geng Chen*](https://www.researchgate.net/profile/Geng_Chen13), and [*Tao Zhou*](https://taozh2017.github.io).
 
---- *Last updated: 2020/05/03* --- 
+--- *Last updated: 2020/05/04* --- 
 
 ------
 
@@ -490,6 +490,10 @@ doi: https://doi.org/10.1016/j.compbiomed.2020.103795
 
     *Ali Abbasian Ardakani, Alireza Rajabzadeh Kanafi, U. Rajendra Acharya, Nazanin Khadem, Afshin Mohammadi*
 
+1. **"Automated Diagnosis of COVID-19 Using Deep Learning and Data Augmentation on Chest CT."** medRxiv 2020.04.24.20078998, 2020. <br>
+doi: https://doi.org/10.1101/2020.04.24.20078998
+
+    *Runwen Hu, Guanqi Ruan, Shijun Xiang, Minghui Huang, Qiaoyi Liang, Jingxuan Li*
 
 
 
@@ -706,3 +710,24 @@ arXiv: https://arxiv.org/abs/2004.12592
 
     *Tianyang Li, Zhongyi Han, Benzheng Wei, Yuanjie Zheng, Yanfei Hong, Jinyu Cong*
 
+1. **"Distinguishing L and H phenotypes of COVID-19 using a single x-ray image."** medRxiv 2020.04.27.20081984, 2020. <br>
+doi: https://doi.org/10.1101/2020.04.27.20081984
+
+    *Mohammad Tariqul Islam, Jason W. Fleischer*
+
+1. **"A Deep Convolutional Neural Network for COVID-19 Detection Using Chest X-Rays."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2005.01578
+
+    *Pedro R. A. S. Bassi, Romis Attux*
+
+1. **"COVID-DA: Deep Domain Adaptation from Typical Pneumonia to COVID-19."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2005.01577
+
+    *Yifan Zhang, Shuaicheng Niu, Zhen Qiu, Ying Wei, Peilin Zhao, Jianhua Yao, Junzhou Huang, Qingyao Wu, Mingkui Tan*
+
+1. **"A cascade network for Detecting COVID-19 using chest x-rays."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2005.01468
+
+    *Dailin Lv, Wuteng Qi, Yunxiang Li, Lingling Sun, Yaqi Wang*
+
+    
