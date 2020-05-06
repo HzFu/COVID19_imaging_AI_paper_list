@@ -504,6 +504,10 @@ doi: https://doi.org/10.1101/2020.05.04.20082081
 
     *Mehdi Yousefzadeh, Parsa Esfahanian, Seyed Mohammad Sadegh Movahed, Saeid Gorgin, Reza Lashgari, Dara Rahmati, Arda Kiani, Shahram Kahkouee, Seyed Alireza Nadji, Sara Haseli, Meisam Hoseinyazdi, Jafar Roshandel, Negar Bandegani, Abbas Danesh, Mehrdad Bakhshayesh Karam, Atefeh Abedini*
 
+1. **"3D Tomographic Pattern Synthesis for Enhancing the Quantification of COVID-19."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2005.01903
+
+    *Siqi Liu, Bogdan Georgescu, Zhoubing Xu, Youngjin Yoo, Guillaume Chabin, Shikha Chaganti, Sasa Grbic, Sebastian Piat, Brian Teixeira, Abishek Balachandran, Vishwanath RS, Thomas Re, Dorin Comaniciu*
 
 
 ### CXR-based methods: <a id="technical_CXR" class="anchor" href="#technical_CXR" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
@@ -743,3 +747,9 @@ arXiv: https://arxiv.org/abs/2005.01468
 doi: https://doi.org/10.1101/2020.05.01.20086207
 
     *Simon Duchesne, Daniel Gourdeau, Patrick Archambault, Carl Chartrand-Lefebvre, Louis Dieumegarde, Reza Forghani, Christian Gagne, Alexandre Hains, David Hornstein, Huy Le, Simon Lemieux, Marie-Helene Levesque, Diego Martin, Lorne Rosenbloom, An Tang, Fabrizio Vecchio, Nathalie Duchesne*
+
+1. **"Intra-model Variability in COVID-19 Classification Using Chest X-ray Images."** arXiv, 2020.<br>
+arXiv: https://arxiv.org/abs/2005.02167
+
+    *Brian D Goodwin, Corey Jaskolski, Can Zhong, Herick Asmani*
+
