@@ -6,7 +6,7 @@ This is a collection of COVID-19 imaging-based AI research papers and datasets. 
 
 Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Deng-Ping Fan*](https://dpfan.net/), [*Geng Chen*](https://www.researchgate.net/profile/Geng_Chen13), and [*Tao Zhou*](https://taozh2017.github.io).
 
---- *Last updated: 2020/05/05* --- 
+--- *Last updated: 2020/05/06* --- 
 
 ------
 
@@ -159,8 +159,12 @@ dataset: https://github.com/jannisborn/covid19_pocus_ultrasound
 
     *Jannis Born, Gabriel Brändle, Manuel Cossio, Marion Disdier, Julie Goulet, Jérémie Roulin, Nina Wiedemann*
 
+1. **"MosMedData: Chest CT Scans with COVID-19 Related Findings."**
+ <br>
+ web: https://mosmed.ai/en/ 
 
-
+    *Sergey Morozov, Anna Andreychenko, Ivan Blokhin, Anton Vladzymyrskyy, Pavel Gelezhe, Victor Gombolevskiy, Anna Gonchar, Natalya Ledikhova, Nikolay Pavlov, Valeriya Chernina*
+ 
 
 ------
 
@@ -495,6 +499,11 @@ doi: https://doi.org/10.1101/2020.04.24.20078998
 
     *Runwen Hu, Guanqi Ruan, Shijun Xiang, Minghui Huang, Qiaoyi Liang, Jingxuan Li*
 
+1. **"ai-corona: Radiologist-Assistant Deep Learning Framework for COVID-19 Diagnosis in Chest CT Scans."** medRxiv 2020.05.04.20082081, 2020. <br>
+doi: https://doi.org/10.1101/2020.05.04.20082081
+
+    *Mehdi Yousefzadeh, Parsa Esfahanian, Seyed Mohammad Sadegh Movahed, Saeid Gorgin, Reza Lashgari, Dara Rahmati, Arda Kiani, Shahram Kahkouee, Seyed Alireza Nadji, Sara Haseli, Meisam Hoseinyazdi, Jafar Roshandel, Negar Bandegani, Abbas Danesh, Mehrdad Bakhshayesh Karam, Atefeh Abedini*
+
 
 
 ### CXR-based methods: <a id="technical_CXR" class="anchor" href="#technical_CXR" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
@@ -730,4 +739,7 @@ arXiv: https://arxiv.org/abs/2005.01468
 
     *Dailin Lv, Wuteng Qi, Yunxiang Li, Lingling Sun, Yaqi Wang*
 
-    
+1. **"Tracking And Predicting Covid-19 Radiological Trajectory Using Deep Learning On Chest X-Rays: Initial Accuracy Testing."** medRxiv 2020.05.01.20086207, 2020. <br>
+doi: https://doi.org/10.1101/2020.05.01.20086207
+
+    *Simon Duchesne, Daniel Gourdeau, Patrick Archambault, Carl Chartrand-Lefebvre, Louis Dieumegarde, Reza Forghani, Christian Gagne, Alexandre Hains, David Hornstein, Huy Le, Simon Lemieux, Marie-Helene Levesque, Diego Martin, Lorne Rosenbloom, An Tang, Fabrizio Vecchio, Nathalie Duchesne*
