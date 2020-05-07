@@ -6,7 +6,7 @@ This is a collection of COVID-19 imaging-based AI research papers and datasets. 
 
 Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Deng-Ping Fan*](https://dpfan.net/), [*Geng Chen*](https://www.researchgate.net/profile/Geng_Chen13), and [*Tao Zhou*](https://taozh2017.github.io).
 
---- *Last updated: 2020/05/06* --- 
+--- *Last updated: 2020/05/07* --- 
 
 ------
 
@@ -509,6 +509,11 @@ arXiv: https://arxiv.org/abs/2005.01903
 
     *Siqi Liu, Bogdan Georgescu, Zhoubing Xu, Youngjin Yoo, Guillaume Chabin, Shikha Chaganti, Sasa Grbic, Sebastian Piat, Brian Teixeira, Abishek Balachandran, Vishwanath RS, Thomas Re, Dorin Comaniciu*
 
+1. **"Dual-Sampling Attention Network for Diagnosis of COVID-19 from Community Acquired Pneumonia."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2005.02690
+
+    *Xi Ouyang, Jiayu Huo, Liming Xia, Fei Shan, Jun Liu, Zhanhao Mo, Fuhua Yan, Zhongxiang Ding, Qi Yang, Bin Song, Feng Shi, Huan Yuan, Ying Wei, Xiaohuan Cao, Yaozong Gao, Dijia Wu, Qian Wang, Dinggang Shen*
+
 
 ### CXR-based methods: <a id="technical_CXR" class="anchor" href="#technical_CXR" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
@@ -752,4 +757,15 @@ doi: https://doi.org/10.1101/2020.05.01.20086207
 arXiv: https://arxiv.org/abs/2005.02167
 
     *Brian D Goodwin, Corey Jaskolski, Can Zhong, Herick Asmani*
+
+1. **"Fully automatic deep convolutional approaches for the analysis of Covid-19 using chest X-ray images."** medRxiv 2020.05.01.20087254, 2020. <br>
+doi: https://doi.org/10.1101/2020.05.01.20087254
+
+    *Joaquim de Moura, Jorge Novo, Marcos Ortega*
+
+1. **"Automatic Detection of COVID-19 Using X-ray Images with Deep Convolutional Neural Networks and Machine Learning."** medRxiv 2020.05.01.20088211, 2020. <br>
+doi: https://doi.org/10.1101/2020.05.01.20088211
+
+    *Sohaib Asif, Yi Wenhui*
+
 
