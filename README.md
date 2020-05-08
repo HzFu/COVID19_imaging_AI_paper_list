@@ -18,6 +18,7 @@ Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Deng-Ping Fan*](https:/
 4. <a href="#technical"> AI-related Technical Papers </a>
     1. <a href="#technical_CT"> CT-based methods: </a>
     1. <a href="#technical_CXR"> CXR-based methods: </a>
+    1. <a href="#technical_other"> Other imaging methods: </a>
 5. See COVID-19 papers from: 
     1. [arXiv](https://arxiv.org/covid19search)
     1. [medRxiv and bioRxiv](https://connect.biorxiv.org/relate/content/181)
@@ -790,7 +791,7 @@ doi: https://doi.org/10.1101/2020.05.01.20088211
     *Sohaib Asif, Yi Wenhui*
 
 
-### Other Imaging methods: <a id="technical_other" class="anchor" href="#technical_other" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
+### Other imaging methods: <a id="technical_other" class="anchor" href="#technical_other" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
 1. **"Line Artefact Quantification in Lung Ultrasound Images of COVID-19 Patients via Non-Convex Regularisation."** arXiv, 2020. <br>
 arXiv: https://arxiv.org/abs/2005.03080
