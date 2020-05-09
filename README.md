@@ -715,10 +715,10 @@ doi: https://doi.org/10.1101/2020.03.30.20047456
 
     *Asmaa Abbas, Mohammed Abdelsamea, Mohamed Gaber*
 
-1. **"Deep Learning for Screening COVID-19 using Chest X-Ray Images."** arXiv, 2020. <br>
-arXiv: https://arxiv.org/abs/2004.10507
+1. **"Deep Learning for Screening COVID-19 using Chest X-Ray Images."** medRxiv 2020.05.04.20090423, 2020. <br>
+doi: https://doi.org/10.1101/2020.05.04.20090423
 
-    *Sanhita Basu, Sushmita Mitra*
+    *Sanhita Basu, Sushmita Mitra, Nilanjan Saha*
 
 1. **"Automatic Detection of Coronavirus Disease (COVID-19) in X-ray and CT Images: A Machine Learning-Based Approach."** arXiv, 2020. <br>
 arXiv: https://arxiv.org/abs/2004.10641
@@ -789,6 +789,22 @@ doi: https://doi.org/10.1101/2020.05.01.20087254
 doi: https://doi.org/10.1101/2020.05.01.20088211
 
     *Sohaib Asif, Yi Wenhui*
+
+1. **"Training deep learning algorithms with weakly labeled pneumonia chest X-ray data for COVID-19 detection."** medRxiv 2020.05.04.20090803, 2020. <br>
+doi: https://doi.org/10.1101/2020.05.04.20090803
+
+    *Sivaramakrishnan Rajaraman, Sameer K Antani*
+
+1. **"AI based Chest X-Ray (CXR) Scan Texture Analysis Algorithm for Digital Test of COVID-19 Patients."** medRxiv 2020.05.05.20091561, 2020. <br>
+doi: https://doi.org/10.1101/2020.05.05.20091561
+
+    *Dhurgham Al-karawi, Shakir Al-Zaidi, Nisreen Polus, Sabah Jassim*
+
+1. **"MantisCOVID: Rapid X-Ray Chest Radiograph and Mortality Rate Evaluation With Artificial Intelligence For COVID-19."** medRxiv 2020.05.04.20090779, 2020. <br>
+doi: https://doi.org/10.1101/2020.05.04.20090779
+
+    *Yagmur Yasar, Berat Tuna Karli, Cem Coteli, Mert Burkay Coteli*
+
 
 
 ### Other imaging methods: <a id="technical_other" class="anchor" href="#technical_other" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
