@@ -6,7 +6,7 @@ This is a collection of COVID-19 imaging-based AI research papers and datasets. 
 
 Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Deng-Ping Fan*](https://dpfan.net/), [*Geng Chen*](https://www.researchgate.net/profile/Geng_Chen13), and [*Tao Zhou*](https://taozh2017.github.io).
 
---- *Last updated: 2020/05/08* --- 
+--- *Last updated: 2020/05/10* --- 
 
 ------
 
@@ -635,7 +635,8 @@ arXiv: https://arxiv.org/abs/2003.13145
 
     *Muhammad E. H. Chowdhury, Tawsifur Rahman, Amith Khandakar, Rashid Mazhar, Muhammad Abdul Kadir, Zaid Bin Mahbub, Khandakar R. Islam, Muhammad Salman Khan, Atif Iqbal, Nasser Al-Emadi, Mamun Bin Ibne Reaz*
 
-1. **"Deep Learning COVID-19 Features on CXR using Limited Training Data Sets."** arXiv, 2020.<br>
+1. **"Deep Learning COVID-19 Features on CXR using Limited Training Data Sets."** IEEE Transactions on Medical Imaging, 2020.<br>
+https://doi.org/10.1109/TMI.2020.2993291 <br>
 arXiv: https://arxiv.org/abs/2004.05758
 
     *Yujin Oh, Sangjoon Park, Jong Chul Ye*
@@ -804,6 +805,11 @@ doi: https://doi.org/10.1101/2020.05.05.20091561
 doi: https://doi.org/10.1101/2020.05.04.20090779
 
     *Yagmur Yasar, Berat Tuna Karli, Cem Coteli, Mert Burkay Coteli*
+
+1. **"ProgNet: Covid-19 prognosis using recurrent and convolutional neural networks."** medRxiv 2020.05.06.20092874, 2020. <br>
+doi: https://doi.org/10.1101/2020.05.06.20092874
+
+    *Mohamed Fakhfakh, Bassem Bouaziz, Faiez Gargouri, Lotfi Chaari*
 
 
 
