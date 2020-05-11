@@ -6,7 +6,7 @@ This is a collection of COVID-19 imaging-based AI research papers and datasets. 
 
 Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Deng-Ping Fan*](https://dpfan.net/), [*Geng Chen*](https://www.researchgate.net/profile/Geng_Chen13), and [*Tao Zhou*](https://taozh2017.github.io).
 
---- *Last updated: 2020/05/10* --- 
+--- *Last updated: 2020/05/11* --- 
 
 ------
 
@@ -537,6 +537,22 @@ arXiv: https://arxiv.org/abs/2005.03405
 
     *Xiaofeng Zhu, Bin Song, Feng Shi, Yanbo Chen, Rongyao Hu, Jiangzhang Gan, Wenhai Zhang, Man Li, Liye Wang, Yaozong Gao, Fei Shan, Dinggang Shen*
 
+1. **"Artificial intelligence-enabled rapid diagnosis of COVID-19 patients."** medRxiv 2020.04.12.20062661, 2020. <br>
+doi: https://doi.org/10.1101/2020.04.12.20062661
+
+    *Xueyan Mei, Hao-Chih Lee, Kaiyue Diao, Mingqian Huang, Bin Lin, Chenyu Liu, Zongyu Xie, Yixuan Ma, Philip M. Robson, Michael Chung, Adam Bernheim, Venkatesh Mani, Claudia Calcagno, Kunwei Li, Shaolin Li, Hong Shan, Jian Lv, Tongtong Zhao, Junli Xia, Qihua Long, Sharon Steinberger, Adam Jacobi, Timothy Deyer, Marta Luksza, Fang Liu, Brent P. Little, Zahi A. Fayad, Yang Yang*
+
+1. **"Synergistic Learning of Lung Lobe Segmentation and Hierarchical Multi-Instance Classification for Automated Severity Assessment of COVID-19 in CT Images."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2005.03832
+
+    *Kelei He, Wei Zhao, Xingzhi Xie, Wen Ji, Mingxia Liu, Zhenyu Tang, Feng Shi, Yang Gao, Jun Liu, Junfeng Zhang, Dinggang Shen*
+
+1. **"Hypergraph Learning for Identification of COVID-19 with CT Imaging."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2005.04043
+
+    *Donglin Di, Feng Shi, Fuhua Yan, Liming Xia, Zhanhao Mo, Zhongxiang Ding, Fei Shan, Shengrui Li, Ying Wei, Ying Shao, Miaofei Han, Yaozong Gao, He Sui, Yue Gao, Dinggang Shen*
+
+
 ### CXR-based methods: <a id="technical_CXR" class="anchor" href="#technical_CXR" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
 
@@ -819,3 +835,10 @@ doi: https://doi.org/10.1101/2020.05.06.20092874
 arXiv: https://arxiv.org/abs/2005.03080
 
     *Oktay Karakuş, Nantheera Anantrasirichai, Amazigh Aguersif, Stein Silva, Adrian Basarab, Alin Achim*
+
+1. **"Convolutional Sparse Support Estimator Based Covid-19 Recognition from X-ray Images."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2005.04014
+
+    *Mehmet Yamac, Mete Ahishali, Aysen Degerli, Serkan Kiranyaz, Muhammad E. H. Chowdhury, Moncef Gabbouj*
+
+
