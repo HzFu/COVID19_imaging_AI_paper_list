@@ -826,6 +826,11 @@ doi: https://doi.org/10.1101/2020.05.04.20090779
 doi: https://doi.org/10.1101/2020.05.06.20092874
 
     *Mohamed Fakhfakh, Bassem Bouaziz, Faiez Gargouri, Lotfi Chaari*
+    
+1. **"Convolutional Sparse Support Estimator Based Covid-19 Recognition from X-ray Images."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2005.04014
+
+    *Mehmet Yamac, Mete Ahishali, Aysen Degerli, Serkan Kiranyaz, Muhammad E. H. Chowdhury, Moncef Gabbouj*
 
 
 
@@ -836,9 +841,5 @@ arXiv: https://arxiv.org/abs/2005.03080
 
     *Oktay Karakuş, Nantheera Anantrasirichai, Amazigh Aguersif, Stein Silva, Adrian Basarab, Alin Achim*
 
-1. **"Convolutional Sparse Support Estimator Based Covid-19 Recognition from X-ray Images."** arXiv, 2020. <br>
-arXiv: https://arxiv.org/abs/2005.04014
-
-    *Mehmet Yamac, Mete Ahishali, Aysen Degerli, Serkan Kiranyaz, Muhammad E. H. Chowdhury, Moncef Gabbouj*
 
 
