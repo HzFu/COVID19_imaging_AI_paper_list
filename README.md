@@ -6,7 +6,7 @@ This is a collection of COVID-19 imaging-based AI research papers and datasets. 
 
 Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Deng-Ping Fan*](https://dpfan.net/), [*Geng Chen*](https://www.researchgate.net/profile/Geng_Chen13), and [*Tao Zhou*](https://taozh2017.github.io).
 
---- *Last updated: 2020/05/11* --- 
+--- *Last updated: 2020/05/12* --- 
 
 ------
 
@@ -551,6 +551,11 @@ arXiv: https://arxiv.org/abs/2005.03832
 arXiv: https://arxiv.org/abs/2005.04043
 
     *Donglin Di, Feng Shi, Fuhua Yan, Liming Xia, Zhanhao Mo, Zhongxiang Ding, Fei Shan, Shengrui Li, Ying Wei, Ying Shao, Miaofei Han, Yaozong Gao, He Sui, Yue Gao, Dinggang Shen*
+
+1. **"Deep learning models for COVID-19 infected area segmentation in CT images."** medRxiv 2020.05.08.20094664, 2020. <br>
+doi: https://doi.org/10.1101/2020.05.08.20094664
+
+    *Athanasios Voulodimos, Eftychios Protopapadakis, Iason Katsamenis, Anastasios Doulamis, Nikolaos Doulamis*
 
 
 ### CXR-based methods: <a id="technical_CXR" class="anchor" href="#technical_CXR" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
