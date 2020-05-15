@@ -6,8 +6,10 @@ This is a collection of COVID-19 imaging-based AI research papers and datasets. 
 
 Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Deng-Ping Fan*](https://dpfan.net/), [*Geng Chen*](https://www.researchgate.net/profile/Geng_Chen13), and [*Tao Zhou*](https://taozh2017.github.io).
 
---- *Last updated: 2020/05/12* --- 
+--- *Last updated: 2020/05/14* --- 
 
+
+*Caution: Preprints (e.g., arXiv and medRxiv) are preliminary reports of work that have not been certified by peer review. They should not be relied on to guide clinical practice or health-related behavior and should not be reported in news media as established information.*
 ------
 
 ## Content:
@@ -160,12 +162,17 @@ dataset: https://github.com/jannisborn/covid19_pocus_ultrasound
 
     *Jannis Born, Gabriel Brändle, Manuel Cossio, Marion Disdier, Julie Goulet, Jérémie Roulin, Nina Wiedemann*
 
-1. **"MosMedData: Chest CT Scans with COVID-19 Related Findings."**
- <br>
+1. **"MosMedData: Chest CT Scans with COVID-19 Related Findings."** <br>
  web: https://mosmed.ai/en/ 
 
     *Sergey Morozov, Anna Andreychenko, Ivan Blokhin, Anton Vladzymyrskyy, Pavel Gelezhe, Victor Gombolevskiy, Anna Gonchar, Natalya Ledikhova, Nikolay Pavlov, Valeriya Chernina*
  
+1. **"SARS-CoV-2 CT-scan dataset: A large dataset of real patients CT scans for SARS-CoV-2 identification."** medRxiv 2020.04.24.20078584, 2020. <br> 
+doi: https://doi.org/10.1101/2020.04.24.20078584 <br> 
+web: www.kaggle.com/plameneduardo/sarscov2-ctscan-dataset
+
+    *Eduardo Soares, Plamen Angelov, Sarah Biaso, Michele Higa Froes, Daniel Kanda Abe*
+
 
 ------
 
@@ -557,6 +564,11 @@ doi: https://doi.org/10.1101/2020.05.08.20094664
 
     *Athanasios Voulodimos, Eftychios Protopapadakis, Iason Katsamenis, Anastasios Doulamis, Nikolaos Doulamis*
 
+1. **"Online COVID-19 diagnosis with chest CT images: Lesion-attention deep neural networks."** medRxiv 2020.05.11.20097907, 2020. <br> 
+doi: https://doi.org/10.1101/2020.05.11.20097907
+
+    *Bin Liu, Xiaoxue Gao, Mengshuang He, Fengmao Lv, Guosheng Yin*
+
 
 ### CXR-based methods: <a id="technical_CXR" class="anchor" href="#technical_CXR" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
@@ -837,6 +849,20 @@ arXiv: https://arxiv.org/abs/2005.04014
 
     *Mehmet Yamac, Mete Ahishali, Aysen Degerli, Serkan Kiranyaz, Muhammad E. H. Chowdhury, Moncef Gabbouj*
 
+1. **"Multi-Channel Transfer Learning of Chest X-ray Images for Screening of COVID-19."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2005.05576
+
+    *Sampa Misra, Seungwan Jeon, Seiyon Lee, Ravi Managuli, Chulhong Kim*
+
+1. **"COVID-Classifier: An efficient machine learning model to assist in the diagnosis of COVID-19 infection in chest x-ray images."** medRxiv 2020.05.09.20096560, 2020. <br> 
+doi: https://doi.org/10.1101/2020.05.09.20096560
+
+    *Abolfazl Zargari Khuzani, Morteza Heidari, Ali Shariati*
+
+1. **"Automatic Detection of COVID-19 Infection from Chest X-ray using Deep Learning."** medRxiv 2020.05.10.20097063, 2020. <br>
+doi: https://doi.org/10.1101/2020.05.10.20097063
+
+    *Kishore Medhi, Md. Jamil, Iftekhar Hussain*
 
 
 ### Other imaging methods: <a id="technical_other" class="anchor" href="#technical_other" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
@@ -846,5 +872,7 @@ arXiv: https://arxiv.org/abs/2005.03080
 
     *Oktay Karakuş, Nantheera Anantrasirichai, Amazigh Aguersif, Stein Silva, Adrian Basarab, Alin Achim*
 
+1. **"Correlation Between Chest Computed Tomography And Lung Ultrasonography In Patients With Coronavirus Disease 2019 (COVID-19)."** medRxiv 2020.05.08.20095117, 2020. <br> 
+doi: https://doi.org/10.1101/2020.05.08.20095117
 
-
+    *Yale Tung Chen, Milagros Marti de Gracia, Aurea DiezTascon, Sergio Agudo-Fernandez, Rodrigo Alonso-Gonzalez, Pablo Rodriguez Fuertes, Luz Parra-Gordo, Silvia Ossaba-Velez, Rafael Llamas Fuentes*
