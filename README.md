@@ -6,7 +6,7 @@ This is a collection of COVID-19 imaging-based AI research papers and datasets. 
 
 Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Deng-Ping Fan*](https://dpfan.net/), [*Geng Chen*](https://www.researchgate.net/profile/Geng_Chen13), and [*Tao Zhou*](https://taozh2017.github.io).
 
---- *Last updated: 2020/05/15* --- 
+--- *Last updated: 2020/05/16* --- 
 
 
 *Caution: Preprints (e.g., arXiv and medRxiv) are preliminary reports of work that have not been certified by peer review. They should not be relied on to guide clinical practice or health-related behavior and should not be reported in news media as established information.*
@@ -569,6 +569,15 @@ doi: https://doi.org/10.1101/2020.05.11.20097907
 
     *Bin Liu, Xiaoxue Gao, Mengshuang He, Fengmao Lv, Guosheng Yin*
 
+1. **"A collaborative online AI engine for CT-based COVID-19 diagnosis."** medRxiv 2020.05.10.20096073, 2020. <br> 
+doi: https://doi.org/10.1101/2020.05.10.20096073
+
+    *Yongchao Xu, Liya Ma, Yang Fan, Yanyan Chen, Ke Ma, Jiehua Yang, Xian Yang, Yaobing Chen, Chang Shu, Ziwei Fan, Jiefeng Gan, Xinyu Zou, Renhao Huang, Changzheng Zhang, Xiaowu Liu, Dandan Tu, Chuou Xu, Wenqing Zhang, Dehua Yang, Ming-Wei Wang, Xi Wang, Xiaoliang Xie, Hongxiang Leng, Nagaraj Holalkere, Neil J. Halin, Ihab Roushdy Kamel, Jia Wu, Xuehua Peng, Xiang Wang, Jianbo Shao, Pattanasak Mongkolwat, Jianjun Zhang, Daniel L. Rubin, Guoping Wang, Chuangsheng Zheng, Zhen Li, Xiang Bai, Tian Xia*
+
+1. **"Assisting Scalable Diagnosis Automatically via CT Images in the Combat against COVID-19."** medRxiv 2020.05.11.20093732, 2020. <br> 
+doi: https://doi.org/10.1101/2020.05.11.20093732
+
+    *Bohan Liu, Pan Liu, Lutao Dai, Yanlin Yang, Peng Xie, Yiqing Tan, Jicheng Du, Wei Shan, Chenghui Zhao, Qin Zhong, Xixiang Lin, Xizhou Guan, Ning Xing, Yuhui Sun, Wenjun Wang, Zhibing Zhang, Xia Fu, Yanqing Fan, Meifang Li, Na Zhang, Lin Li, Yaou Liu, Lin Xu, Jingbo Du, Zhenhua Zhao, Xuelong Hu, Weipeng Fan, Rongpin Wang, Chongchong Wu, Yongkang Nie, Liuquan Cheng, Lin Ma, Zongren Li, Qian Jia, Minchao Liu, Huayuan Guo, Gao Huang, Haipeng Shen, Weimin An, Hao Li, Jianxin Zhou, Kunlun He*
 
 ### CXR-based methods: <a id="technical_CXR" class="anchor" href="#technical_CXR" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
