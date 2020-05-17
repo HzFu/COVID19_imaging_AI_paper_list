@@ -6,7 +6,7 @@ This is a collection of COVID-19 imaging-based AI research papers and datasets. 
 
 Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Deng-Ping Fan*](https://dpfan.net/), [*Geng Chen*](https://www.researchgate.net/profile/Geng_Chen13), and [*Tao Zhou*](https://taozh2017.github.io).
 
---- *Last updated: 2020/05/16* --- 
+--- *Last updated: 2020/05/17* --- 
 
 
 *Caution: Preprints (e.g., arXiv and medRxiv) are preliminary reports of work that have not been certified by peer review. They should not be relied on to guide clinical practice or health-related behavior and should not be reported in news media as established information.*
@@ -271,7 +271,10 @@ doi: https://doi.org/10.1101/2020.04.24.20078584
 
     *Plamen Angelov, Eduardo Soares*
 
+1. **"How Might AI and Chest Imaging Help Unravel COVID-19’s Mysteries?"** Radiology: Artificial Intelligence, 2020, 2:3. <br>
+doi: https://doi.org/10.1148/ryai.2020200053
 
+    *Shinjini Kundu, Hesham Elhalawani, Judy W. Gichoya, and Charles E. Kahn, Jr*
 
 ------
 
@@ -579,6 +582,19 @@ doi: https://doi.org/10.1101/2020.05.11.20093732
 
     *Bohan Liu, Pan Liu, Lutao Dai, Yanlin Yang, Peng Xie, Yiqing Tan, Jicheng Du, Wei Shan, Chenghui Zhao, Qin Zhong, Xixiang Lin, Xizhou Guan, Ning Xing, Yuhui Sun, Wenjun Wang, Zhibing Zhang, Xia Fu, Yanqing Fan, Meifang Li, Na Zhang, Lin Li, Yaou Liu, Lin Xu, Jingbo Du, Zhenhua Zhao, Xuelong Hu, Weipeng Fan, Rongpin Wang, Chongchong Wu, Yongkang Nie, Liuquan Cheng, Lin Ma, Zongren Li, Qian Jia, Minchao Liu, Huayuan Guo, Gao Huang, Haipeng Shen, Weimin An, Hao Li, Jianxin Zhou, Kunlun He*
 
+
+1. **"Prior-Attention Residual Learning for More Discriminative COVID-19 Screening in CT Images."**  in IEEE Transactions on Medical Imaging, 2020. <br> 
+doi: https://doi.org/10.1109/TMI.2020.2994908
+
+    *Jun Wang, Yiming Bao, Yaofeng Wen, Hongbing Lu, Hu Luo, Yunfei Xiang, Xiaoming Li, Chen Liu, Dahong Qian*
+
+1. **"Relational Modeling for Robust and Efficient Pulmonary Lobe Segmentation in CT Scans."**  in IEEE Transactions on Medical Imaging, 2020. <br> 
+doi: https://doi.org/10.1109/TMI.2020.2995108
+
+    *Weiyi Xie, Colin Jacobs, Jean-Paul Charbonnier, Bram van Ginneken*
+
+
+
 ### CXR-based methods: <a id="technical_CXR" class="anchor" href="#technical_CXR" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
 
@@ -885,3 +901,8 @@ arXiv: https://arxiv.org/abs/2005.03080
 doi: https://doi.org/10.1101/2020.05.08.20095117
 
     *Yale Tung Chen, Milagros Marti de Gracia, Aurea DiezTascon, Sergio Agudo-Fernandez, Rodrigo Alonso-Gonzalez, Pablo Rodriguez Fuertes, Luz Parra-Gordo, Silvia Ossaba-Velez, Rafael Llamas Fuentes*
+
+1. **"Deep learning for classification and localization of COVID-19 markers in point-of-care lung ultrasound."** in IEEE Transactions on Medical Imaging, 2020. <br>
+doi: https://doi.org/10.1109/TMI.2020.2994459
+
+    *Subhankar Roy, Willi Menapace,  Sebastiaan Oei,  Ben Luijten,  Enrico Fini,  Cristiano Saltori,  Iris Huijben,  Nishith Chennakeshava,  Federico Mento,  Alessandro Sentelli,  Emanuele Peschiera,  Riccardo Trevisan,  Giovanni Maschietto,  Elena Torri,  Riccardo Inchingolo,  Andrea Smargiassi,  Gino Soldati,  Paolo Rota,  Andrea Passerini,  Ruud J.G. Van Sloun,  Elisa Ricci,  Libertario Demi*
