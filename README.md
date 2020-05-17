@@ -3,13 +3,15 @@
 ![alt text](./cover.png)
 
 This is a collection of COVID-19 imaging-based AI research papers and datasets. If you have paper to recommend or any suggestions, please feel free to contact us. 
-
+ 
 Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Deng-Ping Fan*](https://dpfan.net/), [*Geng Chen*](https://www.researchgate.net/profile/Geng_Chen13), and [*Tao Zhou*](https://taozh2017.github.io).
 
 --- *Last updated: 2020/05/17* --- 
 
 
-*Caution: Preprints (e.g., arXiv and medRxiv) are preliminary reports of work that have not been certified by peer review. They should not be relied on to guide clinical practice or health-related behavior and should not be reported in news media as established information.*
+*Caution: We list the peer-reviewed papers before the preprints (e.g., arXiv and medRxiv). <br> 
+Preprints are preliminary reports of work that have not been certified by peer review. They should not be relied on to guide clinical practice or health-related behavior and should not be reported in news media as established information.*
+
 ------
 
 ## Content:
@@ -55,7 +57,17 @@ doi: https://doi.org/10.1109/RBME.2020.2987975
 doi: https://doi.org/10.1109/RBME.2020.2990959
 
     *Di Dong, Zhenchao Tang, Shuo Wang, Hui Hui, Lixin Gong, Yao Lu, Zhong Xue, Hongen Liao, Fang Chen, Fan Yang, Ronghua Jin, Kun Wang, Zhenyu Liu, Jingwei Wei, Wei Mu, Hui Zhang, Jingying Jiang, Jie Tian, Hongjun Li*
-    
+
+1. **"Digital technology and COVID-19."**  Nature Medicine, 2020. <br>
+doi: https://doi.org/10.1038/s41591-020-0824-5
+
+    *Daniel Shu Wei Ting, Lawrence Carin, Victor Dzau, and Tien Y. Wong*
+
+1. **"A British Society of Thoracic Imaging statement: considerations in designing local imaging diagnostic algorithms for the COVID-19 pandemic."** Clinical Radiology, Volume 75, Issue 5, May 2020, Pages 329-334 <br>
+doi: https://doi.org/10.1016/j.crad.2020.03.008
+
+    *A. Nair, J.C.L. Rodrigues, S. Hare, A. Edey, A. Devaraj, J. Jacob, A. Johnstone, R. McStay, Erika Denton, G. Robinson*
+
 1. **"Detection of Covid-19 From Chest X-ray Images Using Artificial Intelligence: An Early Review."** arXiv, 2020. <br>
 arXiv: https://arxiv.org/abs/2004.05436
 
@@ -82,17 +94,9 @@ doi: https://doi.org/10.1101/2020.03.24.20041020
 
     *Laure Wynants, Ben Van Calster, Marc MJ Bonten, Gary S Collins, Thomas PA Debray, Maarten De Vos, Maria C Haller, Georg Heinze, Karel GM Moons, Richard D Riley, Ewoud Schuit, Luc Smits, Kym IE Snell, Ewout W Steyerberg, Christine Wallisch,  Maarten van Smeden*
 
-1. **"Digital technology and COVID-19."**  Nature Medicine, 2020. <br>
-doi: https://doi.org/10.1038/s41591-020-0824-5
 
-    *Daniel Shu Wei Ting, Lawrence Carin, Victor Dzau, and Tien Y. Wong*
 
-1. **"A British Society of Thoracic Imaging statement: considerations in designing local imaging diagnostic algorithms for the COVID-19 pandemic."** Clinical Radiology, Volume 75, Issue 5, May 2020, Pages 329-334 <br>
-doi: https://doi.org/10.1016/j.crad.2020.03.008
-
-    *A. Nair, J.C.L. Rodrigues, S. Hare, A. Edey, A. Devaraj, J. Jacob, A. Johnstone, R. McStay, Erika Denton, G. Robinson*
-
-1. **Mapping the landscape of artificial intelligence applications against COVID-19.** arXiv, 2020. (Submitted on 25 Mar 2020) <br>
+1. **Mapping the landscape of artificial intelligence applications against COVID-19.** arXiv, 2020. <br>
 arXiv: https://arxiv.org/abs/2003.11336  
 
     *Joseph Bullock, Alexandra (Sasha)Luccioni, Katherine Hoffmann Pham, Cynthia Sin Nga Lam, Miguel Luengo-Oroz*
@@ -235,25 +239,12 @@ doi: https://doi.org/10.1148/radiol.2020201160
 
     *Ho Yuen Frank Wong, Hiu Yin Sonia Lam, Ambrose Ho-Tung Fong, Siu Ting Leung, Thomas Wing-Yan Chin, Christine Shing Yen Lo, Macy Mei-Sze Lui, Jonan Chun Yin Lee, Keith Wan-Hang Chiu, Tom Chung, Elaine Yuen Phin Lee, Eric Yuk Fai Wan, Fan Ngai Ivan Hung, Tina Poy Wing Lam, Michael Kuo, and Ming-Yen Ng*
 
-1. **"A Systematic Meta-Analysis of CT Features of COVID-19: Lessons from Radiology."** medRxiv 2020.04.04.20052241, 2020. <br>
-doi: https://doi.org/10.1101/2020.04.04.20052241
 
-    *Vasantha Kumar Venugopal, Vidur Mahajan, Sriram Rajan, Vikash Kumar Agarwal, Ruchika Rajan, Salsabeel Syed, Harsh Mahajan*
 
 1. **"Differences in Clinical and Imaging Presentation of Pediatric Patients with COVID-19 in Comparison with Adults."** Radiology: Cardiothoracic Imaging, 2020, 2:2  <br>
 doi: https://doi.org/10.1148/ryct.2020200117
 
     *Amei Chen, Junxiang Huang, Yuting Liao, Zaosong Liu, Dandan Chen, Chongzhe Yang, Ruimeng Yang, and Xinhua Wei*
-
-1. **"A Systematic Meta-Analysis of CT Features of COVID-19: Lessons from Radiology."** medRxiv 2020.04.04.20052241, 2020. <br>
-doi: https://doi.org/10.1101/2020.04.04.20052241
-
-    *Vasantha Kumar Venugopal, Vidur Mahajan, Sriram Rajan, Vikash Kumar Agarwal, Ruchika Rajan, Salsabeel Syed, Harsh Mahajan*
-
-1. **"A globally available COVID-19 - Template for clinical imaging studies."** medRxiv 2020.04.02.20048793, 2020. <br>
-doi: https://doi.org/10.1101/2020.04.02.20048793
-
-    *Gabriel Alexander Salg, Maria Katharina Ganten, Matthias Baumhauer, Claus Peter Heussel, Jens Kleesiek*
 
 1. **"CT image visual quantitative evaluation and clinical classification of coronavirus disease (COVID-19)."** European Radiology, 2020. <br>
 doi: https://doi.org/10.1007/s00330-020-06817-6
@@ -266,15 +257,30 @@ doi: https://doi.org/10.1148/radiol.2020201365
 
     *Geoffrey D. Rubin, Christopher J. Ryerson, Linda B. Haramati, Nicola Sverzellati, Jeffrey P. Kanne, Suhail Raoof, Neil W. Schluger, Annalisa Volpi, Jae-Joon Yim, Ian B. K. Martin, Deverick J. Anderson, Christina Kong, Talissa Altes, Andrew Bush, Sujal R. Desai, Jonathan Goldin, Jin Mo Goo, Marc Humbert, Yoshikazu Inoue, Hans-Ulrich Kauczor, Fengming Luo, Peter J. Mazzone, Mathias Prokop, Martine Remy-Jardin, Luca Richeldi, Cornelia M. Schaefer-Prokop, Noriyuki Tomiyama, Athol U. Wells, and Ann N. Leung*
 
-1. **"Explainable-By-Design Approach For Covid-19 Classification Via CT-Scan."** medRxiv 2020.04.24.20078584, 2020. <br> 
-doi: https://doi.org/10.1101/2020.04.24.20078584
-
-    *Plamen Angelov, Eduardo Soares*
-
 1. **"How Might AI and Chest Imaging Help Unravel COVID-19’s Mysteries?"** Radiology: Artificial Intelligence, 2020, 2:3. <br>
 doi: https://doi.org/10.1148/ryai.2020200053
 
     *Shinjini Kundu, Hesham Elhalawani, Judy W. Gichoya, and Charles E. Kahn, Jr*
+
+1. **"A Systematic Meta-Analysis of CT Features of COVID-19: Lessons from Radiology."** medRxiv 2020.04.04.20052241, 2020. <br>
+doi: https://doi.org/10.1101/2020.04.04.20052241
+
+    *Vasantha Kumar Venugopal, Vidur Mahajan, Sriram Rajan, Vikash Kumar Agarwal, Ruchika Rajan, Salsabeel Syed, Harsh Mahajan*
+
+1. **"A Systematic Meta-Analysis of CT Features of COVID-19: Lessons from Radiology."** medRxiv 2020.04.04.20052241, 2020. <br>
+doi: https://doi.org/10.1101/2020.04.04.20052241
+
+    *Vasantha Kumar Venugopal, Vidur Mahajan, Sriram Rajan, Vikash Kumar Agarwal, Ruchika Rajan, Salsabeel Syed, Harsh Mahajan*
+
+1. **"A globally available COVID-19 - Template for clinical imaging studies."** medRxiv 2020.04.02.20048793, 2020. <br>
+doi: https://doi.org/10.1101/2020.04.02.20048793
+
+    *Gabriel Alexander Salg, Maria Katharina Ganten, Matthias Baumhauer, Claus Peter Heussel, Jens Kleesiek*
+
+1. **"Explainable-By-Design Approach For Covid-19 Classification Via CT-Scan."** medRxiv 2020.04.24.20078584, 2020. <br> 
+doi: https://doi.org/10.1101/2020.04.24.20078584
+
+    *Plamen Angelov, Eduardo Soares*
 
 ------
 
@@ -285,7 +291,61 @@ doi: https://doi.org/10.1148/ryai.2020200053
 ### CT-based methods: <a id="technical_CT" class="anchor" href="#technical_CT" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
 
-    
+1. **"Artificial Intelligence Distinguishes COVID-19 from Community Acquired Pneumonia on Chest CT."** Radiology, 2020. <br>
+doi: https://doi.org/10.1148/radiol.2020200905
+
+    *Lin Li, Lixin Qin, Zeguo Xu, Youbing Yin, Xin Wang, Bin Kong, Junjie Bai, Yi Lu, Zhenghan Fang, Qi Song, Kunlin Cao, Daliang Liu, Guisheng Wang, Qizhong Xu, Xisheng Fang, Shiqin Zhang, Juan Xia, and Jun Xia*
+
+
+1. **"Severe COVID-19 Pneumonia: Assessing Inflammation Burden with Volume-rendered Chest CT."** Radiology: Cardiothoracic Imaging, 2020, 2:2  <br>
+doi: https://doi.org/10.1148/ryct.2020200044
+
+    *Lei Tang, Xiaoyong Zhang, Yvquan Wang, and Xianchun Zeng*
+
+1. **"Quantitative computed tomography analysis for stratifying the severity of Coronavirus Disease 2019."** Journal of Pharmaceutical Analysis, 2020, 2095-1779  <br>
+doi: https://doi.org/10.1016/j.jpha.2020.03.004
+
+    *Cong Shen, Nan Yu, Shubo Cai, Jie Zhou, Jiexin Sheng, Kang Liu, Heping Zhou, Youmin Guo, Gang Niu*
+
+1. **"Clinically Applicable AI System for Accurate Diagnosis, Quantitative Measurements and Prognosis of COVID-19 Pneumonia Using Computed Tomography."** Cell, 2020. <br>
+arXiv: https://doi.org/10.1016/j.cell.2020.04.045 <br>
+dataset: http://ncov-ai.big.ac.cn/download?lang=en
+
+    *Kang Zhang, Xiaohong Liu, Jun Shen, Zhihuan Li, Ye Sang, Xingwang Wu, Yunfei Cha, Wenhua Liang, Chengdi Wang, Ke Wang, Linsen Ye, Ming Gao, Zhongguo Zhou, Liang Li, Jin Wang, Zhizhong Yang, Huimin Cai, Jie Xu, Lei Yang, Wenjia Cai, Wenqin Xu, Shaoxu Wu, Wei Zhang, Shanping Jiang, Lianghong Zheng, Xuan Zhang, Li Wang, Liu Lu,  Jiaming Li, Haiying Wu, Winston Wang, Oulan Li, Charlotte Zhang, Liang Liang, Tao Wu, Ruiyun Deng, Kang Wei, Yong Zhou, Ting Chen, Johnson Yiu-Nam Lau, Manson Fok, Jianxing He, Tianxin Lin, Weimin Li, Guangyu Wang*
+
+1. **"AI Augmentation of Radiologist Performance in Distinguishing COVID-19 from Pneumonia of Other Etiology on Chest CT."** Radiology, 2020. <br>
+doi: https://doi.org/10.1148/radiol.2020201491
+
+    *Harrison X. Bai, Robin Wang, Zeng Xiong, Ben Hsieh, Ken Chang, Kasey Halsey, Thi My Linh Tran, Ji Whae Choi, Dong-Cui Wang, Lin-Bo Shi, Ji Mei, Xiao-Long Jiang, Ian Pan, Qiu-Hua Zeng, Ping-Feng Hu, Yi-Hui Li, Fei-Xian Fu, Raymond Y. Huang, Ronnie Sebro, Qi-Zhi Yu, Michael K. Atalay, and Wei-Hua Liao*
+
+1. **"Application of deep learning technique to manage COVID-19 in routine clinical practice using CT images: Results of 10 convolutional neural networks."** Computers in Biology and Medicine, 2020. <br>
+doi: https://doi.org/10.1016/j.compbiomed.2020.103795
+
+    *Ali Abbasian Ardakani, Alireza Rajabzadeh Kanafi, U. Rajendra Acharya, Nazanin Khadem, Afshin Mohammadi*
+
+1. **"Diagnosis of Coronavirus Disease 2019 (COVID-19) with Structured Latent Multi-View Representation Learning."** IEEE Transactions on Medical Imaging, 2020<br>
+doi: https://doi.org/10.1109/TMI.2020.2992546 <br>
+arXiv: https://arxiv.org/abs/2005.03227
+
+    *Hengyuan Kang, Liming Xia, Fuhua Yan, Zhibin Wan, Feng Shi, Huan Yuan, Huiting Jiang, Dijia Wu, He Sui, Changqing Zhang, Dinggang Shen*
+
+1. **"Prior-Attention Residual Learning for More Discriminative COVID-19 Screening in CT Images."**  in IEEE Transactions on Medical Imaging, 2020. <br> 
+doi: https://doi.org/10.1109/TMI.2020.2994908
+
+    *Jun Wang, Yiming Bao, Yaofeng Wen, Hongbing Lu, Hu Luo, Yunfei Xiang, Xiaoming Li, Chen Liu, Dahong Qian*
+
+1. **"Inf-Net: Automatic COVID-19 Lung Infection Segmentation from CT Scans."** in IEEE Transactions on Medical Imaging, 2020. <br> 
+arXiv: https://arxiv.org/abs/2004.14133 <br>
+Project: https://github.com/DengPingFan/Inf-Net
+
+
+    *Deng-Ping Fan, Tao Zhou, Ge-Peng Ji, Yi Zhou, Geng Chen, Huazhu Fu, Jianbing Shen, and Ling Shao*
+
+1. **"Relational Modeling for Robust and Efficient Pulmonary Lobe Segmentation in CT Scans."**  in IEEE Transactions on Medical Imaging, 2020. <br> 
+doi: https://doi.org/10.1109/TMI.2020.2995108
+
+    *Weiyi Xie, Colin Jacobs, Jean-Paul Charbonnier, Bram van Ginneken*
+
 1. **"A deep learning algorithm using CT images to screen for Corona Virus Disease (COVID-19)."** medRxiv 2020.02.14.20023028, 2020. <br>
 doi: https://doi.org/10.1101/2020.02.14.20023028
 
@@ -333,12 +393,6 @@ arXiv: https://arxiv.org/abs/2003.11988
 arXiv: https://arxiv.org/abs/2004.01279
 
     *Shikha Chaganti, Abishek Balachandran, Guillaume Chabin, Stuart Cohen, Thomas Flohr, Bogdan Georgescu, Philippe Grenier, Sasa Grbic, Siqi Liu, François Mellot, Nicolas Murray, Savvas Nicolaou, William Parker, Thomas Re, Pina Sanelli, Alexander W. Sauter, Zhoubing Xu, Youngjin Yoo, Valentin Ziebandt, Dorin Comaniciu*
-
-1. **"Artificial Intelligence Distinguishes COVID-19 from Community Acquired Pneumonia on Chest CT."** Radiology, 2020. <br>
-doi: https://doi.org/10.1148/radiol.2020200905
-
-    *Lin Li, Lixin Qin, Zeguo Xu, Youbing Yin, Xin Wang, Bin Kong, Junjie Bai, Yi Lu, Zhenghan Fang, Qi Song, Kunlin Cao, Daliang Liu, Guisheng Wang, Qizhong Xu, Xisheng Fang, Shiqin Zhang, Juan Xia, and Jun Xia*
-
  
 1. **"Machine learning-based CT radiomics model for predicting hospital stay in patients with pneumonia associated with SARS-CoV-2 infection: A multicenter study."** medRxiv 2020.02.29.20029603, 2020. <br>
 doi: https://doi.org/10.1101/2020.02.29.20029603
@@ -349,18 +403,7 @@ doi: https://doi.org/10.1101/2020.02.29.20029603
 doi: https://doi.org/10.1101/2020.02.25.20021568
 
     *Jun Chen, Lianlian Wu, Jun Zhang, Liang Zhang, Dexin Gong, Yilin Zhao, Shan Hu, Yonggui Wang, Xiao Hu, Biqing Zheng, Kuo Zhang, Huiling Wu, Zehua Dong, Youming Xu, Yijie Zhu, Xi Chen, Lilei Yu, Honggang Yu*
-
-1. **"Severe COVID-19 Pneumonia: Assessing Inflammation Burden with Volume-rendered Chest CT."** Radiology: Cardiothoracic Imaging, 2020, 2:2  <br>
-doi: https://doi.org/10.1148/ryct.2020200044
-
-    *Lei Tang, Xiaoyong Zhang, Yvquan Wang, and Xianchun Zeng*
-
-1. **"Quantitative computed tomography analysis for stratifying the severity of Coronavirus Disease 2019."** Journal of Pharmaceutical Analysis, 2020, 2095-1779  <br>
-doi: https://doi.org/10.1016/j.jpha.2020.03.004
-
-    *Cong Shen, Nan Yu, Shubo Cai, Jie Zhou, Jiexin Sheng, Kang Liu, Heping Zhou, Youmin Guo, Gang Niu*
-
-
+ 
 1. **"Deep learning Enables Accurate Diagnosis of Novel Coronavirus (COVID-19) with CT images."** medRxiv 2020.02.23.20026930, 2020. <br>
 doi: https://doi.org/10.1101/2020.02.23.20026930
 
@@ -412,12 +455,7 @@ arXiv: https://arxiv.org/abs/2004.06673
 
     *Tongxue Zhou, Stéphane Canu, Su Ruan*
 
-1. **"Inf-Net: Automatic COVID-19 Lung Infection Segmentation from CT Scans."** arXiv, 2020. <br>
-arXiv: https://arxiv.org/abs/2004.14133 <br>
-Project: https://github.com/DengPingFan/Inf-Net
 
-
-    *Deng-Ping Fan, Tao Zhou, Ge-Peng Ji, Yi Zhou, Geng Chen, Huazhu Fu, Jianbing Shen, and Ling Shao*
 
 
 1. **"Sample-Efficient Deep Learning for COVID-19 Diagnosis Based on CT Scans."** medRxiv, 2020. <br>
@@ -474,13 +512,7 @@ doi: https://doi.org/10.1101/2020.04.17.20069187
 arXiv: https://arxiv.org/abs/2004.10987
 
     *Qingsen Yan, Bo Wang, Dong Gong, Chuan Luo, Wei Zhao, Jianhu Shen, Qinfeng Shi, Shuo Jin, Liang Zhang, Zheng You*
-
-1. **"Clinically Applicable AI System for Accurate Diagnosis, Quantitative Measurements and Prognosis of COVID-19 Pneumonia Using Computed Tomography."** Cell, 2020. <br>
-arXiv: https://doi.org/10.1016/j.cell.2020.04.045 <br>
-dataset: http://ncov-ai.big.ac.cn/download?lang=en
-
-    *Kang Zhang, Xiaohong Liu, Jun Shen, Zhihuan Li, Ye Sang, Xingwang Wu, Yunfei Cha, Wenhua Liang, Chengdi Wang, Ke Wang, Linsen Ye, Ming Gao, Zhongguo Zhou, Liang Li, Jin Wang, Zhizhong Yang, Huimin Cai, Jie Xu, Lei Yang, Wenjia Cai, Wenqin Xu, Shaoxu Wu, Wei Zhang, Shanping Jiang, Lianghong Zheng, Xuan Zhang, Li Wang, Liu Lu,  Jiaming Li, Haiying Wu, Winston Wang, Oulan Li, Charlotte Zhang, Liang Liang, Tao Wu, Ruiyun Deng, Kang Wei, Yong Zhou, Ting Chen, Johnson Yiu-Nam Lau, Manson Fok, Jianxing He, Tianxin Lin, Weimin Li, Guangyu Wang*
-
+ 
 1. **"A Light CNN for detecting COVID-19 from CT scans of the chest."** arXiv, 2020. <br>
 arXiv: https://arxiv.org/abs/2004.12837
 
@@ -490,17 +522,7 @@ arXiv: https://arxiv.org/abs/2004.12837
 arXiv: https://arxiv.org/abs/2004.12852
 
     *Guillaume Chassagnon, Maria Vakalopoulou, Enzo Battistella, Stergios Christodoulidis, Trieu-Nghi Hoang-Thi, Severine Dangeard, Eric Deutsch, Fabrice Andre, Enora Guillo, Nara Halm, Stefany El Hajj, Florian Bompard, Sophie Neveu, Chahinez Hani, Ines Saab, Alienor Campredon, Hasmik Koulakian, Souhail Bennani, Gael Freche, Aurelien Lombard, Laure Fournier, Hippolyte Monnier, Teodor Grand, Jules Gregory, Antoine Khalil, Elyas Mahdjoub, Pierre-Yves Brillet, Stephane Tran Ba, Valerie Bousson, Marie-Pierre Revel, Nikos Paragios*
-
-1. **"AI Augmentation of Radiologist Performance in Distinguishing COVID-19 from Pneumonia of Other Etiology on Chest CT."** Radiology, 2020. <br>
-doi: https://doi.org/10.1148/radiol.2020201491
-
-    *Harrison X. Bai, Robin Wang, Zeng Xiong, Ben Hsieh, Ken Chang, Kasey Halsey, Thi My Linh Tran, Ji Whae Choi, Dong-Cui Wang, Lin-Bo Shi, Ji Mei, Xiao-Long Jiang, Ian Pan, Qiu-Hua Zeng, Ping-Feng Hu, Yi-Hui Li, Fei-Xian Fu, Raymond Y. Huang, Ronnie Sebro, Qi-Zhi Yu, Michael K. Atalay, and Wei-Hua Liao*
-
-1. **"Application of deep learning technique to manage COVID-19 in routine clinical practice using CT images: Results of 10 convolutional neural networks."** Computers in Biology and Medicine, 2020. <br>
-doi: https://doi.org/10.1016/j.compbiomed.2020.103795
-
-    *Ali Abbasian Ardakani, Alireza Rajabzadeh Kanafi, U. Rajendra Acharya, Nazanin Khadem, Afshin Mohammadi*
-
+ 
 1. **"Automated Diagnosis of COVID-19 Using Deep Learning and Data Augmentation on Chest CT."** medRxiv 2020.04.24.20078998, 2020. <br>
 doi: https://doi.org/10.1101/2020.04.24.20078998
 
@@ -530,13 +552,7 @@ doi: https://doi.org/10.1101/2020.04.24.20078998
 arXiv: https://arxiv.org/abs/2005.03059
 
     *Tahereh Javaheri, Morteza Homayounfar, Zohreh Amoozgar, Reza Reiazi, Fatemeh Homayounieh, Engy Abbas, Azadeh Laali, Amir Reza Radmard, Mohammad Hadi Gharib, Seyed Ali Javad Mousavi, Omid Ghaemi, Rosa Babaei, Hadi Karimi Mobin, Mehdi Hosseinzadeh, Rana Jahanban-Esfahlan, Khaled Seidi, Mannudeep K. Kalra, Guanglan Zhang, L.T. Chitkushev, Benjamin Haibe-Kains, Reza Malekzadeh, Reza Rawassizadeh*
-
-1. **"Diagnosis of Coronavirus Disease 2019 (COVID-19) with Structured Latent Multi-View Representation Learning."** IEEE Transactions on Medical Imaging, 2020<br>
-doi: https://doi.org/10.1109/TMI.2020.2992546 <br>
-arXiv: https://arxiv.org/abs/2005.03227
-
-    *Hengyuan Kang, Liming Xia, Fuhua Yan, Zhibin Wan, Feng Shi, Huan Yuan, Huiting Jiang, Dijia Wu, He Sui, Changqing Zhang, Dinggang Shen*
-
+ 
 1. **"Adaptive Feature Selection Guided Deep Forest for COVID-19 Classification with Chest CT."** arXiv, 2020. <br>
 arXiv: https://arxiv.org/abs/2005.03264
 
@@ -582,22 +598,14 @@ doi: https://doi.org/10.1101/2020.05.11.20093732
 
     *Bohan Liu, Pan Liu, Lutao Dai, Yanlin Yang, Peng Xie, Yiqing Tan, Jicheng Du, Wei Shan, Chenghui Zhao, Qin Zhong, Xixiang Lin, Xizhou Guan, Ning Xing, Yuhui Sun, Wenjun Wang, Zhibing Zhang, Xia Fu, Yanqing Fan, Meifang Li, Na Zhang, Lin Li, Yaou Liu, Lin Xu, Jingbo Du, Zhenhua Zhao, Xuelong Hu, Weipeng Fan, Rongpin Wang, Chongchong Wu, Yongkang Nie, Liuquan Cheng, Lin Ma, Zongren Li, Qian Jia, Minchao Liu, Huayuan Guo, Gao Huang, Haipeng Shen, Weimin An, Hao Li, Jianxin Zhou, Kunlun He*
 
-
-1. **"Prior-Attention Residual Learning for More Discriminative COVID-19 Screening in CT Images."**  in IEEE Transactions on Medical Imaging, 2020. <br> 
-doi: https://doi.org/10.1109/TMI.2020.2994908
-
-    *Jun Wang, Yiming Bao, Yaofeng Wen, Hongbing Lu, Hu Luo, Yunfei Xiang, Xiaoming Li, Chen Liu, Dahong Qian*
-
-1. **"Relational Modeling for Robust and Efficient Pulmonary Lobe Segmentation in CT Scans."**  in IEEE Transactions on Medical Imaging, 2020. <br> 
-doi: https://doi.org/10.1109/TMI.2020.2995108
-
-    *Weiyi Xie, Colin Jacobs, Jean-Paul Charbonnier, Bram van Ginneken*
-
-
-
+ 
 ### CXR-based methods: <a id="technical_CXR" class="anchor" href="#technical_CXR" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
+1. **"Deep Learning COVID-19 Features on CXR using Limited Training Data Sets."** IEEE Transactions on Medical Imaging, 2020.<br>
+https://doi.org/10.1109/TMI.2020.2993291 <br>
+arXiv: https://arxiv.org/abs/2004.05758
 
+    *Yujin Oh, Sangjoon Park, Jong Chul Ye*
 
 1. **"COVID-Net: A Tailored Deep Convolutional Neural Network Design for Detection of COVID-19 Cases from Chest Radiography Images."** arXiv, 2020. <br>
 arXiv: https://arxiv.org/abs/2003.09871
@@ -623,9 +631,7 @@ arXiv: https://arxiv.org/abs/2003.12338
 arXiv: https://arxiv.org/abs/2003.10769
 
     *Biraja Ghoshal, Allan Tucker*
-
-
-
+ 
 1. **COVID-ResNet: A Deep Learning Framework for Screening of COVID19 from Radiographs.** arXiv, 2020. <br>
 arXiv: https://arxiv.org/abs/2003.14395
 
@@ -692,13 +698,7 @@ doi: https://doi.org/10.1101/2020.04.08.20040907
 arXiv: https://arxiv.org/abs/2003.13145
 
     *Muhammad E. H. Chowdhury, Tawsifur Rahman, Amith Khandakar, Rashid Mazhar, Muhammad Abdul Kadir, Zaid Bin Mahbub, Khandakar R. Islam, Muhammad Salman Khan, Atif Iqbal, Nasser Al-Emadi, Mamun Bin Ibne Reaz*
-
-1. **"Deep Learning COVID-19 Features on CXR using Limited Training Data Sets."** IEEE Transactions on Medical Imaging, 2020.<br>
-https://doi.org/10.1109/TMI.2020.2993291 <br>
-arXiv: https://arxiv.org/abs/2004.05758
-
-    *Yujin Oh, Sangjoon Park, Jong Chul Ye*
-
+ 
 1. **"Towards an Efficient Deep Learning Model for COVID-19 Patterns Detection in X-ray Images."**  arXiv, 2020. <br>  
 arXiv: https://arxiv.org/abs/2004.05717
 
@@ -892,6 +892,11 @@ doi: https://doi.org/10.1101/2020.05.10.20097063
 
 ### Other imaging methods: <a id="technical_other" class="anchor" href="#technical_other" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
+1. **"Deep learning for classification and localization of COVID-19 markers in point-of-care lung ultrasound."** in IEEE Transactions on Medical Imaging, 2020. <br>
+doi: https://doi.org/10.1109/TMI.2020.2994459
+
+    *Subhankar Roy, Willi Menapace,  Sebastiaan Oei,  Ben Luijten,  Enrico Fini,  Cristiano Saltori,  Iris Huijben,  Nishith Chennakeshava,  Federico Mento,  Alessandro Sentelli,  Emanuele Peschiera,  Riccardo Trevisan,  Giovanni Maschietto,  Elena Torri,  Riccardo Inchingolo,  Andrea Smargiassi,  Gino Soldati,  Paolo Rota,  Andrea Passerini,  Ruud J.G. Van Sloun,  Elisa Ricci,  Libertario Demi*
+
 1. **"Line Artefact Quantification in Lung Ultrasound Images of COVID-19 Patients via Non-Convex Regularisation."** arXiv, 2020. <br>
 arXiv: https://arxiv.org/abs/2005.03080
 
@@ -901,8 +906,3 @@ arXiv: https://arxiv.org/abs/2005.03080
 doi: https://doi.org/10.1101/2020.05.08.20095117
 
     *Yale Tung Chen, Milagros Marti de Gracia, Aurea DiezTascon, Sergio Agudo-Fernandez, Rodrigo Alonso-Gonzalez, Pablo Rodriguez Fuertes, Luz Parra-Gordo, Silvia Ossaba-Velez, Rafael Llamas Fuentes*
-
-1. **"Deep learning for classification and localization of COVID-19 markers in point-of-care lung ultrasound."** in IEEE Transactions on Medical Imaging, 2020. <br>
-doi: https://doi.org/10.1109/TMI.2020.2994459
-
-    *Subhankar Roy, Willi Menapace,  Sebastiaan Oei,  Ben Luijten,  Enrico Fini,  Cristiano Saltori,  Iris Huijben,  Nishith Chennakeshava,  Federico Mento,  Alessandro Sentelli,  Emanuele Peschiera,  Riccardo Trevisan,  Giovanni Maschietto,  Elena Torri,  Riccardo Inchingolo,  Andrea Smargiassi,  Gino Soldati,  Paolo Rota,  Andrea Passerini,  Ruud J.G. Van Sloun,  Elisa Ricci,  Libertario Demi*
