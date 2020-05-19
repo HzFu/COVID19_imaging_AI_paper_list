@@ -334,7 +334,7 @@ doi: https://doi.org/10.1109/TMI.2020.2994908
 
     *Jun Wang, Yiming Bao, Yaofeng Wen, Hongbing Lu, Hu Luo, Yunfei Xiang, Xiaoming Li, Chen Liu, Dahong Qian*
 
-1. **"Inf-Net: Automatic COVID-19 Lung Infection Segmentation from CT Scans."** in IEEE Transactions on Medical Imaging, 2020. <br> 
+1. **"Inf-Net: Automatic COVID-19 Lung Infection Segmentation from CT Images."** in IEEE Transactions on Medical Imaging, 2020. <br> 
 arXiv: https://arxiv.org/abs/2004.14133 <br>
 Project: https://github.com/DengPingFan/Inf-Net
 
