@@ -346,6 +346,15 @@ doi: https://doi.org/10.1109/TMI.2020.2995108
 
     *Weiyi Xie, Colin Jacobs, Jean-Paul Charbonnier, Bram van Ginneken*
 
+1. **"Artificial intelligence–enabled rapid diagnosis of patients with COVID-19."** in Nature Medicine, 2020. <br>
+doi: https://doi.org/10.1038/s41591-020-0931-3
+
+    *Xueyan Mei, Hao-Chih Lee, Kai-yue Diao, Mingqian Huang, Bin Lin, Chenyu Liu, Zongyu Xie, Yixuan Ma, Philip M. Robson, Michael Chung, Adam Bernheim, Venkatesh Mani, Claudia Calcagno, Kunwei Li, Shaolin Li, Hong Shan, Jian Lv, Tongtong Zhao, Junli Xia, Qihua Long, Sharon Steinberger, Adam Jacobi, Timothy Deyer, Marta Luksza, Fang Liu, Brent P. Little, Zahi A. Fayad, Yang Yang*
+
+
+
+
+
 1. **"A deep learning algorithm using CT images to screen for Corona Virus Disease (COVID-19)."** medRxiv 2020.02.14.20023028, 2020. <br>
 doi: https://doi.org/10.1101/2020.02.14.20023028
 
@@ -454,10 +463,7 @@ arXiv: https://arxiv.org/abs/2004.06689
 arXiv: https://arxiv.org/abs/2004.06673
 
     *Tongxue Zhou, Stéphane Canu, Su Ruan*
-
-
-
-
+ 
 1. **"Sample-Efficient Deep Learning for COVID-19 Diagnosis Based on CT Scans."** medRxiv, 2020. <br>
 doi: https://doi.org/10.1101/2020.04.13.20063941
 
