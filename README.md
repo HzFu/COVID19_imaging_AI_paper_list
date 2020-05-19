@@ -6,7 +6,7 @@ This is a collection of COVID-19 imaging-based AI research papers and datasets. 
  
 Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Deng-Ping Fan*](https://dpfan.net/), [*Geng Chen*](https://www.researchgate.net/profile/Geng_Chen13), and [*Tao Zhou*](https://taozh2017.github.io).
 
---- *Last updated: 2020/05/17* --- 
+--- *Last updated: 2020/05/19* --- 
 
 
 *Caution: We list the peer-reviewed papers before the preprints (e.g., arXiv and medRxiv). <br> 
@@ -598,6 +598,10 @@ doi: https://doi.org/10.1101/2020.05.11.20093732
 
     *Bohan Liu, Pan Liu, Lutao Dai, Yanlin Yang, Peng Xie, Yiqing Tan, Jicheng Du, Wei Shan, Chenghui Zhao, Qin Zhong, Xixiang Lin, Xizhou Guan, Ning Xing, Yuhui Sun, Wenjun Wang, Zhibing Zhang, Xia Fu, Yanqing Fan, Meifang Li, Na Zhang, Lin Li, Yaou Liu, Lin Xu, Jingbo Du, Zhenhua Zhao, Xuelong Hu, Weipeng Fan, Rongpin Wang, Chongchong Wu, Yongkang Nie, Liuquan Cheng, Lin Ma, Zongren Li, Qian Jia, Minchao Liu, Huayuan Guo, Gao Huang, Haipeng Shen, Weimin An, Hao Li, Jianxin Zhou, Kunlun He*
 
+1. **"Interpretable Artificial Intelligence for COVID-19 Diagnosis from Chest CT Reveals Specificity of Ground-Glass Opacities."** medRxiv 2020.05.16.20103408, 2020.<br> 
+doi: https://doi.org/10.1101/2020.05.16.20103408
+
+    *Anmol Warman, Pranav Warman, Ayushman Sharma, Puja Parikh, Roshan Warman, Narayan Viswanadhan, Lu Chen, Subhra Mohapatra, Shyam Mohapatra, Guillermo Sapiro*
  
 ### CXR-based methods: <a id="technical_CXR" class="anchor" href="#technical_CXR" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
@@ -888,6 +892,22 @@ doi: https://doi.org/10.1101/2020.05.09.20096560
 doi: https://doi.org/10.1101/2020.05.10.20097063
 
     *Kishore Medhi, Md. Jamil, Iftekhar Hussain*
+
+1. **"Classification of COVID-19 in chest X-ray images using DeTraC deep convolutional neural network."** medRxiv 2020.03.30.20047456, 2020. <br> 
+doi: https://doi.org/10.1101/2020.03.30.20047456
+
+    *Asmaa Abbas, Mohammed Abdelsamea, Mohamed Gaber*
+
+1. **"COVID-Classifier: An automated machine learning model to assist in the diagnosis of COVID-19 infection in chest x-ray images."** medRxiv 2020.05.09.20096560, 2020. <br> 
+doi: https://doi.org/10.1101/2020.05.09.20096560
+
+    *Abolfazl Zargari Khuzani, Morteza Heidari, Ali Shariati*
+
+1. **"Covid-19 Detection using CNN Transfer Learning from X-ray Images."** medRxiv 2020.05.12.20098954, 2020. <br>
+doi: https://doi.org/10.1101/2020.05.12.20098954
+
+    *Taban Majeed, Rasber Rashid, Dashti Ali, Aras Asaad*
+
 
 
 ### Other imaging methods: <a id="technical_other" class="anchor" href="#technical_other" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
