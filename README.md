@@ -6,7 +6,7 @@ This is a collection of COVID-19 imaging-based AI research papers and datasets. 
  
 Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Deng-Ping Fan*](https://dpfan.net/), [*Geng Chen*](https://www.researchgate.net/profile/Geng_Chen13), and [*Tao Zhou*](https://taozh2017.github.io).
 
---- *Last updated: 2020/05/19* --- 
+--- *Last updated: 2020/05/20* --- 
 
 
 *Caution: We list the peer-reviewed papers before the preprints (e.g., arXiv and medRxiv). <br> 
@@ -346,6 +346,12 @@ doi: https://doi.org/10.1109/TMI.2020.2995108
 
     *Weiyi Xie, Colin Jacobs, Jean-Paul Charbonnier, Bram van Ginneken*
 
+1. **"Dual-Sampling Attention Network for Diagnosis of COVID-19 from Community Acquired Pneumonia."** in IEEE Transactions on Medical Imaging, 2020. <br>
+arXiv: https://arxiv.org/abs/2005.02690 <br>
+doi: https://doi.org/10.1109/TMI.2020.2995508
+
+    *Xi Ouyang, Jiayu Huo, Liming Xia, Fei Shan, Jun Liu, Zhanhao Mo, Fuhua Yan, Zhongxiang Ding, Qi Yang, Bin Song, Feng Shi, Huan Yuan, Ying Wei, Xiaohuan Cao, Yaozong Gao, Dijia Wu, Qian Wang, Dinggang Shen*
+
 1. **"Artificial intelligence–enabled rapid diagnosis of patients with COVID-19."** in Nature Medicine, 2020. <br>
 doi: https://doi.org/10.1038/s41591-020-0931-3
 
@@ -544,10 +550,7 @@ arXiv: https://arxiv.org/abs/2005.01903
 
     *Siqi Liu, Bogdan Georgescu, Zhoubing Xu, Youngjin Yoo, Guillaume Chabin, Shikha Chaganti, Sasa Grbic, Sebastian Piat, Brian Teixeira, Abishek Balachandran, Vishwanath RS, Thomas Re, Dorin Comaniciu*
 
-1. **"Dual-Sampling Attention Network for Diagnosis of COVID-19 from Community Acquired Pneumonia."** arXiv, 2020. <br>
-arXiv: https://arxiv.org/abs/2005.02690
 
-    *Xi Ouyang, Jiayu Huo, Liming Xia, Fei Shan, Jun Liu, Zhanhao Mo, Fuhua Yan, Zhongxiang Ding, Qi Yang, Bin Song, Feng Shi, Huan Yuan, Ying Wei, Xiaohuan Cao, Yaozong Gao, Dijia Wu, Qian Wang, Dinggang Shen*
 
 1. **"Automated Diagnosis of COVID-19 Using Deep Learning and Data Augmentation on Chest CT."** medRxiv 2020.04.24.20078998, 2020. <br> 
 doi: https://doi.org/10.1101/2020.04.24.20078998
@@ -609,6 +612,12 @@ doi: https://doi.org/10.1101/2020.05.16.20103408
 
     *Anmol Warman, Pranav Warman, Ayushman Sharma, Puja Parikh, Roshan Warman, Narayan Viswanadhan, Lu Chen, Subhra Mohapatra, Shyam Mohapatra, Guillermo Sapiro*
  
+1. **"Deep learning models for COVID-19 infected area segmentation in CT images."** medRxiv 2020.05.08.20094664, 2020. <br> 
+doi: https://doi.org/10.1101/2020.05.08.20094664
+
+    *Athanasios Voulodimos, Eftychios Protopapadakis, Iason Katsamenis, Anastasios Doulamis, Nikolaos Doulamis*
+
+
 ### CXR-based methods: <a id="technical_CXR" class="anchor" href="#technical_CXR" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
 1. **"Deep Learning COVID-19 Features on CXR using Limited Training Data Sets."** IEEE Transactions on Medical Imaging, 2020.<br>
@@ -914,7 +923,13 @@ doi: https://doi.org/10.1101/2020.05.12.20098954
 
     *Taban Majeed, Rasber Rashid, Dashti Ali, Aras Asaad*
 
+1. **"COVID Faster R-CNN: A Novel Framework to Diagnose Novel Coronavirus Disease (COVID-19) in X-Ray Images."** medRxiv 2020.05.14.20101873, 2020. <br> 
+doi: https://doi.org/10.1101/2020.05.14.20101873
 
+    *Kabid Hassan Shibly, Samrat Kumar Dey, Md. Tahzib Ul Islam, Md. Mahbubur Rahman*
+
+
+    
 
 ### Other imaging methods: <a id="technical_other" class="anchor" href="#technical_other" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
