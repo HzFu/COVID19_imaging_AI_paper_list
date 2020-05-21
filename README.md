@@ -6,7 +6,7 @@ This is a collection of COVID-19 imaging-based AI research papers and datasets. 
  
 Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Deng-Ping Fan*](https://dpfan.net/), [*Geng Chen*](https://www.researchgate.net/profile/Geng_Chen13), and [*Tao Zhou*](https://taozh2017.github.io).
 
---- *Last updated: 2020/05/20* --- 
+--- *Last updated: 2020/05/21* --- 
 
 
 *Caution: We list the peer-reviewed papers before the preprints (e.g., arXiv and medRxiv). <br> 
@@ -515,11 +515,6 @@ arXiv: https://arxiv.org/abs/2004.10641
 
     *Sara Hosseinzadeh Kassani, Peyman Hosseinzadeh Kassasni, Michal J. Wesolowski, Kevin A. Schneider, Ralph Deters*
 
-1. **"AI-Driven CT-based quantification, staging and short-term outcome prediction of COVID-19 pneumonia."** medRxiv 2020.04.17.20069187, 2020. <br>
-doi: https://doi.org/10.1101/2020.04.17.20069187
-
-    *Guillaume Chassagnon, Maria Vakalopoulou, Enzo Battistella, Stergios Christodoulidis, Trieu-Nghi Hoang-Thi, Severine Dangeard, Eric Deutsch, Fabrice Andre, Enora Guillo, Nara Halm, Stefany El Hajj, Florian Bompard, Sophie Neveu, Chahinez Hani, Ines Saab, Alienor Campredon, Hasmik Koulakian, Souhail Bennani, Gael Freche, Aurelien Lombard, Laure Fournier, Hippolyte Monnier, Teodor Grand, Jules Gregory, Antoine Khalil, Elyas Mahdjoub, Pierre-Yves Brillet, Stephane Tran Ba, Valerie Bousson, Marie-Pierre Revel, Nikos Paragios*
-
 1. **"COVID-19 Chest CT Image Segmentation -- A Deep Convolutional Neural Network Solution."** arXiv, 2020. <br>
 arXiv: https://arxiv.org/abs/2004.10987
 
@@ -928,7 +923,10 @@ doi: https://doi.org/10.1101/2020.05.14.20101873
 
     *Kabid Hassan Shibly, Samrat Kumar Dey, Md. Tahzib Ul Islam, Md. Mahbubur Rahman*
 
+1. **"Lung Segmentation from Chest X-rays using Variational Data Imputation."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2005.10052
 
+    *Raghavendra Selvan, Erik B. Dam, Sofus Rischel, Kaining Sheng, Mads Nielsen, Akshay Pai*
     
 
 ### Other imaging methods: <a id="technical_other" class="anchor" href="#technical_other" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
@@ -947,3 +945,8 @@ arXiv: https://arxiv.org/abs/2005.03080
 doi: https://doi.org/10.1101/2020.05.08.20095117
 
     *Yale Tung Chen, Milagros Marti de Gracia, Aurea DiezTascon, Sergio Agudo-Fernandez, Rodrigo Alonso-Gonzalez, Pablo Rodriguez Fuertes, Luz Parra-Gordo, Silvia Ossaba-Velez, Rafael Llamas Fuentes*
+
+1. **"Validating the correct wearing of protection mask by taking a selfie: design of a mobile application "CheckYourMask" to limit the spread of COVID-19."** preprint, 2020. <br>
+doi: DOI: 10.13140/RG.2.2.13881.39526
+
+    *Karim Hammoudi, Adnane Cabani, Halim Benhabiles, Mahmoud Melkemi*
