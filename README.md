@@ -6,7 +6,7 @@ This is a collection of COVID-19 imaging-based AI research papers and datasets. 
  
 Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Deng-Ping Fan*](https://dpfan.net/), [*Geng Chen*](https://www.researchgate.net/profile/Geng_Chen13), and [*Tao Zhou*](https://taozh2017.github.io).
 
---- *Last updated: 2020/05/21* --- 
+--- *Last updated: 2020/05/23* --- 
 
 
 *Caution: We list the peer-reviewed papers before the preprints (e.g., arXiv and medRxiv). <br> 
@@ -282,6 +282,12 @@ doi: https://doi.org/10.1101/2020.04.24.20078584
 
     *Plamen Angelov, Eduardo Soares*
 
+1. **"Diagnostic power of chest CT for COVID-19: to screen or not to screen."** medRxiv 2020.05.18.20097444, 2020.<br> 
+doi: https://doi.org/10.1101/2020.05.18.20097444
+
+    *Kristof Smet, Dieter De Smet, Ingel Demedts, Bernard Bouckaert, Thomas Ryckaert, Emanuel Laridon, Birgit Heremans, Ruben Vandenbulcke, Stefaan Gryspeerdt, Geert Antoine Martens*
+
+
 ------
 
 
@@ -336,6 +342,7 @@ doi: https://doi.org/10.1109/TMI.2020.2994908
 
 1. **"Inf-Net: Automatic COVID-19 Lung Infection Segmentation from CT Images."** in IEEE Transactions on Medical Imaging, 2020. <br> 
 arXiv: https://arxiv.org/abs/2004.14133 <br>
+doi: https://doi.org/10.1109/TMI.2020.2996645 <br>
 Project: https://github.com/DengPingFan/Inf-Net
 
 
@@ -351,6 +358,16 @@ arXiv: https://arxiv.org/abs/2005.02690 <br>
 doi: https://doi.org/10.1109/TMI.2020.2995508
 
     *Xi Ouyang, Jiayu Huo, Liming Xia, Fei Shan, Jun Liu, Zhanhao Mo, Fuhua Yan, Zhongxiang Ding, Qi Yang, Bin Song, Feng Shi, Huan Yuan, Ying Wei, Xiaohuan Cao, Yaozong Gao, Dijia Wu, Qian Wang, Dinggang Shen*
+
+1. **"A Weakly-supervised Framework for COVID-19 Classification and Lesion Localization from Chest CT."** in IEEE Transactions on Medical Imaging, 2020. <br>
+doi: https://doi.org/10.1109/TMI.2020.2995965
+
+    *Xinggang Wang, Xianbo Deng, Qing Fu, Qiang Zhou, Jiapei Feng, Hui Ma, Wenyu Liu, Chuansheng Zheng*
+
+1. **"Accurate Screening of COVID-19 using Attention Based Deep 3D Multiple Instance Learning."** in IEEE Transactions on Medical Imaging, 2020. <br>
+doi: https://doi.org/10.1109/TMI.2020.2996256
+
+    *Zhongyi Han, Benzheng Wei, Yanfei Hong, Tianyang Li, Jinyu Cong, Xue Zhu, Haifeng Wei, Wei Zhang*
 
 1. **"Artificial intelligence–enabled rapid diagnosis of patients with COVID-19."** in Nature Medicine, 2020. <br>
 doi: https://doi.org/10.1038/s41591-020-0931-3
@@ -947,6 +964,13 @@ doi: https://doi.org/10.1101/2020.05.08.20095117
     *Yale Tung Chen, Milagros Marti de Gracia, Aurea DiezTascon, Sergio Agudo-Fernandez, Rodrigo Alonso-Gonzalez, Pablo Rodriguez Fuertes, Luz Parra-Gordo, Silvia Ossaba-Velez, Rafael Llamas Fuentes*
 
 1. **"Validating the correct wearing of protection mask by taking a selfie: design of a mobile application "CheckYourMask" to limit the spread of COVID-19."** preprint, 2020. <br>
-doi: DOI: 10.13140/RG.2.2.13881.39526
+doi: https://doi.org/10.13140/RG.2.2.13881.39526
 
     *Karim Hammoudi, Adnane Cabani, Halim Benhabiles, Mahmoud Melkemi*
+
+1. **"Multifocal transient cortical brain lesions: a consistent MRI finding in neuro-COVID-19 patients."** medRxiv 2020.05.19.20103168, 2020.<br> 
+doi: https://doi.org/10.1101/2020.05.19.20103168
+
+    *Nicoletta Anzalone, Antonella Castellano, Roberta Scotti, Anna Mara Scandroglio, Massimo Filippi, Fabio Ciceri, Moreno Tresoldi, Andrea Falini*
+
+    
