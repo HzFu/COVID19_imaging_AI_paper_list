@@ -954,7 +954,15 @@ doi: https://doi.org/10.1101/2020.05.22.20110817
 
     *Antonios Makris, Ioannis Kontopoulos, Konstantinos Tserpes*
 
+1. **"Vulnerability of deep neural networks for detecting COVID-19 cases from chest X-ray images to universal adversarial attacks."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2005.11061
 
+    *Hokuto Hirano, Kazuki Koga, Kazuhiro Takemoto*
+
+1. **"SODA: Detecting Covid-19 in Chest X-rays with Semi-supervised Open Set Domain Adaptation."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2005.11003
+
+    *Jieli Zhou, Baoyu Jing, Zeya Wang*
 
 ### Other imaging methods: <a id="technical_other" class="anchor" href="#technical_other" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
