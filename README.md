@@ -6,7 +6,7 @@ This is a collection of COVID-19 imaging-based AI research papers and datasets. 
  
 Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Deng-Ping Fan*](https://dpfan.net/), [*Geng Chen*](https://www.researchgate.net/profile/Geng_Chen13), and [*Tao Zhou*](https://taozh2017.github.io).
 
---- *Last updated: 2020/05/23* --- 
+--- *Last updated: 2020/05/25* --- 
 
 
 *Caution: We list the peer-reviewed papers before the preprints (e.g., arXiv and medRxiv). <br> 
@@ -629,6 +629,10 @@ doi: https://doi.org/10.1101/2020.05.08.20094664
 
     *Athanasios Voulodimos, Eftychios Protopapadakis, Iason Katsamenis, Anastasios Doulamis, Nikolaos Doulamis*
 
+1. **"Diagnostic power of chest CT for COVID-19: to screen or not to screen."** medRxiv 2020.05.18.20097444, 2020. <br>
+doi: https://doi.org/10.1101/2020.05.18.20097444
+
+    *Kristof De Smet, Dieter De Smet, Ingel Demedts, Bernard Bouckaert, Thomas Ryckaert, Emanuel Laridon, Birgit Heremans, Ruben Vandenbulcke, Stefaan Gryspeerdt, Geert Antoine Martens*
 
 ### CXR-based methods: <a id="technical_CXR" class="anchor" href="#technical_CXR" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
@@ -945,6 +949,12 @@ arXiv: https://arxiv.org/abs/2005.10052
 
     *Raghavendra Selvan, Erik B. Dam, Sofus Rischel, Kaining Sheng, Mads Nielsen, Akshay Pai*
     
+1. **"COVID-19 detection from chest X-Ray images using Deep Learning and Convolutional Neural Networks."** medRxiv 2020.05.22.20110817, 2020. <br>
+doi: https://doi.org/10.1101/2020.05.22.20110817
+
+    *Antonios Makris, Ioannis Kontopoulos, Konstantinos Tserpes*
+
+
 
 ### Other imaging methods: <a id="technical_other" class="anchor" href="#technical_other" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
