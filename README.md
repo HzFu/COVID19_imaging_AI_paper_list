@@ -6,7 +6,7 @@ This is a collection of COVID-19 imaging-based AI research papers and datasets. 
  
 Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Deng-Ping Fan*](https://dpfan.net/), [*Geng Chen*](https://www.researchgate.net/profile/Geng_Chen13), and [*Tao Zhou*](https://taozh2017.github.io).
 
---- *Last updated: 2020/05/25* --- 
+--- *Last updated: 2020/05/26* --- 
 
 
 *Caution: We list the peer-reviewed papers before the preprints (e.g., arXiv and medRxiv). <br> 
@@ -93,9 +93,7 @@ Link: http://ftp.iza.org/dp13110.pdf
 doi: https://doi.org/10.1101/2020.03.24.20041020
 
     *Laure Wynants, Ben Van Calster, Marc MJ Bonten, Gary S Collins, Thomas PA Debray, Maarten De Vos, Maria C Haller, Georg Heinze, Karel GM Moons, Richard D Riley, Ewoud Schuit, Luc Smits, Kym IE Snell, Ewout W Steyerberg, Christine Wallisch,  Maarten van Smeden*
-
-
-
+ 
 1. **Mapping the landscape of artificial intelligence applications against COVID-19.** arXiv, 2020. <br>
 arXiv: https://arxiv.org/abs/2003.11336  
 
@@ -963,6 +961,12 @@ arXiv: https://arxiv.org/abs/2005.11061
 arXiv: https://arxiv.org/abs/2005.11003
 
     *Jieli Zhou, Baoyu Jing, Zeya Wang*
+
+
+1. **"Coronavirus: Comparing COVID-19, SARS and MERS in the eyes of AI."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2005.11524
+
+    *Anas Tahir, Yazan Qiblawey, Amith Khandakar, Tawsifur Rahman, Uzair Khurshid, Farayi Musharavati, Serkan Kiranyaz, Muhammad E. H. Chowdhury*
 
 ### Other imaging methods: <a id="technical_other" class="anchor" href="#technical_other" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
