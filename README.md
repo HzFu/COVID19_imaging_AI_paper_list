@@ -6,7 +6,7 @@ This is a collection of COVID-19 imaging-based AI research papers and datasets. 
  
 Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Deng-Ping Fan*](https://dpfan.net/), [*Geng Chen*](https://www.researchgate.net/profile/Geng_Chen13), and [*Tao Zhou*](https://taozh2017.github.io).
 
---- *Last updated: 2020/05/26* --- 
+--- *Last updated: 2020/05/27* --- 
 
 
 *Caution: We list the peer-reviewed papers before the preprints (e.g., arXiv and medRxiv). <br> 
@@ -104,6 +104,10 @@ arXiv: https://arxiv.org/abs/2004.14143
 
     *Mahdi Rezaei, Mahsa Shahidi*
 
+1. **"Diagnostic performance of CT and its key signs for COVID-19: A systematic review and meta-analysis."** medRxiv 2020.05.24.20111773, 2020. <br> 
+doi: https://doi.org/10.1101/2020.05.24.20111773
+
+    *Kai Li, Xiuting Wu, Yuhui Zhong, Wanyue Qin, Zhenxi Zhang*
 
 ------
 
@@ -967,6 +971,17 @@ arXiv: https://arxiv.org/abs/2005.11003
 arXiv: https://arxiv.org/abs/2005.11524
 
     *Anas Tahir, Yazan Qiblawey, Amith Khandakar, Tawsifur Rahman, Uzair Khurshid, Farayi Musharavati, Serkan Kiranyaz, Muhammad E. H. Chowdhury*
+
+1. **"Robust COVID-19-Related Condition Classification Network."** medRxiv 2020.05.19.20106336, 2020. <br> 
+doi: https://doi.org/10.1101/2020.05.19.20106336
+
+    *Maximiliano Lucius, Martin Belvisi, Carlos Maria Galmarini*
+
+1. **"Automated assessment of COVID-19 pulmonary disease severity on chest radiographs using convolutional Siamese neural networks."** medRxiv 2020.05.20.20108159, 2020. <br> 
+doi: https://doi.org/10.1101/2020.05.20.20108159
+
+    *Matthew D Li, Nishanth Thumbavanam Arun, Mishka Gidwani, Ken Chang, Francis Deng, Brent P Little, Dexter P Mendoza, Min Lang, Susanna I Lee, Aileen O'Shea, Anushri Parakh, Praveer Singh, Jayashree Kalpathy-Cramer*
+
 
 ### Other imaging methods: <a id="technical_other" class="anchor" href="#technical_other" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
