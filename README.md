@@ -997,6 +997,12 @@ doi: https://doi.org/10.1101/2020.05.27.20100297
 
     *Sarath Pathari, Rahul U*
 
+1. **"Predicting COVID-19 Pneumonia Severity on Chest X-ray with Deep Learning."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2005.11856
+
+    *Joseph Paul Cohen, Lan Dao, Paul Morrison, Karsten Roth, Yoshua Bengio, Beiyi Shen, Almas Abbasi, Mahsa Hoshmand-Kochi, Marzyeh Ghassemi, Haifang Li, Tim Q Duong*
+
+
 
 ### Other imaging methods: <a id="technical_other" class="anchor" href="#technical_other" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
