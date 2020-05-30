@@ -6,7 +6,7 @@ This is a collection of COVID-19 imaging-based AI research papers and datasets. 
  
 Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Deng-Ping Fan*](https://dpfan.net/), [*Geng Chen*](https://www.researchgate.net/profile/Geng_Chen13), and [*Tao Zhou*](https://taozh2017.github.io).
 
---- *Last updated: 2020/05/27* --- 
+--- *Last updated: 2020/05/30* --- 
 
 
 *Caution: We list the peer-reviewed papers before the preprints (e.g., arXiv and medRxiv). <br> 
@@ -981,6 +981,21 @@ doi: https://doi.org/10.1101/2020.05.19.20106336
 doi: https://doi.org/10.1101/2020.05.20.20108159
 
     *Matthew D Li, Nishanth Thumbavanam Arun, Mishka Gidwani, Ken Chang, Francis Deng, Brent P Little, Dexter P Mendoza, Min Lang, Susanna I Lee, Aileen O'Shea, Anushri Parakh, Praveer Singh, Jayashree Kalpathy-Cramer*
+
+1. **"Towards computer-aided severity assessment: training and validation of deep neural networks for geographic extent and opacity extent scoring of chest X-rays for SARS-CoV-2 lung disease severity."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2005.12855
+
+    *Alexander Wong, Zhong Qiu Lin, Linda Wang, Audrey G. Chung, Beiyi Shen, Almas Abbasi, Mahsa Hoshmand-Kochi, Timothy Q. Duong*
+
+1. **"Early Screening of SARS-CoV-2 by Intelligent Analysis of X-Ray Images."** arXiv, 2020.<br>
+arXiv: https://arxiv.org/abs/2005.13928
+
+    *D. Gil, K. Díaz-Chito, C. Sánchez, A. Hernández-Sabaté*
+
+1. **"Automatic Detection of COVID-19 and Pneumonia from Chest X-Ray using Transfer Learning."** medRxiv 2020.05.27.20100297, 2020. <br> 
+doi: https://doi.org/10.1101/2020.05.27.20100297
+
+    *Sarath Pathari, Rahul U*
 
 
 ### Other imaging methods: <a id="technical_other" class="anchor" href="#technical_other" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
