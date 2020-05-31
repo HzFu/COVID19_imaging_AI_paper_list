@@ -68,6 +68,12 @@ doi: https://doi.org/10.1016/j.crad.2020.03.008
 
     *A. Nair, J.C.L. Rodrigues, S. Hare, A. Edey, A. Devaraj, J. Jacob, A. Johnstone, R. McStay, Erika Denton, G. Robinson*
 
+1. **"Systematic review and critical appraisal of prediction models for diagnosis and prognosis of COVID-19 infection."** BMJ 2020; 369: m1328, 2020. <br>
+medRxiv: https://doi.org/10.1101/2020.03.24.20041020 <br>
+doi: https://doi.org/10.1136/bmj.m1328
+
+    *Laure Wynants, Ben Van Calster, Marc MJ Bonten, Gary S Collins, Thomas PA Debray, Maarten De Vos, Maria C Haller, Georg Heinze, Karel GM Moons, Richard D Riley, Ewoud Schuit, Luc Smits, Kym IE Snell, Ewout W Steyerberg, Christine Wallisch,  Maarten van Smeden*
+
 1. **"Detection of Covid-19 From Chest X-ray Images Using Artificial Intelligence: An Early Review."** arXiv, 2020. <br>
 arXiv: https://arxiv.org/abs/2004.05436
 
@@ -88,11 +94,6 @@ arXiv: https://arxiv.org/abs/2004.09420
 Link: http://ftp.iza.org/dp13110.pdf
 
     *Wim Naudé.*
-
-1. **"Systematic review and critical appraisal of prediction models for diagnosis and prognosis of COVID-19 infection."** medRvix 2020.03.24.20041020, 2020. <br>
-doi: https://doi.org/10.1101/2020.03.24.20041020
-
-    *Laure Wynants, Ben Van Calster, Marc MJ Bonten, Gary S Collins, Thomas PA Debray, Maarten De Vos, Maria C Haller, Georg Heinze, Karel GM Moons, Richard D Riley, Ewoud Schuit, Luc Smits, Kym IE Snell, Ewout W Steyerberg, Christine Wallisch,  Maarten van Smeden*
  
 1. **Mapping the landscape of artificial intelligence applications against COVID-19.** arXiv, 2020. <br>
 arXiv: https://arxiv.org/abs/2003.11336  
@@ -263,11 +264,6 @@ doi: https://doi.org/10.1148/radiol.2020201365
 doi: https://doi.org/10.1148/ryai.2020200053
 
     *Shinjini Kundu, Hesham Elhalawani, Judy W. Gichoya, and Charles E. Kahn, Jr*
-
-1. **"A Systematic Meta-Analysis of CT Features of COVID-19: Lessons from Radiology."** medRxiv 2020.04.04.20052241, 2020. <br>
-doi: https://doi.org/10.1101/2020.04.04.20052241
-
-    *Vasantha Kumar Venugopal, Vidur Mahajan, Sriram Rajan, Vikash Kumar Agarwal, Ruchika Rajan, Salsabeel Syed, Harsh Mahajan*
 
 1. **"A Systematic Meta-Analysis of CT Features of COVID-19: Lessons from Radiology."** medRxiv 2020.04.04.20052241, 2020. <br>
 doi: https://doi.org/10.1101/2020.04.04.20052241
