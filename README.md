@@ -998,7 +998,10 @@ arXiv: https://arxiv.org/abs/2005.11856
 
     *Joseph Paul Cohen, Lan Dao, Paul Morrison, Karsten Roth, Yoshua Bengio, Beiyi Shen, Almas Abbasi, Mahsa Hoshmand-Kochi, Marzyeh Ghassemi, Haifang Li, Tim Q Duong*
 
+1. **"Automatic classification between COVID-19 pneumonia, non-COVID-19 pneumonia, and the healthy on chest X-ray image: combination of data augmentation methods in a small dataset."**  arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2006.00730
 
+    *Mizuho Nishio, Shunjiro Noguchi, Hidetoshi Matsuo, Takamichi Murakami*
 
 ### Other imaging methods: <a id="technical_other" class="anchor" href="#technical_other" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
