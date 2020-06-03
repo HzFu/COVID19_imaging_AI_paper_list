@@ -1,12 +1,12 @@
 # COVID-19 Imaging-based AI Research Collection
 
-![alt text](./cover.png)
+![alt text](./cover.jpg)
 
 This is a collection of COVID-19 imaging-based AI research papers and datasets. If you have paper to recommend or any suggestions, please feel free to contact us. 
  
 Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Deng-Ping Fan*](https://dpfan.net/), [*Geng Chen*](https://www.researchgate.net/profile/Geng_Chen13), and [*Tao Zhou*](https://taozh2017.github.io).
 
---- *Last updated: 2020/05/30* --- 
+--- *Last updated: 2020/06/03* --- 
 
 
 *Caution: We list the peer-reviewed papers before the preprints (e.g., arXiv and medRxiv). <br> 
@@ -110,6 +110,9 @@ doi: https://doi.org/10.1101/2020.05.24.20111773
 
     *Kai Li, Xiuting Wu, Yuhui Zhong, Wanyue Qin, Zhenxi Zhang*
 
+
+
+
 ------
 
 ## Datasets: <a id="dataset" class="anchor" href="#dataset" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
@@ -179,6 +182,14 @@ doi: https://doi.org/10.1101/2020.04.24.20078584 <br>
 web: www.kaggle.com/plameneduardo/sarscov2-ctscan-dataset
 
     *Eduardo Soares, Plamen Angelov, Sarah Biaso, Michele Higa Froes, Daniel Kanda Abe*
+
+1. **"BIMCV COVID-19+: a large annotated dataset of RX and CT images from COVID-19 patients."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2006.01174 <br>
+web: http://bimcv.cipf.es/bimcv-projects/bimcv-covid19/
+
+    *Maria de la Iglesia Vayá, Jose Manuel Saborit, Joaquim Angel Montell, Antonio Pertusa, Aurelia Bustos, Miguel Cazorla, Joaquin Galant, Xavier Barber, Domingo Orozco-Beltrán, Francisco Garcia, Marisa Caparrós, Germán González, Jose María Salinas*
+
+
 
 
 ------
@@ -632,6 +643,18 @@ doi: https://doi.org/10.1101/2020.05.18.20097444
 
     *Kristof De Smet, Dieter De Smet, Ingel Demedts, Bernard Bouckaert, Thomas Ryckaert, Emanuel Laridon, Birgit Heremans, Ruben Vandenbulcke, Stefaan Gryspeerdt, Geert Antoine Martens*
 
+1. **"Pulmonary Thromboembolic Disease in Patients with COVID-19 Undergoing Computed Tomography Pulmonary Angiography (CTPA): Incidence and Relationship with Pulmonary Parenchymal Abnormalities."** medRxiv 2020.06.01.20118505, 2020. <br>
+doi: https://doi.org/10.1101/2020.06.01.20118505
+
+    *Cheng Fang, Giorgio Garzillo, Bhavna Batohi, James T Teo, Marko Berovic, Paul Sidhu, Hasti Robbie*
+
+1.**"CT-based COVID-19 Triage: Deep Multitask Learning Improves Joint Identification and Severity Quantification."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2006.01441
+
+    *Mikhail Goncharov, Maxim Pisov, Alexey Shevtsov, Boris Shirokikh, Anvar Kurmukov, Ivan Blokhin, Valeria Chernina, Alexander Solovev, Victor Gombolevskiy, Sergey Morozov, Mikhail Belyaev*
+
+
+
 ### CXR-based methods: <a id="technical_CXR" class="anchor" href="#technical_CXR" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
 1. **"Deep Learning COVID-19 Features on CXR using Limited Training Data Sets."** IEEE Transactions on Medical Imaging, 2020.<br>
@@ -1002,6 +1025,12 @@ arXiv: https://arxiv.org/abs/2005.11856
 arXiv: https://arxiv.org/abs/2006.00730
 
     *Mizuho Nishio, Shunjiro Noguchi, Hidetoshi Matsuo, Takamichi Murakami*
+
+1. **"COVIDGR dataset and COVID-SDNet methodology for predicting COVID-19 based on Chest X-Ray images."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2006.01409
+
+    *S. Tabik, A. Gómez-Ríos, J.L. Martín-Rodríguez, I. Sevillano-García, M. Rey-Area, D. Charte, E. Guirado, J.L. Suárez, J. Luengo, M.A. Valero-González, P. García-Villanova, E. Olmedo-Sánchez, F. Herrera*
+
 
 ### Other imaging methods: <a id="technical_other" class="anchor" href="#technical_other" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
