@@ -1033,6 +1033,11 @@ arXiv: https://arxiv.org/abs/2006.01409
 
     *S. Tabik, A. Gómez-Ríos, J.L. Martín-Rodríguez, I. Sevillano-García, M. Rey-Area, D. Charte, E. Guirado, J.L. Suárez, J. Luengo, M.A. Valero-González, P. García-Villanova, E. Olmedo-Sánchez, F. Herrera*
 
+1. **"Exploration of Interpretability Techniques for Deep COVID-19 Classification using Chest X-ray Images."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2006.02570
+
+    *Soumick Chatterjee, Fatima Saad, Chompunuch Sarasaen, Suhita Ghosh, Rupali Khatun, Petia Radeva, Georg Rose, Sebastian Stober, Oliver Speck, Andreas Nürnberger*
+
 
 ### Other imaging methods: <a id="technical_other" class="anchor" href="#technical_other" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
