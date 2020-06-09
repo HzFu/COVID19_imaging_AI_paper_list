@@ -6,7 +6,7 @@ This is a collection of COVID-19 imaging-based AI research papers and datasets. 
  
 Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Deng-Ping Fan*](https://dpfan.net/), [*Geng Chen*](https://www.researchgate.net/profile/Geng_Chen13), and [*Tao Zhou*](https://taozh2017.github.io).
 
---- *Last updated: 2020/06/03* --- 
+--- *Last updated: 2020/06/09* --- 
 
 
 *Caution: We list the peer-reviewed papers before the preprints (e.g., arXiv and medRxiv). <br> 
@@ -379,6 +379,11 @@ doi: https://doi.org/10.1109/TMI.2020.2995965
 doi: https://doi.org/10.1109/TMI.2020.2996256
 
     *Zhongyi Han, Benzheng Wei, Yanfei Hong, Tianyang Li, Jinyu Cong, Xue Zhu, Haifeng Wei, Wei Zhang*
+
+1. **"A Noise-robust Framework for Automatic Segmentation of COVID-19 Pneumonia Lesions from CT Images."** in IEEE Transactions on Medical Imaging, 2020. <br>
+doi: https://doi.org/10.1109/TMI.2020.3000314
+
+    *Guotai Wang, Xinglong Liu, Chaoping Li, Zhiyong Xu, Jiugen Ruan, Haifeng Zhu, Tao Meng, Kang Li, Ning Huang, Shaoting Zhang*
 
 1. **"Artificial intelligence–enabled rapid diagnosis of patients with COVID-19."** in Nature Medicine, 2020. <br>
 doi: https://doi.org/10.1038/s41591-020-0931-3
@@ -1038,6 +1043,15 @@ arXiv: https://arxiv.org/abs/2006.02570
 
     *Soumick Chatterjee, Fatima Saad, Chompunuch Sarasaen, Suhita Ghosh, Rupali Khatun, Petia Radeva, Georg Rose, Sebastian Stober, Oliver Speck, Andreas Nürnberger*
 
+1. **"Problems of Deploying CNN Transfer Learning to Detect COVID-19 from Chest X-rays."** medRxiv 2020.05.12.20098954. <br> 
+doi: https://doi.org/10.1101/2020.05.12.20098954
+
+    *Taban Majeed, Rasber Rashid, Dashti Ali, Aras Asaad*
+
+1. **"End-to-end learning for semiquantitative rating of COVID-19 severity on Chest X-rays."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2006.04603
+
+    *Alberto Signoroni, Mattia Savardi, Sergio Benini, Nicola Adami, Riccardo Leonardi, Paolo Gibellini, Filippo Vaccher, Marco Ravanelli, Andrea Borghesi, Roberto Maroldi, Davide Farina*
 
 ### Other imaging methods: <a id="technical_other" class="anchor" href="#technical_other" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
