@@ -6,7 +6,7 @@ This is a collection of COVID-19 imaging-based AI research papers and datasets. 
  
 Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Deng-Ping Fan*](https://dpfan.net/), [*Geng Chen*](https://www.researchgate.net/profile/Geng_Chen13), and [*Tao Zhou*](https://taozh2017.github.io).
 
---- *Last updated: 2020/06/09* --- 
+--- *Last updated: 2020/06/11* --- 
 
 
 *Caution: We list the peer-reviewed papers before the preprints (e.g., arXiv and medRxiv). <br> 
@@ -112,7 +112,10 @@ doi: https://doi.org/10.1101/2020.05.24.20111773
 
     *Kai Li, Xiuting Wu, Yuhui Zhong, Wanyue Qin, Zhenxi Zhang*
 
+1. **"A Review of Automatically Diagnosing COVID-19 based on Scanning Image."** arXiv, 2020. <br>
+doi: https://arxiv.org/abs/2006.05245
 
+    *Delong Chen, Fan Liu, Zewen Li*
 
 
 ------
@@ -660,6 +663,18 @@ arXiv: https://arxiv.org/abs/2006.01441
 
     *Mikhail Goncharov, Maxim Pisov, Alexey Shevtsov, Boris Shirokikh, Anvar Kurmukov, Ivan Blokhin, Valeria Chernina, Alexander Solovev, Victor Gombolevskiy, Sergey Morozov, Mikhail Belyaev*
 
+1. **"Automated Quantification of CT Patterns Associated with COVID-19 from Chest CT."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2006.04998
+
+    *Shikha Chaganti, Abishek Balachandran, Guillaume Chabin, Stuart Cohen, Thomas Flohr, apl. Prof., Bogdan Georgescu, Philippe Grenier, Prof., Sasa Grbic, Siqi Liu, François Mellot, Nicolas Murray, Savvas Nicolaou, William Parker, Thomas Re, Pina Sanelli, Alexander W. Sauter, Zhoubing Xu, Youngjin Yoo, Valentin Ziebandt, Dorin Comaniciu*
+
+
+1. **"Deep learning to estimate the physical proportion of infected region of lung for COVID-19 pneumonia with CT image set."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2006.05018
+
+    *Wei Wu, Yu Shi, Xukun Li, Yukun Zhou, Peng Du, Shuangzhi Lv, Tingbo Liang, Jifang Sheng*
+
+
 
 
 ### CXR-based methods: <a id="technical_CXR" class="anchor" href="#technical_CXR" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
@@ -1052,6 +1067,16 @@ doi: https://doi.org/10.1101/2020.05.12.20098954
 arXiv: https://arxiv.org/abs/2006.04603
 
     *Alberto Signoroni, Mattia Savardi, Sergio Benini, Nicola Adami, Riccardo Leonardi, Paolo Gibellini, Filippo Vaccher, Marco Ravanelli, Andrea Borghesi, Roberto Maroldi, Davide Farina*
+
+1. **"UMLS-ChestNet: A deep convolutional neural network for radiological findings, differential diagnoses and localizations of COVID-19 in chest x-rays."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2006.05274
+
+    *Germán González, Aurelia Bustos, José María Salinas, María de la Iglesia-Vaya, Joaquín Galant, Carlos Cano-Espinosa, Xavier Barber, Domingo Orozco-Beltrán, Miguel Cazorla, Antonio Pertusa*
+
+1. **"A Comparative Study on Early Detection of COVID-19 from Chest X-Ray Images."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2006.05332
+
+    *Mete Ahishali, Aysen Degerli, Mehmet Yamac, Serkan Kiranyaz, Muhammad E. H. Chowdhury, Khalid Hameed, Tahir Hamid, Rashid Mazhar, Moncef Gabbouj*
 
 ### Other imaging methods: <a id="technical_other" class="anchor" href="#technical_other" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
