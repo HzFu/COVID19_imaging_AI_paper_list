@@ -6,7 +6,7 @@ This is a collection of COVID-19 imaging-based AI research papers and datasets. 
  
 Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Deng-Ping Fan*](https://dpfan.net/), [*Geng Chen*](https://www.researchgate.net/profile/Geng_Chen13), and [*Tao Zhou*](https://taozh2017.github.io).
 
---- *Last updated: 2020/06/11* --- 
+--- *Last updated: 2020/06/12* --- 
 
 
 *Caution: We list the peer-reviewed papers before the preprints (e.g., arXiv and medRxiv). <br> 
@@ -391,6 +391,12 @@ doi: https://doi.org/10.1109/TMI.2020.3000314
 
     *Guotai Wang, Xinglong Liu, Chaoping Li, Zhiyong Xu, Jiugen Ruan, Haifeng Zhu, Tao Meng, Kang Li, Ning Huang, Shaoting Zhang*
 
+1. **"A Rapid, Accurate and Machine-agnostic Segmentation and Quantification Method for CT-based COVID-19 Diagnosis."** in IEEE Transactions on Medical Imaging, 2020. <br>
+doi: https://doi.org/10.1109/TMI.2020.3001810
+
+    *Longxi Zhou, Zhongxiao Li, Juexiao Zhou, Haoyang Li, Yupeng Chen, Yuxin Huang, Dexuan Xie, Lintao Zhao, Ming Fan, Shahrukh Hashmi, Faisal AbdelKareem, Riham Eiada, Xigang Xiao, Lihua Li, Zhaowen Qiu, Xin Gao*
+
+
 1. **"Artificial intelligence–enabled rapid diagnosis of patients with COVID-19."** in Nature Medicine, 2020. <br>
 doi: https://doi.org/10.1038/s41591-020-0931-3
 
@@ -676,6 +682,9 @@ arXiv: https://arxiv.org/abs/2006.04998
 arXiv: https://arxiv.org/abs/2006.05018
 
     *Wei Wu, Yu Shi, Xukun Li, Yukun Zhou, Peng Du, Shuangzhi Lv, Tingbo Liang, Jifang Sheng*
+
+
+
 
 
 
@@ -1080,6 +1089,8 @@ arXiv: https://arxiv.org/abs/2006.05274
 arXiv: https://arxiv.org/abs/2006.05332
 
     *Mete Ahishali, Aysen Degerli, Mehmet Yamac, Serkan Kiranyaz, Muhammad E. H. Chowdhury, Khalid Hameed, Tahir Hamid, Rashid Mazhar, Moncef Gabbouj*
+
+
 
 ### Other imaging methods: <a id="technical_other" class="anchor" href="#technical_other" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
