@@ -194,7 +194,10 @@ web: http://bimcv.cipf.es/bimcv-projects/bimcv-covid19/
 
     *Maria de la Iglesia Vayá, Jose Manuel Saborit, Joaquim Angel Montell, Antonio Pertusa, Aurelia Bustos, Miguel Cazorla, Joaquin Galant, Xavier Barber, Domingo Orozco-Beltrán, Francisco Garcia, Marisa Caparrós, Germán González, Jose María Salinas*
 
+1. **"COVID-19-CT-CXR: a freely accessible and weakly labeled chest X-ray and CT image collection on COVID-19 from biomedical literature."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2006.06177
 
+    *Yifan Peng, Yu-Xing Tang, Sungwon Lee, Yingying Zhu, Ronald M. Summers, Zhiyong Lu*
 
 
 ------
