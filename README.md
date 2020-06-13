@@ -677,13 +677,20 @@ arXiv: https://arxiv.org/abs/2006.04998
 
     *Shikha Chaganti, Abishek Balachandran, Guillaume Chabin, Stuart Cohen, Thomas Flohr, apl. Prof., Bogdan Georgescu, Philippe Grenier, Prof., Sasa Grbic, Siqi Liu, François Mellot, Nicolas Murray, Savvas Nicolaou, William Parker, Thomas Re, Pina Sanelli, Alexander W. Sauter, Zhoubing Xu, Youngjin Yoo, Valentin Ziebandt, Dorin Comaniciu*
 
-
 1. **"Deep learning to estimate the physical proportion of infected region of lung for COVID-19 pneumonia with CT image set."** arXiv, 2020. <br>
 arXiv: https://arxiv.org/abs/2006.05018
 
     *Wei Wu, Yu Shi, Xukun Li, Yukun Zhou, Peng Du, Shuangzhi Lv, Tingbo Liang, Jifang Sheng*
 
+1. **"A Fully Automated Deep Learning-based Network For Detecting COVID-19 from a New And Large Lung CT Scan Dataset."** medRxiv 2020.06.08.20121541, 2020. <br> 
+doi: https://doi.org/10.1101/2020.06.08.20121541
 
+    *Mohammad Rahimzadeh, Abolfazl Attar, Seyed Mohammad Sakhaei*
+
+1. **"A Comparative Study of Target Reconstruction of Ultra-High-Resolution CT for Patients with Corona-Virus Disease 2019 (COVID-19)."** medRxiv 2020.06.04.20119206, 2020. <br> 
+doi: https://doi.org/10.1101/2020.06.04.20119206
+
+    *Shaomao Lv, Yu Lin, Jianghe Kang, Shaoyin Duan, Weiguo Zhang, Jin-an Wang*
 
 
 
