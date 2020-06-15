@@ -692,6 +692,12 @@ doi: https://doi.org/10.1101/2020.06.04.20119206
 
     *Shaomao Lv, Yu Lin, Jianghe Kang, Shaoyin Duan, Weiguo Zhang, Jin-an Wang*
 
+1. **"Improving effectiveness of different deep learning-based models for detecting COVID-19 from computed tomography (CT) images."** medRxiv 2020.06.12.20129643, 2020.<br> 
+doi: https://doi.org/10.1101/2020.06.12.20129643
+
+    *Erdi Acar, Engin ŞAHİN, İhsan Yilmaz*
+
+
 
 
 
