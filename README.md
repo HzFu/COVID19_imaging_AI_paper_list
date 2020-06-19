@@ -992,11 +992,6 @@ doi: https://doi.org/10.1101/2020.05.10.20097063
 
     *Kishore Medhi, Md. Jamil, Iftekhar Hussain*
 
-1. **"Classification of COVID-19 in chest X-ray images using DeTraC deep convolutional neural network."** medRxiv 2020.03.30.20047456, 2020. <br> 
-doi: https://doi.org/10.1101/2020.03.30.20047456
-
-    *Asmaa Abbas, Mohammed Abdelsamea, Mohamed Gaber*
-
 1. **"COVID-Classifier: An automated machine learning model to assist in the diagnosis of COVID-19 infection in chest x-ray images."** medRxiv 2020.05.09.20096560, 2020. <br> 
 doi: https://doi.org/10.1101/2020.05.09.20096560
 
@@ -1102,6 +1097,11 @@ arXiv: https://arxiv.org/abs/2006.05274
 arXiv: https://arxiv.org/abs/2006.05332
 
     *Mete Ahishali, Aysen Degerli, Mehmet Yamac, Serkan Kiranyaz, Muhammad E. H. Chowdhury, Khalid Hameed, Tahir Hamid, Rashid Mazhar, Moncef Gabbouj*
+
+1. **"Classification of COVID-19 from Chest X-ray images using Deep Convolutional Neural Networks."** medRxiv 2020.05.01.20088211, 2020. <br>
+doi: https://doi.org/10.1101/2020.05.01.20088211
+
+    *Sohaib Asif, Yi Wenhui, Hou Jin, Yi Tao, Si Jinhai*
 
 
 
