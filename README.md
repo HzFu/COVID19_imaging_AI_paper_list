@@ -1103,6 +1103,10 @@ doi: https://doi.org/10.1101/2020.05.01.20088211
 
     *Sohaib Asif, Yi Wenhui, Hou Jin, Yi Tao, Si Jinhai*
 
+1. **"A Combined Deep CNN-LSTM Network for the Detection of Novel Coronavirus (COVID-19) Using X-ray Images."** medRxiv 2020.06.18.20134718, 2020. <br> 
+doi: https://doi.org/10.1101/2020.06.18.20134718
+
+    *Md. Zabirul Islam, Md. Milon Islam, Amanullah Asraf*
 
 
 ### Other imaging methods: <a id="technical_other" class="anchor" href="#technical_other" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
