@@ -6,7 +6,7 @@ This is a collection of COVID-19 imaging-based AI research papers and datasets. 
  
 Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Deng-Ping Fan*](https://dpfan.net/), [*Geng Chen*](https://www.researchgate.net/profile/Geng_Chen13), and [*Tao Zhou*](https://taozh2017.github.io).
 
---- *Last updated: 2020/06/12* --- 
+--- *Last updated: 2020/06/24* --- 
 
 
 *Caution: We list the peer-reviewed papers before the preprints (e.g., arXiv and medRxiv). <br> 
@@ -1107,6 +1107,37 @@ doi: https://doi.org/10.1101/2020.05.01.20088211
 doi: https://doi.org/10.1101/2020.06.18.20134718
 
     *Md. Zabirul Islam, Md. Milon Islam, Amanullah Asraf*
+
+1. **"4S-DT: Self Supervised Super Sample Decomposition for Transfer learning with application to COVID-19 detection."** medRxiv 2020.06.22.20137547, 2020. <br> 
+doi: https://doi.org/10.1101/2020.06.22.20137547
+
+    *Asmaa Abbas, Mohammed Abdelsamea, Mohamed Gaber*
+
+1. **"Deep convolutional approaches for the analysis of Covid-19 using chest X-Ray images from portable devices."** medRxiv 2020.06.18.20134593, 2020. <br> 
+doi: https://doi.org/10.1101/2020.06.18.20134593
+
+    *Joaquim de Moura, Lucia Ramos, Placido L. Vidal, Milena Cruz, Laura Abelairas, Eva Castro, Jorge Novo, Marcos Ortega*
+
+1. **"3d Virtual Patho-Histology of Lung Tissue from Covid-19 Patients based on Phase Contrast X-ray Tomography."** medRxiv 2020.06.21.20134882, 2020. <br> 
+doi: https://doi.org/10.1101/2020.06.21.20134882
+
+    *Marina Eckermann, Jasper Frohn, Marius Reichardt, Markus Osterhoff, Michael Sprung, Fabian Westermeier, Alexandar Tzankov, Christopher Werlein, Mark Kuehnel, Danny Jonigk, Tim Salditt*
+
+1. **"Chest X-ray classification using Deep learning for automated COVID-19 screening."** medRxiv 2020.06.21.20136598, 2020. <br> 
+doi: https://doi.org/10.1101/2020.06.21.20136598
+
+    *Ankita Shelke, Madhura Inamdar, Vruddhi Shah, Amanshu Tiwari, Aafiya Hussain, Talha Chafekar, Ninad Mehendale*
+
+
+
+
+
+
+
+
+
+
+
 
 
 ### Other imaging methods: <a id="technical_other" class="anchor" href="#technical_other" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
