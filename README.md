@@ -6,7 +6,7 @@ This is a collection of COVID-19 imaging-based AI research papers and datasets. 
  
 Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Deng-Ping Fan*](https://dpfan.net/), [*Geng Chen*](https://www.researchgate.net/profile/Geng_Chen13), and [*Tao Zhou*](https://taozh2017.github.io).
 
---- *Last updated: 2020/06/24* --- 
+--- *Last updated: 2020/06/25* --- 
 
 
 *Caution: We list the peer-reviewed papers before the preprints (e.g., arXiv and medRxiv). <br> 
@@ -198,6 +198,16 @@ web: http://bimcv.cipf.es/bimcv-projects/bimcv-covid19/
 arXiv: https://arxiv.org/abs/2006.06177
 
     *Yifan Peng, Yu-Xing Tang, Sungwon Lee, Yingying Zhu, Ronald M. Summers, Zhiyong Lu*
+
+1. **"Was there COVID-19 back in 2012? Challenge for AI in Diagnosis with Similar Indications."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2006.13262
+
+    *Imon Banerjee, Priyanshu Sinha, Saptarshi Purkayastha, Nazanin Mashhaditafreshi, Amara Tariq, Jiwoong Jeong, Hari Trivedi, Judy W. Gichoya*
+
+
+
+
+
 
 
 ------
@@ -697,6 +707,23 @@ doi: https://doi.org/10.1101/2020.06.12.20129643
 
     *Erdi Acar, Engin ŞAHİN, İhsan Yilmaz*
 
+1. **"Automated Detection of COVID-19 from CT Scans Using Convolutional Neural Networks."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2006.13212
+
+    *Rohit Lokwani, Ashrika Gaikwad, Viraj Kulkarni, Aniruddha Pant, Amit Kharat*
+
+1. **"Momentum Contrastive Learning for Few-Shot COVID-19 Diagnosis from Chest CT Images."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2006.13276
+
+    *Xiaocong Chen, Lina Yao, Tao Zhou, Jinming Dong, Yu Zhang*
+
+1. **"Does Non-COVID19 Lung Lesion Help? Investigating Transferability in COVID-19 CT Image Segmentation."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2006.13877
+
+    *Yixin Wang, Yao Zhang, Yang Liu, Jiang Tian, Cheng Zhong, Zhongchao Shi, Yang Zhang, Zhiqiang He*
+
+
+
 
 
 
@@ -1128,9 +1155,20 @@ doi: https://doi.org/10.1101/2020.06.21.20136598
 
     *Ankita Shelke, Madhura Inamdar, Vruddhi Shah, Amanshu Tiwari, Aafiya Hussain, Talha Chafekar, Ninad Mehendale*
 
+1. **"COVID-CXNet: Detecting COVID-19 in Frontal Chest X-ray Images using Deep Learning."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2006.13807
 
+    *Arman Haghanifar, Mahdiyar Molahasani Majdabadi, Seokbum Ko*
 
+1. **"Stacked Convolutional Neural Network for Diagnosis of COVID-19 Disease from X-ray Images."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2006.13817
 
+    *Mahesh Gour, Sweta Jain*
+
+1. **"COVIDLite: A depth-wise separable deep neural network with white balance and CLAHE for detection of COVID-19."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2006.13873
+
+    *Manu Siddhartha, Avik Santra*
 
 
 
