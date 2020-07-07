@@ -6,7 +6,7 @@ This is a collection of COVID-19 imaging-based AI research papers and datasets. 
  
 Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Deng-Ping Fan*](https://dpfan.net/), [*Geng Chen*](https://www.researchgate.net/profile/Geng_Chen13), and [*Tao Zhou*](https://taozh2017.github.io).
 
---- *Last updated: 2020/06/25* --- 
+--- *Last updated: 2020/07/05* --- 
 
 
 *Caution: We list the peer-reviewed papers before the preprints (e.g., arXiv and medRxiv). <br> 
@@ -722,7 +722,15 @@ arXiv: https://arxiv.org/abs/2006.13877
 
     *Yixin Wang, Yao Zhang, Yang Liu, Jiang Tian, Cheng Zhong, Zhongchao Shi, Yang Zhang, Zhiqiang He*
 
+1. **"Determination of Robust Regional CT Radiomics Features for COVID-19."** medRxiv 2020.06.24.20139410, 2020. <br> 
+doi: https://doi.org/10.1101/2020.06.24.20139410
 
+    *Mahbubunnabi Tamal*
+
+1. **"An Automatic Computer-Based Method for Fast and Accurate Covid-19 Diagnosis."** medRxiv 2020.07.02.20136721, 2020. <br>
+doi: https://doi.org/10.1101/2020.07.02.20136721
+
+    *Abdullah Al Jaid Jim, Ibrahim Rafi, Md. Sanaullah Chowdhury, Niloy Sikder, M. A. Parvez Mahmud, Saeed Rubaie, Mehedi Masud, Anupam Kumar Bairagi, Kangkan Bhakta, Abdullah-Al Nahid*
 
 
 
