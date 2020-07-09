@@ -739,6 +739,11 @@ doi: https://doi.org/10.1101/2020.07.02.20136721
 
 ### CXR-based methods: <a id="technical_CXR" class="anchor" href="#technical_CXR" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
+1. **"COVID-19 detection using Residual Attention Network an Artificial Intelligence approach."** arXiv, 2020.<br>
+arXiv: https://arxiv.org/abs/2006.16106
+
+    *Vishal Sharma, Curtis Dyreson*
+    
 1. **"Deep Learning COVID-19 Features on CXR using Limited Training Data Sets."** IEEE Transactions on Medical Imaging, 2020.<br>
 https://doi.org/10.1109/TMI.2020.2993291 <br>
 arXiv: https://arxiv.org/abs/2004.05758
