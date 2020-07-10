@@ -6,7 +6,7 @@ This is a collection of COVID-19 imaging-based AI research papers and datasets. 
  
 Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Deng-Ping Fan*](https://dpfan.net/), [*Geng Chen*](https://www.researchgate.net/profile/Geng_Chen13), and [*Tao Zhou*](https://taozh2017.github.io).
 
---- *Last updated: 2020/07/08* --- 
+--- *Last updated: 2020/07/10* --- 
 
 
 *Caution: We list the peer-reviewed papers before the preprints (e.g., arXiv and medRxiv). <br> 
@@ -1187,6 +1187,10 @@ arXiv: https://arxiv.org/abs/2006.13873
     *Manu Siddhartha, Avik Santra*
 
 
+1. **"COVID-19 detection using Residual Attention Network an Artificial Intelligence approach."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2006.16106
+
+    *Vishal Sharma, Curtis Dyreson*
 
 
 
