@@ -6,7 +6,7 @@ This is a collection of COVID-19 imaging-based AI research papers and datasets. 
  
 Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Deng-Ping Fan*](https://dpfan.net/), [*Geng Chen*](https://www.researchgate.net/profile/Geng_Chen13), and [*Tao Zhou*](https://taozh2017.github.io).
 
---- *Last updated: 2020/07/05* --- 
+--- *Last updated: 2020/07/08* --- 
 
 
 *Caution: We list the peer-reviewed papers before the preprints (e.g., arXiv and medRxiv). <br> 
@@ -731,6 +731,14 @@ doi: https://doi.org/10.1101/2020.06.24.20139410
 doi: https://doi.org/10.1101/2020.07.02.20136721
 
     *Abdullah Al Jaid Jim, Ibrahim Rafi, Md. Sanaullah Chowdhury, Niloy Sikder, M. A. Parvez Mahmud, Saeed Rubaie, Mehedi Masud, Anupam Kumar Bairagi, Kangkan Bhakta, Abdullah-Al Nahid*
+
+1. **"Segmentation of Pulmonary Opacification in Chest CT Scans of COVID-19 Patients."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2007.03643
+
+    *Keegan Lensink, Issam Laradji, Marco Law, Paolo Emilio Barbano, Savvas Nicolaou. William Parker, Eldad Haber*
+
+
+
 
 
 
