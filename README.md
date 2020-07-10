@@ -737,7 +737,10 @@ arXiv: https://arxiv.org/abs/2007.03643
 
     *Keegan Lensink, Issam Laradji, Marco Law, Paolo Emilio Barbano, Savvas Nicolaou. William Parker, Eldad Haber*
 
+1. **"Automated Chest CT Image Segmentation of COVID-19 Lung Infection based on 3D U-Net."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2007.04774
 
+    *Dominik Müller, Iñaki Soto Rey, Frank Kramer*
 
 
 
