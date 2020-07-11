@@ -76,6 +76,11 @@ doi: https://doi.org/10.1136/bmj.m1328
 
     *Laure Wynants, Ben Van Calster, Marc MJ Bonten, Gary S Collins, Thomas PA Debray, Maarten De Vos, Maria C Haller, Georg Heinze, Karel GM Moons, Richard D Riley, Ewoud Schuit, Luc Smits, Kym IE Snell, Ewout W Steyerberg, Christine Wallisch,  Maarten van Smeden*
 
+1. **"A review of mathematical modeling, artificial intelligence and datasets used in the study, prediction and management of COVID-19."** Applied Intelligence, 2020. <br>
+doi: https://doi.org/10.1007/s10489-020-01770-9
+
+    *Youssoufa Mohamadou, Aminou Halidoum, Pascalin Tiam Kapen*
+
 1. **"Detection of Covid-19 From Chest X-ray Images Using Artificial Intelligence: An Early Review."** arXiv, 2020. <br>
 arXiv: https://arxiv.org/abs/2004.05436
 
@@ -741,6 +746,12 @@ arXiv: https://arxiv.org/abs/2007.03643
 arXiv: https://arxiv.org/abs/2007.04774
 
     *Dominik Müller, Iñaki Soto Rey, Frank Kramer*
+
+1. **"A Weakly Supervised Consistency-based Learning Method for COVID-19 Segmentation in CT Images."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2007.02180
+
+    *Issam Laradji, Pau Rodriguez, Oscar Mañas, Keegan Lensink, Marco Law, Lironne Kurzman, William Parker, David Vazquez, Derek Nowrouzezahrai*
+
 
 
 
