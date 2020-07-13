@@ -752,7 +752,10 @@ arXiv: https://arxiv.org/abs/2007.02180
 
     *Issam Laradji, Pau Rodriguez, Oscar Mañas, Keegan Lensink, Marco Law, Lironne Kurzman, William Parker, David Vazquez, Derek Nowrouzezahrai*
 
+1. **"Diagnosis of COVID-19 using CT scan images and deep learning techniques."** medRxiv 2020.07.11.20151332, 2020. <br> 
+doi: https://doi.org/10.1101/2020.07.11.20151332
 
+    *Vruddhi Shah, Rinkal Keniya, Akanksha Shridharani, Manav Punjabi, Jainam Shah, Ninad Mehendale*
 
 
 
@@ -1206,7 +1209,10 @@ arXiv: https://arxiv.org/abs/2006.16106
 
     *Vishal Sharma, Curtis Dyreson*
 
+1. **"ReCoNet: Multi-level Preprocessing of Chest X-rays for COVID-19 Detection Using Convolutional Neural Networks."** medRxiv 2020.07.11.20149112, 2020. <br> 
+doi: https://doi.org/10.1101/2020.07.11.20149112
 
+    *Sabbir Ahmed, Moi Hoon Yap, Maxine Tan, Md. Kamrul Hasan*
 
 
 
