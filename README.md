@@ -6,7 +6,7 @@ This is a collection of COVID-19 imaging-based AI research papers and datasets. 
  
 Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Deng-Ping Fan*](https://dpfan.net/), [*Geng Chen*](https://www.researchgate.net/profile/Geng_Chen13), and [*Tao Zhou*](https://taozh2017.github.io).
 
---- *Last updated: 2020/07/10* --- 
+--- *Last updated: 2020/07/13* --- 
 
 
 *Caution: We list the peer-reviewed papers before the preprints (e.g., arXiv and medRxiv). <br> 
@@ -1214,6 +1214,12 @@ doi: https://doi.org/10.1101/2020.07.11.20149112
 
     *Sabbir Ahmed, Moi Hoon Yap, Maxine Tan, Md. Kamrul Hasan*
 
+1. **"Automatic Detection of COVID-19 Cases on X-ray images Using Convolutional Neural Networks."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2007.05494
+
+    *Lucas P. Soares, Cesar P. Soares*
+
+    
 
 
 
