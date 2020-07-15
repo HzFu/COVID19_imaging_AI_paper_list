@@ -6,7 +6,7 @@ This is a collection of COVID-19 imaging-based AI research papers and datasets. 
  
 Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Deng-Ping Fan*](https://dpfan.net/), [*Geng Chen*](https://www.researchgate.net/profile/Geng_Chen13), and [*Tao Zhou*](https://taozh2017.github.io).
 
---- *Last updated: 2020/07/13* --- 
+--- *Last updated: 2020/07/15* --- 
 
 
 *Caution: We list the peer-reviewed papers before the preprints (e.g., arXiv and medRxiv). <br> 
@@ -757,6 +757,11 @@ doi: https://doi.org/10.1101/2020.07.11.20151332
 
     *Vruddhi Shah, Rinkal Keniya, Akanksha Shridharani, Manav Punjabi, Jainam Shah, Ninad Mehendale*
 
+1. **"A Weakly Supervised Region-Based Active Learning Method for COVID-19 Segmentation in CT Images."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2007.07012
+
+    *Issam Laradji, Pau Rodriguez, Frederic Branchaud-Charron, Keegan Lensink, Parmida Atighehchian, William Parker, David Vazquez, Derek Nowrouzezahrai*
+
 
 
 
@@ -1219,6 +1224,10 @@ arXiv: https://arxiv.org/abs/2007.05494
 
     *Lucas P. Soares, Cesar P. Soares*
 
+1. **"Experiments of Federated Learning for COVID-19 Chest X-ray Images."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2007.05592
+
+    *Boyi Liu, Bingjie Yan, Yize Zhou, Yifan Yang, Yixian Zhang*
     
 
 
