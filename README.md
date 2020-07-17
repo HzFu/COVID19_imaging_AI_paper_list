@@ -6,7 +6,7 @@ This is a collection of COVID-19 imaging-based AI research papers and datasets. 
  
 Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Deng-Ping Fan*](https://dpfan.net/), [*Geng Chen*](https://www.researchgate.net/profile/Geng_Chen13), and [*Tao Zhou*](https://taozh2017.github.io).
 
---- *Last updated: 2020/07/15* --- 
+--- *Last updated: 2020/07/17* --- 
 
 
 *Caution: We list the peer-reviewed papers before the preprints (e.g., arXiv and medRxiv). <br> 
@@ -1229,6 +1229,22 @@ arXiv: https://arxiv.org/abs/2007.05592
 
     *Boyi Liu, Bingjie Yan, Yize Zhou, Yifan Yang, Yixian Zhang*
     
+1. **"Interpreting Deep Ensemble Learning through Radiologist Annotations for COVID-19 Detection in Chest Radiographs."**  medRxiv 2020.07.15.20154385, 2020. <br> 
+doi: https://doi.org/10.1101/2020.07.15.20154385  
+    
+    *Sivaramakrishnan Rajaraman, Sudhir Sornapudi, Philip O Alderson, Les R Folio, Sameer K Antani*
+
+1. **"An Efficient Mixture of Deep and Machine Learning Models for COVID-19 and Tuberculosis Detection Using X-Ray Images in Resource Limited Settings."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2007.08223
+
+    *Ali H. Al-Timemy, Rami N. Khushaba, Zahraa M. Mosa, Javier Escudero*
+
+1. **"Predicting Mechanical Ventilation Requirement and Mortality in COVID-19 using Radiomics and Deep Learning on Chest Radiographs: A Multi-Institutional Study."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2007.08028
+
+    *Joseph Bae, Saarthak Kapse, Gagandeep Singh, Tej Phatak, Jeremy Green, Nikhil Madan, Prateek Prasanna*
+
+
 
 
 
