@@ -6,7 +6,7 @@ This is a collection of COVID-19 imaging-based AI research papers and datasets. 
  
 Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Deng-Ping Fan*](https://dpfan.net/), [*Geng Chen*](https://www.researchgate.net/profile/Geng_Chen13), and [*Tao Zhou*](https://taozh2017.github.io).
 
---- *Last updated: 2020/07/17* --- 
+--- *Last updated: 2020/07/20* --- 
 
 
 *Caution: We list the peer-reviewed papers before the preprints (e.g., arXiv and medRxiv). <br> 
@@ -121,6 +121,12 @@ doi: https://doi.org/10.1101/2020.05.24.20111773
 doi: https://arxiv.org/abs/2006.05245
 
     *Delong Chen, Fan Liu, Zewen Li*
+
+1. **"COVID19 Detection from Radiographs: Is Deep Learning Able to Handle the Crisis?"** Preprints 2020, 2020060189. <br>
+Preprints: https://www.preprints.org/manuscript/202006.0189/v1 <br>
+Project: https://github.com/saeed-anwar/COVID19-Baselines
+
+    *Muhammad Saqib, Saeed Anwar, Abbas Anwar, Lars Petersson, Nabin Sharma, Michael Blumenstein*
 
 
 ------
