@@ -6,7 +6,7 @@ This is a collection of COVID-19 imaging-based AI research papers and datasets. 
  
 Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Deng-Ping Fan*](https://dpfan.net/), [*Geng Chen*](https://www.researchgate.net/profile/Geng_Chen13), and [*Tao Zhou*](https://taozh2017.github.io).
 
---- *Last updated: 2020/07/20* --- 
+--- *Last updated: 2020/07/21* --- 
 
 
 *Caution: We list the peer-reviewed papers before the preprints (e.g., arXiv and medRxiv). <br> 
@@ -1250,6 +1250,15 @@ arXiv: https://arxiv.org/abs/2007.08028
 
     *Joseph Bae, Saarthak Kapse, Gagandeep Singh, Tej Phatak, Jeremy Green, Nikhil Madan, Prateek Prasanna*
 
+1. **"COV-ELM classifier: An Extreme Learning Machine based identification of COVID-19 using Chest-Ray Images."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2007.08637
+
+    *Sheetal Rajpal, Naveen Kumar, Ankit Rajpal*
+
+1. **"Using Deep Convolutional Neural Networks to Diagnose COVID-19 From Chest X-Ray Images."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2007.09695
+
+    *Yi Zhong*
 
 
 
