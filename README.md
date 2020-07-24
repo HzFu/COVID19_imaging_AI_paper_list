@@ -6,13 +6,15 @@ This is a collection of COVID-19 imaging-based AI research papers and datasets. 
  
 Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Deng-Ping Fan*](https://dpfan.net/), [*Geng Chen*](https://www.researchgate.net/profile/Geng_Chen13), and [*Tao Zhou*](https://taozh2017.github.io).
 
---- *Last updated: 2020/07/21* --- 
+--- *Last updated: 2020/07/23* --- 
 
 
 *Caution: We list the peer-reviewed papers before the preprints (e.g., arXiv and medRxiv). <br> 
 Preprints are preliminary reports of work that have not been certified by peer review. They should not be relied on to guide clinical practice or health-related behavior and should not be reported in news media as established information.*
 
+
 ------
+
 
 ## Content:
 
@@ -44,6 +46,13 @@ Preprints are preliminary reports of work that have not been certified by peer r
 7. COVID-19 World Dashboard:
     1. From: [World Health Organization (WHO)](https://covid19.who.int)
     1. From: [Johns Hopkins University (JHU)](https://coronavirus.jhu.edu/map.html)
+
+
+
+
+
+
+
 
 
 ------
@@ -127,6 +136,12 @@ Preprints: https://www.preprints.org/manuscript/202006.0189/v1 <br>
 Project: https://github.com/saeed-anwar/COVID19-Baselines
 
     *Muhammad Saqib, Saeed Anwar, Abbas Anwar, Lars Petersson, Nabin Sharma, Michael Blumenstein*
+
+
+
+
+
+
 
 
 ------
@@ -326,13 +341,19 @@ doi: https://doi.org/10.1101/2020.05.18.20097444
     *Kristof Smet, Dieter De Smet, Ingel Demedts, Bernard Bouckaert, Thomas Ryckaert, Emanuel Laridon, Birgit Heremans, Ruben Vandenbulcke, Stefaan Gryspeerdt, Geert Antoine Martens*
 
 
+
+
+
 ------
+
 
 
 ## AI-related Technical Papers: <a id="technical" class="anchor" href="#technical" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
 
+
 ### CT-based methods: <a id="technical_CT" class="anchor" href="#technical_CT" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
+
 
 
 1. **"Artificial Intelligence Distinguishes COVID-19 from Community Acquired Pneumonia on Chest CT."** Radiology, 2020. <br>
@@ -422,6 +443,8 @@ doi: https://doi.org/10.1109/TMI.2020.3001810
 doi: https://doi.org/10.1038/s41591-020-0931-3
 
     *Xueyan Mei, Hao-Chih Lee, Kai-yue Diao, Mingqian Huang, Bin Lin, Chenyu Liu, Zongyu Xie, Yixuan Ma, Philip M. Robson, Michael Chung, Adam Bernheim, Venkatesh Mani, Claudia Calcagno, Kunwei Li, Shaolin Li, Hong Shan, Jian Lv, Tongtong Zhao, Junli Xia, Qihua Long, Sharon Steinberger, Adam Jacobi, Timothy Deyer, Marta Luksza, Fang Liu, Brent P. Little, Zahi A. Fayad, Yang Yang*
+
+
 
 
 
@@ -1259,6 +1282,13 @@ arXiv: https://arxiv.org/abs/2007.08637
 arXiv: https://arxiv.org/abs/2007.09695
 
     *Yi Zhong*
+
+1. **"4S-DT: Self Supervised Super Sample Decomposition for Transfer learning with application to COVID-19 detection."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2007.11450
+
+    *Asmaa Abbas, Mohammed M. Abdelsamea, Mohamed Gaber*
+
+
 
 
 
