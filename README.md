@@ -6,7 +6,7 @@ This is a collection of COVID-19 imaging-based AI research papers and datasets. 
  
 Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Deng-Ping Fan*](https://dpfan.net/), [*Geng Chen*](https://www.researchgate.net/profile/Geng_Chen13), and [*Tao Zhou*](https://taozh2017.github.io).
 
---- *Last updated: 2020/07/23* --- 
+--- *Last updated: 2020/07/27* --- 
 
 
 *Caution: We list the peer-reviewed papers before the preprints (e.g., arXiv and medRxiv). <br> 
@@ -230,6 +230,10 @@ arXiv: https://arxiv.org/abs/2006.13262
 
     *Imon Banerjee, Priyanshu Sinha, Saptarshi Purkayastha, Nazanin Mashhaditafreshi, Amara Tariq, Jiwoong Jeong, Hari Trivedi, Judy W. Gichoya*
 
+1. **"Study of Different Deep Learning Approach with Explainable AI for Screening Patients with COVID-19 Symptoms: Using CT Scan and Chest X-ray Image Dataset."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2007.12525
+
+    *Md Manjurul Ahsan, Kishor Datta Gupta, Mohammad Maminur Islam, Sajib Sen, Md. Lutfar Rahman, Mohammad Shakhawat Hossain*
 
 
 
@@ -790,6 +794,12 @@ doi: https://doi.org/10.1101/2020.07.11.20151332
 arXiv: https://arxiv.org/abs/2007.07012
 
     *Issam Laradji, Pau Rodriguez, Frederic Branchaud-Charron, Keegan Lensink, Parmida Atighehchian, William Parker, David Vazquez, Derek Nowrouzezahrai*
+
+1. **"COVID TV-UNet: Segmenting COVID-19 Chest CT Images Using Connectivity Imposed U-Net."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2007.12303
+
+    *Issam Laradji, Pau Rodriguez, Frederic Branchaud-Charron, Keegan Lensink, Parmida Atighehchian, William Parker, David Vazquez, Derek Nowrouzezahrai*
+
 
 
 
