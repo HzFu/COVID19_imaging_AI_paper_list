@@ -798,7 +798,7 @@ arXiv: https://arxiv.org/abs/2007.07012
 1. **"COVID TV-UNet: Segmenting COVID-19 Chest CT Images Using Connectivity Imposed U-Net."** arXiv, 2020. <br>
 arXiv: https://arxiv.org/abs/2007.12303
 
-    *Issam Laradji, Pau Rodriguez, Frederic Branchaud-Charron, Keegan Lensink, Parmida Atighehchian, William Parker, David Vazquez, Derek Nowrouzezahrai*
+    *Narges Saeedizadeh, Shervin Minaee, Rahele Kafieh, Shakib Yazdani, Milan Sonka*
 
 
 
