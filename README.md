@@ -6,7 +6,7 @@ This is a collection of COVID-19 imaging-based AI research papers and datasets. 
  
 Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Deng-Ping Fan*](https://dpfan.net/), [*Geng Chen*](https://www.researchgate.net/profile/Geng_Chen13), and [*Tao Zhou*](https://taozh2017.github.io).
 
---- *Last updated: 2020/07/27* --- 
+--- *Last updated: 2020/07/30* --- 
 
 
 *Caution: We list the peer-reviewed papers before the preprints (e.g., arXiv and medRxiv). <br> 
@@ -800,6 +800,17 @@ arXiv: https://arxiv.org/abs/2007.12303
 
     *Narges Saeedizadeh, Shervin Minaee, Rahele Kafieh, Shakib Yazdani, Milan Sonka*
 
+1. **"COVID-19 CT Image Synthesis with a Conditional Generative Adversarial Network."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2007.14638
+
+    *Yifan Jiang, Han Chen, Murray Loew, Hanseok Ko*
+
+1. **"An Uncertainty-aware Transfer Learning-based Framework for Covid-19 Diagnosis."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2007.14846
+
+    *Afshar Shamsi Jokandan, Hamzeh Asgharnezhad, Shirin Shamsi Jokandan, Abbas Khosravi, Parham M.Kebria, Darius Nahavandi, Saeid Nahavandi, Dipti Srinivasan*
+
+
 
 
 
@@ -1298,7 +1309,10 @@ arXiv: https://arxiv.org/abs/2007.11450
 
     *Asmaa Abbas, Mohammed M. Abdelsamea, Mohamed Gaber*
 
+1. **"PDCOVIDNet: A Parallel-Dilated Convolutional Neural Network Architecture for Detecting COVID-19 from Chest X-Ray Images."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2007.14777
 
+    *Nihad Karim Chowdhury, Md. Muhtadir Rahman, Muhammad Ashad Kabir*
 
 
 
