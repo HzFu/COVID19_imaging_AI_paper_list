@@ -137,6 +137,10 @@ Project: https://github.com/saeed-anwar/COVID19-Baselines
 
     *Muhammad Saqib, Saeed Anwar, Abbas Anwar, Lars Petersson, Nabin Sharma, Michael Blumenstein*
 
+1. **"Comparative study of deep learning methods for the automatic segmentation of lung, lesion and lesion type in CT scans of COVID-19 patients"** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2007.15546
+
+    *Sofie Tilborghs, Ine Dirks, Lucas Fidon, Siri Willems, Tom Eelbode, Jeroen Bertels, Bart Ilsen, Arne Brys, Adriana Dubbeldam, Nico Buls, Panagiotis Gonidakis, Sebastián Amador Sánchez, Annemiek Snoeckx, Paul M. Parizel, Johan de Mey, Dirk Vandermeulen, Tom Vercauteren, David Robben, Dirk Smeets, Frederik Maes, Jef Vandemeulebroucke, Paul Suetens*
 
 
 
