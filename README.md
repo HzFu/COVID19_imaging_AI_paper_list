@@ -814,6 +814,11 @@ arXiv: https://arxiv.org/abs/2007.14846
 
     *Afshar Shamsi Jokandan, Hamzeh Asgharnezhad, Shirin Shamsi Jokandan, Abbas Khosravi, Parham M.Kebria, Darius Nahavandi, Saeid Nahavandi, Dipti Srinivasan*
 
+1. **"Severity Assessment and Progression Prediction of COVID-19 Patients based on the LesionEncoder Framework and Chest CT."** medRxiv 2020.08.03.20167007, 2020. <br> 
+doi: https://doi.org/10.1101/2020.08.03.20167007
+
+    *Youzhen Feng, Sidong Liu, Zhongyuan Cheng, Juan Quiroz, Data Rezazadegan, Pingkang Chen, Qiting Lin, Long Qian, Xiaofang Liu, Shlomo Berkovsky, Enrico Coiera, Lei Song, Xiaoming Qiu, Xiangran Cai*
+
 
 
 
