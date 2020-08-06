@@ -6,7 +6,7 @@ This is a collection of COVID-19 imaging-based AI research papers and datasets. 
  
 Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Deng-Ping Fan*](https://dpfan.net/), [*Geng Chen*](https://www.researchgate.net/profile/Geng_Chen13), and [*Tao Zhou*](https://taozh2017.github.io).
 
---- *Last updated: 2020/07/30* --- 
+--- *Last updated: 2020/08/06* --- 
 
 
 *Caution: We list the peer-reviewed papers before the preprints (e.g., arXiv and medRxiv). <br> 
@@ -1322,6 +1322,18 @@ arXiv: https://arxiv.org/abs/2007.11450
 arXiv: https://arxiv.org/abs/2007.14777
 
     *Nihad Karim Chowdhury, Md. Muhtadir Rahman, Muhammad Ashad Kabir*
+
+1. **"COVID-19 in CXR: from Detection and Severity Scoring to Patient Disease Monitoring."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2008.02150
+
+    *Rula Amer, Maayan Frid-Adar, Ophir Gozes, Jannette Nassar, Hayit Greenspan*
+
+1. **"An artificial intelligence system for predicting the deterioration of COVID-19 patients in the emergency department."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2008.01774
+
+    *Farah E. Shamout, Yiqiu Shen, Nan Wu, Aakash Kaku, Jungkyu Park, Taro Makino, Stanisław Jastrzębski, Duo Wang, Ben Zhang, Siddhant Dogra, Meng Cao, Narges Razavian, David Kudlowitz, Lea Azour, William Moore, Yvonne W. Lui, Yindalon Aphinyanaphongs, Carlos Fernandez-Granda, Krzysztof J. Geras*
+
+
 
 
 
