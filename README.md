@@ -42,7 +42,7 @@ Preprints are preliminary reports of work that have not been certified by peer r
     1. **Medical Image Analysis:** <br>
     [Special Issue on "Intelligent Analysis of COVID-19 Imaging Data"](https://www.journals.elsevier.com/medical-image-analysis/call-for-papers/special-issue-on-intelligent-analysis-of-covid-19-imaging-da)
     1. **Pattern Recognition:** <br>
-    [Special Issue on "Special Submission Stream on AI for Combating COVID-2019"](https://www.journals.elsevier.com/pattern-recognition/call-for-papers/special-submission-stream-on-ai-for-combating-covid-2019)
+    [Special Issue on "Special Submission Stream on AI for Combating COVID-2019"](https://www.journals.elsevier.com/pattern-recognition/call-for-papers/special-submission-stream-on-ai-for-combating-covid-2019) 
 7. COVID-19 World Dashboard:
     1. From: [World Health Organization (WHO)](https://covid19.who.int)
     1. From: [Johns Hopkins University (JHU)](https://coronavirus.jhu.edu/map.html)
