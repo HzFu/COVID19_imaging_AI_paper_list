@@ -1333,6 +1333,17 @@ arXiv: https://arxiv.org/abs/2008.01774
 
     *Farah E. Shamout, Yiqiu Shen, Nan Wu, Aakash Kaku, Jungkyu Park, Taro Makino, Stanisław Jastrzębski, Duo Wang, Ben Zhang, Siddhant Dogra, Meng Cao, Narges Razavian, David Kudlowitz, Lea Azour, William Moore, Yvonne W. Lui, Yindalon Aphinyanaphongs, Carlos Fernandez-Granda, Krzysztof J. Geras*
 
+1. **"Improving Explainability of Image Classification in Scenarios with Class Overlap: Application to COVID-19 and Pneumonia."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2008.02866
+
+    *Edward Verenich, Alvaro Velasquez, Nazar Khan, Faraz Hussain*
+
+1. **"Multi-Task Driven Explainable Diagnosis of COVID-19 using Chest X-ray Images."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2008.03205
+
+    *Aakarsh Malhotra, Surbhi Mittal, Puspita Majumdar, Saheb Chhabra, Kartik Thakral, Mayank Vatsa, Richa Singh, Santanu Chaudhury, Ashwin Pudrod, Anjali Agrawal*
+
+
 
 
 
