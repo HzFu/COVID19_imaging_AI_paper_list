@@ -6,7 +6,7 @@ This is a collection of COVID-19 imaging-based AI research papers and datasets. 
  
 Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Deng-Ping Fan*](https://dpfan.net/), [*Geng Chen*](https://www.researchgate.net/profile/Geng_Chen13), and [*Tao Zhou*](https://taozh2017.github.io).
 
---- *Last updated: 2020/08/06* --- 
+--- *Last updated: 2020/08/17* --- 
 
 
 *Caution: We list the peer-reviewed papers before the preprints (e.g., arXiv and medRxiv). <br> 
@@ -137,10 +137,18 @@ Project: https://github.com/saeed-anwar/COVID19-Baselines
 
     *Muhammad Saqib, Saeed Anwar, Abbas Anwar, Lars Petersson, Nabin Sharma, Michael Blumenstein*
 
-1. **"Comparative study of deep learning methods for the automatic segmentation of lung, lesion and lesion type in CT scans of COVID-19 patients"** arXiv, 2020. <br>
+1. **"Comparative study of deep learning methods for the automatic segmentation of lung, lesion and lesion type in CT scans of COVID-19 patients."** arXiv, 2020. <br>
 arXiv: https://arxiv.org/abs/2007.15546
 
     *Sofie Tilborghs, Ine Dirks, Lucas Fidon, Siri Willems, Tom Eelbode, Jeroen Bertels, Bart Ilsen, Arne Brys, Adriana Dubbeldam, Nico Buls, Panagiotis Gonidakis, Sebastián Amador Sánchez, Annemiek Snoeckx, Paul M. Parizel, Johan de Mey, Dirk Vandermeulen, Tom Vercauteren, David Robben, Dirk Smeets, Frederik Maes, Jef Vandemeulebroucke, Paul Suetens*
+
+1. **"Machine learning for COVID-19 detection and prognostication using chest radiographs and CT scans: a systematic methodological review."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2008.06388
+
+    *Michael Roberts, Derek Driggs, Matthew Thorpe, Julian Gilbey, Michael Yeung, Stephan Ursprung, Angelica I. Aviles-Rivero, Christian Etmann, Cathal McCague, Lucian Beer, Jonathan R. Weir-McCall, Zhongzhao Teng, James H.F. Rudd, Evis Sala, Carola-Bibiane Schönlieb*
+
+    
+
 
 
 
@@ -1343,7 +1351,10 @@ arXiv: https://arxiv.org/abs/2008.03205
 
     *Aakarsh Malhotra, Surbhi Mittal, Puspita Majumdar, Saheb Chhabra, Kartik Thakral, Mayank Vatsa, Richa Singh, Santanu Chaudhury, Ashwin Pudrod, Anjali Agrawal*
 
+1. **"Automated detection and quantification of COVID-19 airspace disease on chest radiographs: A novel approach achieving radiologist-level performance using a CNN trained on digital reconstructed radiographs (DRRs) from CT-based ground-truth."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2008.06330
 
+    *Eduardo Mortani Barbosa Jr., Warren B. Gefter, Rochelle Yang, Florin C. Ghesu, Siqi Liu, Boris Mailhe, Awais Mansoor, Sasa Grbic, Sebastian Piat, Guillaume Chabin, Vishwanath R S., Abishek Balachandran, Sebastian Vogt, Valentin Ziebandt, Steffen Kappler, Dorin Comaniciu*
 
 
 
