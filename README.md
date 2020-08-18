@@ -6,7 +6,7 @@ This is a collection of COVID-19 imaging-based AI research papers and datasets. 
  
 Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Deng-Ping Fan*](https://dpfan.net/), [*Geng Chen*](https://www.researchgate.net/profile/Geng_Chen13), and [*Tao Zhou*](https://taozh2017.github.io).
 
---- *Last updated: 2020/08/17* --- 
+--- *Last updated: 2020/08/18* --- 
 
 
 *Caution: We list the peer-reviewed papers before the preprints (e.g., arXiv and medRxiv). <br> 
@@ -454,12 +454,15 @@ doi: https://doi.org/10.1109/TMI.2020.3001810
 
     *Longxi Zhou, Zhongxiao Li, Juexiao Zhou, Haoyang Li, Yupeng Chen, Yuxin Huang, Dexuan Xie, Lintao Zhao, Ming Fan, Shahrukh Hashmi, Faisal AbdelKareem, Riham Eiada, Xigang Xiao, Lihua Li, Zhaowen Qiu, Xin Gao*
 
-
 1. **"Artificial intelligence–enabled rapid diagnosis of patients with COVID-19."** in Nature Medicine, 2020. <br>
 doi: https://doi.org/10.1038/s41591-020-0931-3
 
     *Xueyan Mei, Hao-Chih Lee, Kai-yue Diao, Mingqian Huang, Bin Lin, Chenyu Liu, Zongyu Xie, Yixuan Ma, Philip M. Robson, Michael Chung, Adam Bernheim, Venkatesh Mani, Claudia Calcagno, Kunwei Li, Shaolin Li, Hong Shan, Jian Lv, Tongtong Zhao, Junli Xia, Qihua Long, Sharon Steinberger, Adam Jacobi, Timothy Deyer, Marta Luksza, Fang Liu, Brent P. Little, Zahi A. Fayad, Yang Yang*
 
+1. **"Artificial intelligence for the detection of COVID-19 pneumonia on chest CT using multinational datasets."** in Nature Communications, 2020. <br>
+doi: https://doi.org/10.1038/s41591-020-0931-3
+
+    *Stephanie A. Harmon, Thomas H. Sanford, Sheng Xu, Evrim B. Turkbey, Holger Roth, Ziyue Xu, Dong Yang, Andriy Myronenko, Victoria Anderson, Amel Amalou, Maxime Blain, Michael Kassin, Dilara Long, Nicole Varble, Stephanie M. Walker, Ulas Bagci, Anna Maria Ierardi, Elvira Stellato, Guido Giovanni Plensich, Giuseppe Franceschelli, Cristiano Girlando, Giovanni Irmici, Dominic Labella, Dima Hammoud, Ashkan Malayeri, Elizabeth Jones, Ronald M. Summers, Peter L. Choyke, Daguang Xu, Mona Flores, Kaku Tamura, Hirofumi Obinata, Hitoshi Mori, Francesca Patella, Maurizio Cariati, Gianpaolo Carrafiello, Peng An, Bradford J. Wood, Baris Turkbey*
 
 
 
@@ -827,7 +830,10 @@ doi: https://doi.org/10.1101/2020.08.03.20167007
 
     *Youzhen Feng, Sidong Liu, Zhongyuan Cheng, Juan Quiroz, Data Rezazadegan, Pingkang Chen, Qiting Lin, Long Qian, Xiaofang Liu, Shlomo Berkovsky, Enrico Coiera, Lei Song, Xiaoming Qiu, Xiangran Cai*
 
+1. **"Efficient Deep Network Architecture for COVID-19 Detection Using Computed Tomography Images."** medRxiv 2020.08.14.20170290, 2020. <br> 
+doi: https://doi.org/10.1101/2020.08.14.20170290
 
+    *Chirag Goel, Abhimanyu Kumar, Satish Kumar Dubey, Vishal Srivastava*
 
 
 
