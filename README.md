@@ -6,7 +6,7 @@ This is a collection of COVID-19 imaging-based AI research papers and datasets. 
  
 Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Deng-Ping Fan*](https://dpfan.net/), [*Geng Chen*](https://www.researchgate.net/profile/Geng_Chen13), and [*Tao Zhou*](https://taozh2017.github.io).
 
---- *Last updated: 2020/08/18* --- 
+--- *Last updated: 2020/08/20* --- 
 
 
 *Caution: We list the peer-reviewed papers before the preprints (e.g., arXiv and medRxiv). <br> 
@@ -835,6 +835,11 @@ doi: https://doi.org/10.1101/2020.08.14.20170290
 
     *Chirag Goel, Abhimanyu Kumar, Satish Kumar Dubey, Vishal Srivastava*
 
+1. **"Automated detection and quantification of COVID-19 airspace disease on chest radiographs: A novel approach achieving radiologist-level performance using a CNN trained on digital reconstructed radiographs (DRRs) from CT-based ground-truth."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2008.06330
+
+    *Eduardo Mortani Barbosa Jr., Warren B. Gefter, Rochelle Yang, Florin C. Ghesu, Siqi Liu, Boris Mailhe, Awais Mansoor, Sasa Grbic, Sebastian Piat, Guillaume Chabin, Vishwanath R S., Abishek Balachandran, Sebastian Vogt, Valentin Ziebandt, Steffen Kappler, Dorin Comaniciu*
+
 
 
 
@@ -1357,10 +1362,10 @@ arXiv: https://arxiv.org/abs/2008.03205
 
     *Aakarsh Malhotra, Surbhi Mittal, Puspita Majumdar, Saheb Chhabra, Kartik Thakral, Mayank Vatsa, Richa Singh, Santanu Chaudhury, Ashwin Pudrod, Anjali Agrawal*
 
-1. **"Automated detection and quantification of COVID-19 airspace disease on chest radiographs: A novel approach achieving radiologist-level performance using a CNN trained on digital reconstructed radiographs (DRRs) from CT-based ground-truth."** arXiv, 2020. <br>
-arXiv: https://arxiv.org/abs/2008.06330
+1. **"Correcting Data Imbalance for Semi-Supervised Covid-19 Detection Using X-ray Chest Images."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2008.08496
 
-    *Eduardo Mortani Barbosa Jr., Warren B. Gefter, Rochelle Yang, Florin C. Ghesu, Siqi Liu, Boris Mailhe, Awais Mansoor, Sasa Grbic, Sebastian Piat, Guillaume Chabin, Vishwanath R S., Abishek Balachandran, Sebastian Vogt, Valentin Ziebandt, Steffen Kappler, Dorin Comaniciu*
+    *Saul Calderon-Ramirez, Shengxiang-Yang, Armaghan Moemeni, David Elizondo, Simon Colreavy-Donnelly, Luis Fernando Chavarria-Estrada, Miguel A. Molina-Cabello*
 
 
 
@@ -1394,4 +1399,9 @@ doi: https://doi.org/10.1101/2020.05.19.20103168
 
     *Nicoletta Anzalone, Antonella Castellano, Roberta Scotti, Anna Mara Scandroglio, Massimo Filippi, Fabio Ciceri, Moreno Tresoldi, Andrea Falini*
 
+1. **"MaskedFace-Net -- A Dataset of Correctly/Incorrectly Masked Face Images in the Context of COVID-19."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2008.08016 <br>
+dataset: https://github.com/cabani/MaskedFace-Net
+
+    *Adnane Cabani, Karim Hammoudi, Halim Benhabiles, Mahmoud Melkemi*
     
