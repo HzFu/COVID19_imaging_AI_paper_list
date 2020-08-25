@@ -6,7 +6,7 @@ This is a collection of COVID-19 imaging-based AI research papers and datasets. 
  
 Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Deng-Ping Fan*](https://dpfan.net/), [*Geng Chen*](https://www.researchgate.net/profile/Geng_Chen13), and [*Tao Zhou*](https://taozh2017.github.io).
 
---- *Last updated: 2020/08/20* --- 
+--- *Last updated: 2020/08/25* --- 
 
 
 *Caution: We list the peer-reviewed papers before the preprints (e.g., arXiv and medRxiv). <br> 
@@ -840,6 +840,15 @@ arXiv: https://arxiv.org/abs/2008.06330
 
     *Eduardo Mortani Barbosa Jr., Warren B. Gefter, Rochelle Yang, Florin C. Ghesu, Siqi Liu, Boris Mailhe, Awais Mansoor, Sasa Grbic, Sebastian Piat, Guillaume Chabin, Vishwanath R S., Abishek Balachandran, Sebastian Vogt, Valentin Ziebandt, Steffen Kappler, Dorin Comaniciu*
 
+1. **"Comparative performance analysis of the ResNet backbones of Mask RCNN to segment the signs of COVID-19 in chest CT scans."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2008.09713
+
+    *Muhammad Aleem, Rahul Raj, Arshad Khan*
+
+1. **"Symbolic Semantic Segmentation and Interpretation of COVID-19 Lung Infections in Chest CT volumes based on Emergent Languages."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2008.09866
+
+    *Aritra Chowdhury, Alberto Santamaria-Pang, James R. Kubricht, Jianwei Qiu, Peter Tu*
 
 
 
@@ -1367,7 +1376,15 @@ arXiv: https://arxiv.org/abs/2008.08496
 
     *Saul Calderon-Ramirez, Shengxiang-Yang, Armaghan Moemeni, David Elizondo, Simon Colreavy-Donnelly, Luis Fernando Chavarria-Estrada, Miguel A. Molina-Cabello*
 
+1. **"Machine learning and AI aided tool to differentiate COVID 19 and non-COVID 19 lung CXR."** medRxiv 2020.08.18.20175521, 2020. <br> 
+doi: https://doi.org/10.1101/2020.08.18.20175521
 
+    *Andrio Adwibowo*
+
+1. **"Automatic analysis system of COVID-19 radiographic lung images (XrayCoviDetector)."** medRxiv 2020.08.20.20178723, 2020. <br> 
+doi: https://doi.org/10.1101/2020.08.20.20178723
+
+    *Juan Nicolas Schlotterbeck, Carlos E Montoya, Patricia Bitar, Jorge A Fuentes, Victor Dinamarca, Gonzalo M Rojas, Marcelo Galvez*
 
 
 
