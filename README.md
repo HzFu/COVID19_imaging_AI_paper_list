@@ -1386,6 +1386,12 @@ doi: https://doi.org/10.1101/2020.08.20.20178723
 
     *Juan Nicolas Schlotterbeck, Carlos E Montoya, Patricia Bitar, Jorge A Fuentes, Victor Dinamarca, Gonzalo M Rojas, Marcelo Galvez*
 
+1. **"Chest X-ray image analysis and classification for COVID-19 pneumonia detection using Deep CNN."** medRxiv 2020.08.20.20178913, 2020. <br> 
+doi: https://doi.org/10.1101/2020.08.20.20178913
+
+    *Terry Gao Sr., Grace Wang*
+
+
 
 
 
