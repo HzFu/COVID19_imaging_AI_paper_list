@@ -850,6 +850,13 @@ arXiv: https://arxiv.org/abs/2008.09866
 
     *Aritra Chowdhury, Alberto Santamaria-Pang, James R. Kubricht, Jianwei Qiu, Peter Tu*
 
+1. **"A Fully Automated Deep Learning-based Network For Detecting COVID-19 from a New And Large Lung CT Scan Dataset."** medRxiv 2020.06.08.20121541, 2020. <br> 
+doi: https://doi.org/10.1101/2020.06.08.20121541
+
+    *Mohammad Rahimzadeh, Abolfazl Attar, Seyed Mohammad Sakhaei*
+
+
+
 
 
 
@@ -1390,6 +1397,11 @@ doi: https://doi.org/10.1101/2020.08.20.20178723
 doi: https://doi.org/10.1101/2020.08.20.20178913
 
     *Terry Gao Sr., Grace Wang*
+
+1. **"Automated COVID-19 Detection from Chest X-Ray Images : A High Resolution Network (HRNet) Approach."** medRxiv 2020.08.26.20182311, 2020. <br> 
+doi: https://doi.org/10.1101/2020.08.26.20182311
+
+    *Sifat Ahmed, Tonmoy Hossain, Oishee Bintey Hoque, Sujan Sarker, Sejuti Rahman, Faisal Muhammad Shah*
 
 
 
