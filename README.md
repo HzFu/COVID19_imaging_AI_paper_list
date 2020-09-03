@@ -6,7 +6,7 @@ This is a collection of COVID-19 imaging-based AI research papers and datasets. 
  
 Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Deng-Ping Fan*](https://dpfan.net/), [*Geng Chen*](https://www.researchgate.net/profile/Geng_Chen13), and [*Tao Zhou*](https://taozh2017.github.io).
 
---- *Last updated: 2020/08/25* --- 
+--- *Last updated: 2020/09/03* --- 
 
 
 *Caution: We list the peer-reviewed papers before the preprints (e.g., arXiv and medRxiv). <br> 
@@ -1403,6 +1403,10 @@ doi: https://doi.org/10.1101/2020.08.26.20182311
 
     *Sifat Ahmed, Tonmoy Hossain, Oishee Bintey Hoque, Sujan Sarker, Sejuti Rahman, Faisal Muhammad Shah*
 
+1. **"COVID-19 Detection From Chest Radiographs Using Machine Learning and Convolutional Neural Networks."** medRxiv 2020.08.31.20175828, 2020. <br> 
+doi: https://doi.org/10.1101/2020.08.31.20175828
+
+    *Andrew C. Li, David T. Lee, Kristoff K. Misquitta, Kaiji Uno, Sasha Wald*
 
 
 
