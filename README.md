@@ -100,11 +100,12 @@ doi: https://doi.org/10.1101/2020.04.28.20082776
 
     *Alexandru Burlacu, Radu Crisan-Dabija, Iolanda Valentina Popa, Bogdan Artene, Vasile Birzu, Mihai Pricop, Cristina Plesoianu, Daniele Generali*
 
-
 1. **"Computer Vision For COVID-19 Control: A Survey."** arXiv, 2020.  <br>
 arXiv: https://arxiv.org/abs/2004.09420 
 
     *Anwaar Ulhaq Asim Khan Douglas Gomes Manoranjan Paul*
+
+
 
 1. **"Artificial Intelligence against COVID-19: An Early Review."** IZA Discussion Papers 13110, Institute of Labor Economics (IZA), 2020. <br>
 Link: http://ftp.iza.org/dp13110.pdf
@@ -148,6 +149,10 @@ arXiv: https://arxiv.org/abs/2008.06388
     *Michael Roberts, Derek Driggs, Matthew Thorpe, Julian Gilbey, Michael Yeung, Stephan Ursprung, Angelica I. Aviles-Rivero, Christian Etmann, Cathal McCague, Lucian Beer, Jonathan R. Weir-McCall, Zhongzhao Teng, James H.F. Rudd, Evis Sala, Carola-Bibiane Schönlieb*
 
     
+1. **"Automated Detection and Forecasting of COVID-19 using Deep Learning Techniques: A Review."** arXiv, 2020.  <br>
+arXiv: https://arxiv.org/abs/2007.10785 
+
+    *Afshin Shoeibi, Marjane Khodatars, Roohallah Alizadehsani, Navid Ghassemi, Mahboobeh Jafari, Parisa Moridian, Ali Khadem, Delaram Sadeghi, Sadiq Hussain, Assef Zare, Zahra Alizadeh Sani, Javad Bazeli, Fahime Khozeimeh, Abbas Khosravi, Saeid Nahavandi, U. Rajendra Acharya, Peng Shi*
 
 
 
@@ -1443,4 +1448,8 @@ arXiv: https://arxiv.org/abs/2008.08016 <br>
 dataset: https://github.com/cabani/MaskedFace-Net
 
     *Adnane Cabani, Karim Hammoudi, Halim Benhabiles, Mahmoud Melkemi*
-    
+
+1. **"A New Screening Method for COVID-19 based on Ocular Feature Recognition by Machine Learning Tools."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2009.03184
+
+    *Yanwei Fu, Feng Li, Wenxuan Wang, Haicheng Tang, Xuelin Qian, Mengwei Gu, Xiangyang Xue*    
