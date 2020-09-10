@@ -6,7 +6,7 @@ This is a collection of COVID-19 imaging-based AI research papers and datasets. 
  
 Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Deng-Ping Fan*](https://dpfan.net/), [*Geng Chen*](https://www.researchgate.net/profile/Geng_Chen13), and [*Tao Zhou*](https://taozh2017.github.io).
 
---- *Last updated: 2020/09/09* --- 
+--- *Last updated: 2020/09/10* --- 
 
 
 *Caution: We list the peer-reviewed papers before the preprints (e.g., arXiv and medRxiv). <br> 
@@ -154,7 +154,10 @@ arXiv: https://arxiv.org/abs/2007.10785
 
     *Afshin Shoeibi, Marjane Khodatars, Roohallah Alizadehsani, Navid Ghassemi, Mahboobeh Jafari, Parisa Moridian, Ali Khadem, Delaram Sadeghi, Sadiq Hussain, Assef Zare, Zahra Alizadeh Sani, Javad Bazeli, Fahime Khozeimeh, Abbas Khosravi, Saeid Nahavandi, U. Rajendra Acharya, Peng Shi*
 
+1. **"On the Role of Artificial Intelligence in Medical Imaging of COVID-19."** medRxiv 2020.09.02.20187096, 2020. <br> 
+doi: https://doi.org/10.1101/2020.09.02.20187096
 
+    *Jannis Born, David Beymer, Deepta Rajan, Adam Coy, Vandana V Mukherjee, Matteo Manica, Prasanth Prasanna, Deddeh Ballah, Pallav L Shah, Emmanouil Karteris, Jan Lukas Robertus, Maria Gabrani, Michal Rosen-Zvi*
 
 
 
@@ -860,7 +863,10 @@ doi: https://doi.org/10.1101/2020.06.08.20121541
 
     *Mohammad Rahimzadeh, Abolfazl Attar, Seyed Mohammad Sakhaei*
 
+1. **"Performance and Robustness of Machine Learning-based Radiomic COVID-19 Severity Prediction."** medRxiv 2020.09.07.20189977, 2020. <br>
+doi: https://doi.org/10.1101/2020.09.07.20189977
 
+    *Stephen S.F. Yip, Zan Klanecek, Shotaro Naganawa, John Kim, Andrej Studen, Luciano Rivetti, Robert Jeraj*
 
 
 
