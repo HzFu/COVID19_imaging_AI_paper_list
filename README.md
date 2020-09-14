@@ -6,7 +6,7 @@ This is a collection of COVID-19 imaging-based AI research papers and datasets. 
  
 Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Deng-Ping Fan*](https://dpfan.net/), [*Geng Chen*](https://www.researchgate.net/profile/Geng_Chen13), and [*Tao Zhou*](https://taozh2017.github.io).
 
---- *Last updated: 2020/09/10* --- 
+--- *Last updated: 2020/09/14* --- 
 
 
 *Caution: We list the peer-reviewed papers before the preprints (e.g., arXiv and medRxiv). <br> 
@@ -868,7 +868,15 @@ doi: https://doi.org/10.1101/2020.09.07.20189977
 
     *Stephen S.F. Yip, Zan Klanecek, Shotaro Naganawa, John Kim, Andrej Studen, Luciano Rivetti, Robert Jeraj*
 
+. **"COVIDNet-CT: A Tailored Deep Convolutional Neural Network Design for Detection of COVID-19 Cases from Chest CT Images."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2009.05383
 
+    *Hayden Gunraj, Linda Wang, Alexander Wong*
+
+**"COVID CT-Net: Predicting Covid-19 From Chest CT Images Using Attentional Convolutional Network"**arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2009.05096
+
+    *Shakib Yazdani, Shervin Minaee, Rahele Kafieh, Narges Saeedizadeh, Milan Sonka*
 
 
 
