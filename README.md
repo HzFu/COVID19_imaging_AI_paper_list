@@ -6,7 +6,7 @@ This is a collection of COVID-19 imaging-based AI research papers and datasets. 
  
 Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Deng-Ping Fan*](https://dpfan.net/), [*Geng Chen*](https://www.researchgate.net/profile/Geng_Chen13), and [*Tao Zhou*](https://taozh2017.github.io).
 
---- *Last updated: 2020/09/14* --- 
+--- *Last updated: 2020/09/16* --- 
 
 
 *Caution: We list the peer-reviewed papers before the preprints (e.g., arXiv and medRxiv). <br> 
@@ -868,15 +868,22 @@ doi: https://doi.org/10.1101/2020.09.07.20189977
 
     *Stephen S.F. Yip, Zan Klanecek, Shotaro Naganawa, John Kim, Andrej Studen, Luciano Rivetti, Robert Jeraj*
 
-. **"COVIDNet-CT: A Tailored Deep Convolutional Neural Network Design for Detection of COVID-19 Cases from Chest CT Images."** arXiv, 2020. <br>
+1. **"COVIDNet-CT: A Tailored Deep Convolutional Neural Network Design for Detection of COVID-19 Cases from Chest CT Images."** arXiv, 2020. <br>
 arXiv: https://arxiv.org/abs/2009.05383
 
     *Hayden Gunraj, Linda Wang, Alexander Wong*
 
-**"COVID CT-Net: Predicting Covid-19 From Chest CT Images Using Attentional Convolutional Network"**arXiv, 2020. <br>
+1. **"COVID CT-Net: Predicting Covid-19 From Chest CT Images Using Attentional Convolutional Network"** arXiv, 2020. <br>
 arXiv: https://arxiv.org/abs/2009.05096
 
     *Shakib Yazdani, Shervin Minaee, Rahele Kafieh, Narges Saeedizadeh, Milan Sonka*
+
+1. **"Label-Free Segmentation of COVID-19 Lesions in Lung CT."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2009.06456
+
+    *Qingsong Yao, Li Xiao, Peihang Liu, S. Kevin Zhou*
+
+
 
 
 
@@ -1427,6 +1434,13 @@ doi: https://doi.org/10.1101/2020.08.31.20175828
 
     *Andrew C. Li, David T. Lee, Kristoff K. Misquitta, Kaiji Uno, Sasha Wald*
 
+1. **"4S-DT: Self Supervised Super Sample Decomposition for Transfer learning with application to COVID-19 detection."** medRxiv 2020.06.22.20137547, 2020. <br> 
+doi: https://doi.org/10.1101/2020.06.22.20137547
+
+    *Asmaa Abbas, Mohammed Abdelsamea, Mohamed Gaber*
+
+
+
 
 
 
@@ -1467,3 +1481,13 @@ dataset: https://github.com/cabani/MaskedFace-Net
 arXiv: https://arxiv.org/abs/2009.03184
 
     *Yanwei Fu, Feng Li, Wenxuan Wang, Haicheng Tang, Xuelin Qian, Mengwei Gu, Xiangyang Xue*    
+
+1. **"Accelerating COVID-19 Differential Diagnosis with Explainable Ultrasound Image Analysis."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2009.06116
+
+    *Jannis Born, Nina Wiedemann, Gabriel Brändle, Charlotte Buhre, Bastian Rieck, Karsten Borgwardt*  
+
+
+
+
+
