@@ -6,7 +6,7 @@ This is a collection of COVID-19 imaging-based AI research papers and datasets. 
  
 Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Deng-Ping Fan*](https://dpfan.net/), [*Geng Chen*](https://www.researchgate.net/profile/Geng_Chen13), and [*Tao Zhou*](https://taozh2017.github.io).
 
---- *Last updated: 2020/09/17* --- 
+--- *Last updated: 2020/09/22* --- 
 
 
 *Caution: We list the peer-reviewed papers before the preprints (e.g., arXiv and medRxiv). <br> 
@@ -477,7 +477,7 @@ doi: https://doi.org/10.1109/JBHI.2020.3023246 <br>
 arXiv: https://arxiv.org/abs/2009.07652 <br>
 code: https://github.com/med-air/Contrastive-COVIDNet
 
-    *Shuai Wang, Bo Kang, Jinlu Ma, Xianjun Zeng, Mingming Xiao, Jia Guo, Mengjiao Cai, Jingyi Yang, Yaodong Li, Xiangfei Meng, Bo Xu*
+    *Zhao Wang, Quande Liu, Qi Dou*
 
 
 
@@ -887,6 +887,13 @@ arXiv: https://arxiv.org/abs/2009.05096
 arXiv: https://arxiv.org/abs/2009.06456
 
     *Qingsong Yao, Li Xiao, Peihang Liu, S. Kevin Zhou*
+
+1. **"Classification and Region Analysis of COVID-19 Infection using Lung CT Images and Deep Convolutional Neural Networks."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2009.08864
+
+    *Saddam Hussain Khan, Anabia Sohail, Asifullah Khan, Yeon Soo Lee*
+
+
 
 
 
@@ -1444,6 +1451,10 @@ doi: https://doi.org/10.1101/2020.06.22.20137547
 
     *Asmaa Abbas, Mohammed Abdelsamea, Mohamed Gaber*
 
+1. **"Fused Deep Convolutional Neural Network for Precision Diagnosis of COVID-19 Using Chest X-Ray Images."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2009.08831
+
+    *Hussin K. Ragb, Ian T. Dover, Redha Ali*
 
 
 
