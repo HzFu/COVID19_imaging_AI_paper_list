@@ -6,7 +6,7 @@ This is a collection of COVID-19 imaging-based AI research papers and datasets. 
  
 Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Deng-Ping Fan*](https://dpfan.net/), [*Geng Chen*](https://www.researchgate.net/profile/Geng_Chen13), and [*Tao Zhou*](https://taozh2017.github.io).
 
---- *Last updated: 2020/09/22* --- 
+--- *Last updated: 2020/09/24* --- 
 
 
 *Caution: We list the peer-reviewed papers before the preprints (e.g., arXiv and medRxiv). <br> 
@@ -892,6 +892,18 @@ arXiv: https://arxiv.org/abs/2009.06456
 arXiv: https://arxiv.org/abs/2009.08864
 
     *Saddam Hussain Khan, Anabia Sohail, Asifullah Khan, Yeon Soo Lee*
+
+1. **"Classification of COVID-19 in CT Scans using Multi-Source Transfer Learning."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2009.10474
+
+    *Alejandro R. Martinez*
+
+1. **"Attention with Multiple Sources Knowledges for COVID-19 from CT Images."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2009.11008
+
+    *Duy M. H. Nguyen, Duy M. Nguyen, Huong Vu, Binh T. Nguyen, Fabrizio Nunnari, Daniel Sonntag*
+
+
 
 
 
