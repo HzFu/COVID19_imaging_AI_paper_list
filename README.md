@@ -6,7 +6,7 @@ This is a collection of COVID-19 imaging-based AI research papers and datasets. 
  
 Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Deng-Ping Fan*](https://dpfan.net/), [*Geng Chen*](https://www.researchgate.net/profile/Geng_Chen13), and [*Tao Zhou*](https://taozh2017.github.io).
 
---- *Last updated: 2020/09/24* --- 
+--- *Last updated: 2020/09/26* --- 
 
 
 *Caution: We list the peer-reviewed papers before the preprints (e.g., arXiv and medRxiv). <br> 
@@ -903,6 +903,12 @@ arXiv: https://arxiv.org/abs/2009.11008
 
     *Duy M. H. Nguyen, Duy M. Nguyen, Huong Vu, Binh T. Nguyen, Fabrizio Nunnari, Daniel Sonntag*
 
+1. **"SCOAT-Net: A Novel Network for Segmenting COVID-19 Lung Opacification from CT Images."** medRxiv 2020.09.23.20191726, 2020. <br>
+doi: https://doi.org/10.1101/2020.09.23.20191726
+
+    *Shixuan Zhao, Yongjie Li, Zhidan Li, Yang Chen, Wei Zhao, Xie Xingzhi, Jun Liu, Di Zhao*
+
+
 
 
 
@@ -1467,6 +1473,12 @@ doi: https://doi.org/10.1101/2020.06.22.20137547
 arXiv: https://arxiv.org/abs/2009.08831
 
     *Hussin K. Ragb, Ian T. Dover, Redha Ali*
+
+1. **"ECOVNet: An Ensemble of Deep Convolutional Neural Networks Based on EfficientNet to Detect COVID-19 From Chest X-rays."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2009.11850
+
+    *Nihad Karim Chowdhury, Md. Muhtadir Rahman, Noortaz Rezoana, Muhammad Ashad Kabir*
+
 
 
 
