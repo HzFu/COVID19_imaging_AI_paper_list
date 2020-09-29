@@ -6,7 +6,7 @@ This is a collection of COVID-19 imaging-based AI research papers and datasets. 
  
 Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Deng-Ping Fan*](https://dpfan.net/), [*Geng Chen*](https://www.researchgate.net/profile/Geng_Chen13), and [*Tao Zhou*](https://taozh2017.github.io).
 
---- *Last updated: 2020/09/26* --- 
+--- *Last updated: 2020/09/29* --- 
 
 
 *Caution: We list the peer-reviewed papers before the preprints (e.g., arXiv and medRxiv). <br> 
@@ -908,7 +908,10 @@ doi: https://doi.org/10.1101/2020.09.23.20191726
 
     *Shixuan Zhao, Yongjie Li, Zhidan Li, Yang Chen, Wei Zhao, Xie Xingzhi, Jun Liu, Di Zhao*
 
+1. **"Characterization of Covid-19 Dataset using Complex Networks and Image Processing."** arXiv, 2020. <br>
+doi: https://arxiv.org/abs/2009.13302
 
+    *Josimar Chire, Esteban Wilfredo Vilca Zuniga*
 
 
 
@@ -1479,7 +1482,25 @@ arXiv: https://arxiv.org/abs/2009.11850
 
     *Nihad Karim Chowdhury, Md. Muhtadir Rahman, Noortaz Rezoana, Muhammad Ashad Kabir*
 
+1. **"Generating Realistic COVID19 X-rays with a Mean Teacher + Transfer Learning GAN."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2009.12478
 
+    *Sumeet Menon, Joshua Galita, David Chapman, Aryya Gangopadhyay, Jayalakshmi Mangalagiri, Phuong Nguyen, Yaacov Yesha, Yelena Yesha, Babak Saboury, Michael Morris*
+
+1. **"Potential Features of ICU Admission in X-ray Images of COVID-19 Patients."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2009.12597
+
+    *Douglas P. S. Gomes, Anwaar Ulhaq, Manoranjan Paul, Michael J. Horry, Subrata Chakraborty, Manas Saha, Tanmoy Debnath, D.M. Motiur Rahaman*
+
+1. **"Deep Learning-based Four-region Lung Segmentation in Chest Radiography for COVID-19 Diagnosis."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2009.12610
+
+    *Young-Gon Kim, Kyungsang Kim, Dufan Wu, Hui Ren, Won Young Tak, Soo Young Park, Yu Rim Lee, Min Kyu Kang, Jung Gil Park, Byung Seok Kim, Woo Jin Chung, Mannudeep K. Kalra, Quanzheng Li*
+
+1. **"COVID-19 Infection Map Generation and Detection from Chest X-Ray Images."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2009.12698
+
+    *Aysen Degerli, Mete Ahishali, Mehmet Yamac, Serkan Kiranyaz, Muhammad E. H. Chowdhury, Khalid Hameed, Tahir Hamid, Rashid Mazhar, Moncef Gabbouj*
 
 
 
