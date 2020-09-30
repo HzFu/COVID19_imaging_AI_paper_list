@@ -923,10 +923,16 @@ doi: https://arxiv.org/abs/2009.13302
 ### CXR-based methods: <a id="technical_CXR" class="anchor" href="#technical_CXR" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
 1. **"Deep Learning COVID-19 Features on CXR using Limited Training Data Sets."** IEEE Transactions on Medical Imaging, 2020.<br>
-https://doi.org/10.1109/TMI.2020.2993291 <br>
+doi: https://doi.org/10.1109/TMI.2020.2993291 <br>
 arXiv: https://arxiv.org/abs/2004.05758
 
     *Yujin Oh, Sangjoon Park, Jong Chul Ye*
+
+1. **"Deep-COVID: Predicting COVID-19 From Chest X-Ray Images Using Deep Transfer Learning."** Medical Image Analysis, 2020. <br>
+doi: https://doi.org/10.1016/j.media.2020.101794 <br>
+arXiv: https://arxiv.org/abs/2004.09363
+
+    *Shervin Minaee, Rahele Kafieh, Milan Sonka, Shakib Yazdani, Ghazaleh Jamalipour Soufi*
 
 1. **"COVID-Net: A Tailored Deep Convolutional Neural Network Design for Detection of COVID-19 Cases from Chest Radiography Images."** arXiv, 2020. <br>
 arXiv: https://arxiv.org/abs/2003.09871
@@ -1075,10 +1081,7 @@ arXiv: https://arxiv.org/abs/2003.11055
 
     *Ezz El-Din Hemdan, Marwa A. Shouman, Mohamed Esmail Karar*
 
-1. **"Deep-COVID: Predicting COVID-19 From Chest X-Ray Images Using Deep Transfer Learning."** arXiv, 2020. <br>
-arXiv: https://arxiv.org/abs/2004.09363
 
-    *Shervin Minaee, Rahele Kafieh, Milan Sonka, Shakib Yazdani, Ghazaleh Jamalipour Soufi*
 
 1. **"Extracting possibly representative COVID-19 Biomarkers from X-Ray images with Deep Learning approach and image data related to Pulmonary Diseases."** arXiv, 2020. <br>
 arXiv: https://arxiv.org/abs/2004.00338
