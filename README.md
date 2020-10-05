@@ -6,7 +6,7 @@ This is a collection of COVID-19 imaging-based AI research papers and datasets. 
  
 Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Deng-Ping Fan*](https://dpfan.net/), [*Geng Chen*](https://www.researchgate.net/profile/Geng_Chen13), and [*Tao Zhou*](https://taozh2017.github.io).
 
---- *Last updated: 2020/10/01* --- 
+--- *Last updated: 2020/10/03* --- 
 
 
 *Caution: We list the peer-reviewed papers before the preprints (e.g., arXiv and medRxiv). <br> 
@@ -1507,6 +1507,23 @@ arXiv: https://arxiv.org/abs/2009.12610
 arXiv: https://arxiv.org/abs/2009.12698
 
     *Aysen Degerli, Mete Ahishali, Mehmet Yamac, Serkan Kiranyaz, Muhammad E. H. Chowdhury, Khalid Hameed, Tahir Hamid, Rashid Mazhar, Moncef Gabbouj*
+
+1. **"GraphXCOVID: Explainable Deep Graph Diffusion Pseudo-Labelling for Identifying COVID-19 on Chest X-rays."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2010.00378
+
+    *Angelica I Aviles-Rivero, Philip Sellars, Carola-Bibiane Schönlieb, Nicolas Papadakis*
+
+1. **"An Integrated Framework with Machine Learning and Radiomics for Accurate and Rapid Early Diagnosis of COVID-19 from Chest X-ray."** medRxiv 2020.10.01.20205146, 2020. <br>
+doi: https://doi.org/10.1101/2020.10.01.20205146
+
+    *Mahbubunnabi Tamal, Maha Alshammari, Meernah Alabdullah, Rana Hourani, Hossain Abu Alola, Tarek M. Hegazi*
+
+1. **"COVID-19 Classification of X-ray Images Using Deep Neural Networks."** medRxiv 2020.10.01.20204073, 2020. <br>
+doi: https://doi.org/10.1101/2020.10.01.20204073
+
+    *Elisha Goldstein, Daphna Keidar, Daniel Yaron, Yair Shachar, Ayelet Blass, Leonid Charbinsky, Israel Aharony, Liza Lifshitz, Dimitri Lumelsky, Ziv Neeman, Matti Mizrachi, Majd Hajouj, Nethanel Eizenbach, Eyal Sela, Chedva Weiss, Philip Levin, Ofer Benjaminov, Gil N Bachar, Shlomit Tamir, Yael Rapson, Dror Suhami, amiel a dror, Naama Bogot, Ahuva Grubstein, Nogah Shabsin, Yishai M Elyada, Yonina Eldar*
+
+
 
 
 
