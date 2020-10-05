@@ -743,7 +743,7 @@ doi: https://doi.org/10.1101/2020.06.01.20118505
 
     *Cheng Fang, Giorgio Garzillo, Bhavna Batohi, James T Teo, Marko Berovic, Paul Sidhu, Hasti Robbie*
 
-1.**"CT-based COVID-19 Triage: Deep Multitask Learning Improves Joint Identification and Severity Quantification."** arXiv, 2020. <br>
+1. **"CT-based COVID-19 Triage: Deep Multitask Learning Improves Joint Identification and Severity Quantification."** arXiv, 2020. <br>
 arXiv: https://arxiv.org/abs/2006.01441
 
     *Mikhail Goncharov, Maxim Pisov, Alexey Shevtsov, Boris Shirokikh, Anvar Kurmukov, Ivan Blokhin, Valeria Chernina, Alexander Solovev, Victor Gombolevskiy, Sergey Morozov, Mikhail Belyaev*
