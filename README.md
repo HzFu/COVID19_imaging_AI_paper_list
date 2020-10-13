@@ -6,7 +6,7 @@ This is a collection of COVID-19 imaging-based AI research papers and datasets. 
  
 Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Deng-Ping Fan*](https://dpfan.net/), [*Geng Chen*](https://www.researchgate.net/profile/Geng_Chen13), and [*Tao Zhou*](https://taozh2017.github.io).
 
---- *Last updated: 2020/10/03* --- 
+--- *Last updated: 2020/10/13* --- 
 
 
 *Caution: We list the peer-reviewed papers before the preprints (e.g., arXiv and medRxiv). <br> 
@@ -1461,7 +1461,7 @@ doi: https://doi.org/10.1101/2020.08.20.20178723
 1. **"Chest X-ray image analysis and classification for COVID-19 pneumonia detection using Deep CNN."** medRxiv 2020.08.20.20178913, 2020. <br> 
 doi: https://doi.org/10.1101/2020.08.20.20178913
 
-    *Terry Gao Sr., Grace Wang*
+    *Terry Gao Sr.*
 
 1. **"Automated COVID-19 Detection from Chest X-Ray Images : A High Resolution Network (HRNet) Approach."** medRxiv 2020.08.26.20182311, 2020. <br> 
 doi: https://doi.org/10.1101/2020.08.26.20182311
@@ -1522,6 +1522,11 @@ doi: https://doi.org/10.1101/2020.10.01.20205146
 doi: https://doi.org/10.1101/2020.10.01.20204073
 
     *Elisha Goldstein, Daphna Keidar, Daniel Yaron, Yair Shachar, Ayelet Blass, Leonid Charbinsky, Israel Aharony, Liza Lifshitz, Dimitri Lumelsky, Ziv Neeman, Matti Mizrachi, Majd Hajouj, Nethanel Eizenbach, Eyal Sela, Chedva Weiss, Philip Levin, Ofer Benjaminov, Gil N Bachar, Shlomit Tamir, Yael Rapson, Dror Suhami, amiel a dror, Naama Bogot, Ahuva Grubstein, Nogah Shabsin, Yishai M Elyada, Yonina Eldar*
+
+1. **"A Novel Strategy for COVID-19 Classification from Chest X-ray Images Using Deep Stacked-Ensembles."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2010.05690
+
+    *Lalith Bharadwaj B, Rohit Boddeda, Sai Vardhan K, Sai Mohan G, Sai Deepak V, Shilhora Akshay Patel*
 
 
 
