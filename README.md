@@ -6,7 +6,7 @@ This is a collection of COVID-19 imaging-based AI research papers and datasets. 
  
 Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Deng-Ping Fan*](https://dpfan.net/), [*Geng Chen*](https://www.researchgate.net/profile/Geng_Chen13), and [*Tao Zhou*](https://taozh2017.github.io).
 
---- *Last updated: 2020/10/13* --- 
+--- *Last updated: 2020/10/16* --- 
 
 
 *Caution: We list the peer-reviewed papers before the preprints (e.g., arXiv and medRxiv). <br> 
@@ -918,7 +918,10 @@ doi: https://arxiv.org/abs/2009.14623
 
     *Parnian Afshar, Shahin Heidarian, Nastaran Enshaei, Farnoosh Naderkhani, Moezedin Javad Rafiee, Anastasia Oikonomou, Faranak Babaki Fard, Kaveh Samimi, Konstantinos N. Plataniotis, Arash Mohammadi*
 
+1. **"COVID-CT-Mask-Net: Prediction of COVID-19 from CT Scans Using Regional Features."** medRxiv 2020.10.11.20211052, <br> 
+doi: https://doi.org/10.1101/2020.10.11.20211052
 
+    *Aram Ter-Sarkisov*
 
 
 
@@ -1527,6 +1530,12 @@ doi: https://doi.org/10.1101/2020.10.01.20204073
 arXiv: https://arxiv.org/abs/2010.05690
 
     *Lalith Bharadwaj B, Rohit Boddeda, Sai Vardhan K, Sai Mohan G, Sai Deepak V, Shilhora Akshay Patel*
+
+1. **"RANDGAN: Randomized Generative Adversarial Network for Detection of COVID-19 in Chest X-ray."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2010.06418
+
+    *Saman Motamed, Patrik Rogalla, Farzad Khalvati*
+
 
 
 
