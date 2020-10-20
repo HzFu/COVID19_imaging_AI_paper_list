@@ -6,7 +6,7 @@ This is a collection of COVID-19 imaging-based AI research papers and datasets. 
  
 Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Deng-Ping Fan*](https://dpfan.net/), [*Geng Chen*](https://www.researchgate.net/profile/Geng_Chen13), and [*Tao Zhou*](https://taozh2017.github.io).
 
---- *Last updated: 2020/10/16* --- 
+--- *Last updated: 2020/10/20* --- 
 
 
 *Caution: We list the peer-reviewed papers before the preprints (e.g., arXiv and medRxiv). <br> 
@@ -923,6 +923,15 @@ doi: https://doi.org/10.1101/2020.10.11.20211052
 
     *Aram Ter-Sarkisov*
 
+1. **"GASNet: Weakly-supervised Framework for COVID-19 Lesion Segmentation."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2010.09456
+
+    *Zhanwei Xu, Yukun Cao, Cheng Jin, Guozhu Shao, Xiaoqing Liu, Jie Zhou, Heshui Shi, Jianjiang Feng*
+
+
+
+
+
 
 
 
@@ -1535,6 +1544,12 @@ arXiv: https://arxiv.org/abs/2010.05690
 arXiv: https://arxiv.org/abs/2010.06418
 
     *Saman Motamed, Patrik Rogalla, Farzad Khalvati*
+
+1. **"COVID-19 Detection on Chest X-Ray and CT Scan Images Using Multi-image Augmented Deep Learning Model."** bioRxiv 2020.07.15.205567, 2020. <br> 
+doi: https://doi.org/10.1101/2020.07.15.205567
+
+    *Kiran Purohit, Abhishek Kesarwani, Dakshina Ranjan Kisku, Mamata Dalui*
+
 
 
 
