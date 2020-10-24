@@ -47,7 +47,7 @@ Preprints are preliminary reports of work that have not been certified by peer r
     1. From: [World Health Organization (WHO)](https://covid19.who.int)
     1. From: [Johns Hopkins University (JHU)](https://coronavirus.jhu.edu/map.html)
 8. COVID-19 Challenge:
-    1. COVID-19 Lung CT Lesion Segmentation Challenge - 2020 (COVID-19-20: [Link](https://covid-segmentation.grand-challenge.org) 
+    1. COVID-19 Lung CT Lesion Segmentation Challenge - 2020 (COVID-19-20): [Link](https://covid-segmentation.grand-challenge.org) 
 
 
 
