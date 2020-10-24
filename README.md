@@ -6,7 +6,7 @@ This is a collection of COVID-19 imaging-based AI research papers and datasets. 
  
 Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Deng-Ping Fan*](https://dpfan.net/), [*Geng Chen*](https://www.researchgate.net/profile/Geng_Chen13), and [*Tao Zhou*](https://taozh2017.github.io).
 
---- *Last updated: 2020/10/20* --- 
+--- *Last updated: 2020/10/24* --- 
 
 
 *Caution: We list the peer-reviewed papers before the preprints (e.g., arXiv and medRxiv). <br> 
@@ -46,7 +46,8 @@ Preprints are preliminary reports of work that have not been certified by peer r
 7. COVID-19 World Dashboard:
     1. From: [World Health Organization (WHO)](https://covid19.who.int)
     1. From: [Johns Hopkins University (JHU)](https://coronavirus.jhu.edu/map.html)
-
+8. COVID-19 Challenge:
+    1. COVID-19 Lung CT Lesion Segmentation Challenge - 2020 (COVID-19-20: [Link](https://covid-segmentation.grand-challenge.org) 
 
 
 
@@ -1473,7 +1474,7 @@ doi: https://doi.org/10.1101/2020.08.20.20178723
 1. **"Chest X-ray image analysis and classification for COVID-19 pneumonia detection using Deep CNN."** medRxiv 2020.08.20.20178913, 2020. <br> 
 doi: https://doi.org/10.1101/2020.08.20.20178913
 
-    *Terry Gao Sr.*
+    *Terry Gao*
 
 1. **"Automated COVID-19 Detection from Chest X-Ray Images : A High Resolution Network (HRNet) Approach."** medRxiv 2020.08.26.20182311, 2020. <br> 
 doi: https://doi.org/10.1101/2020.08.26.20182311
