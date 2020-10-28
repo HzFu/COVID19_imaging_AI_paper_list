@@ -6,7 +6,7 @@ This is a collection of COVID-19 imaging-based AI research papers and datasets. 
  
 Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Deng-Ping Fan*](https://dpfan.net/), [*Geng Chen*](https://www.researchgate.net/profile/Geng_Chen13), and [*Tao Zhou*](https://taozh2017.github.io).
 
---- *Last updated: 2020/10/24* --- 
+--- *Last updated: 2020/10/28* --- 
 
 
 *Caution: We list the peer-reviewed papers before the preprints (e.g., arXiv and medRxiv). <br> 
@@ -929,6 +929,13 @@ arXiv: https://arxiv.org/abs/2010.09456
 
     *Zhanwei Xu, Yukun Cao, Cheng Jin, Guozhu Shao, Xiaoqing Liu, Jie Zhou, Heshui Shi, Jianjiang Feng*
 
+1. **"Automated triage of COVID-19 from various lung abnormalities using chest CT features."** arXiv, 2020.<br>
+arXiv: https://arxiv.org/abs/2010.12967
+
+    *Dor Amran, Maayan Frid-Adar, Nimrod Sagie, Jannette Nassar, Asher Kabakovitch, Hayit Greenspan*
+
+
+
 
 
 
@@ -1551,8 +1558,20 @@ doi: https://doi.org/10.1101/2020.07.15.205567
 
     *Kiran Purohit, Abhishek Kesarwani, Dakshina Ranjan Kisku, Mamata Dalui*
 
+1. **"Interpreting Uncertainty in Model Predictions For COVID-19 Diagnosis."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2010.13271
 
+    *Gayathiri Murugamoorthy, Naimul Khan*
 
+1. **"Triple-view Convolutional Neural Networks for COVID-19 Diagnosis with Chest X-ray."** arXiv, 2020. <br>
+aeXiv: https://arxiv.org/abs/2010.14091
+
+    *Jianjia Zhang*
+
+1. **"Validation of expert system enhanced deep learning algorithm for automated screening for COVID-Pneumonia on chest X-rays."** medRxiv 2020.10.20.20213793, 2020. <br> 
+doi: https://doi.org/10.1101/2020.10.20.20213793
+
+    *Prashant Sadashiv Gidde, Shyam Sunder Prasad, Ajay Pratap Singh, Nitin Bhatheja, Satyartha Prakash, Prateek Singh, Aakash Saboo, Rohit Thakar, Salil Gupta, Sumeet Saurav, M V Raghunandanan, Amritpal Singh, Viren Sardana, Harsh Mahajan, Arjun Kalyanpur, Atanendu Shekhar Mandal, Vidur Mahajan, Anurag Agrawal, Anjali Agrawal, Vasantha Kumar Venugopal, Sanjay Singh, Debasis Dash*
 
 
 
