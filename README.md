@@ -6,7 +6,7 @@ This is a collection of COVID-19 imaging-based AI research papers and datasets. 
  
 Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Deng-Ping Fan*](https://dpfan.net/), [*Geng Chen*](https://www.researchgate.net/profile/Geng_Chen13), and [*Tao Zhou*](https://taozh2017.github.io).
 
---- *Last updated: 2020/10/28* --- 
+--- *Last updated: 2020/11/04* --- 
 
 
 *Caution: We list the peer-reviewed papers before the preprints (e.g., arXiv and medRxiv). <br> 
@@ -934,10 +934,20 @@ arXiv: https://arxiv.org/abs/2010.12967
 
     *Dor Amran, Maayan Frid-Adar, Nimrod Sagie, Jannette Nassar, Asher Kabakovitch, Hayit Greenspan*
 
+1. **"COVID-FACT: A Fully-Automated Capsule Network-based Framework for Identification of COVID-19 Cases from Chest CT scans."** arXiv, 2020.<br>
+arXiv: https://arxiv.org/abs/2010.16041
 
+    *Shahin Heidarian, Parnian Afshar, Nastaran Enshaei, Farnoosh Naderkhani, Anastasia Oikonomou, S. Farokh Atashzar, Faranak Babaki Fard, Kaveh Samimi, Konstantinos N. Plataniotis, Arash Mohammadi, Moezedin Javad Rafiee*
 
+1. **"CT-CAPS: Feature Extraction-based Automated Framework for COVID-19 Disease Identification from Chest CT Scans using Capsule Networks."** arXiv, 2020.<br>
+arXiv: https://arxiv.org/abs/2010.16043
 
+    *Shahin Heidarian, Parnian Afshar, Arash Mohammadi, Moezedin Javad Rafiee, Anastasia Oikonomou, Konstantinos N. Plataniotis, Farnoosh Naderkhani*
 
+1. **"Detection and Segmentation of Lesion Areas in Chest CT Scans For The Prediction of COVID-19."** medRxiv 2020.10.23.20218461, 2020. <br>
+doi: https://doi.org/10.1101/2020.10.23.20218461
+
+    *Aram Ter-Sarkisov*
 
 
 
@@ -1572,6 +1582,17 @@ aeXiv: https://arxiv.org/abs/2010.14091
 doi: https://doi.org/10.1101/2020.10.20.20213793
 
     *Prashant Sadashiv Gidde, Shyam Sunder Prasad, Ajay Pratap Singh, Nitin Bhatheja, Satyartha Prakash, Prateek Singh, Aakash Saboo, Rohit Thakar, Salil Gupta, Sumeet Saurav, M V Raghunandanan, Amritpal Singh, Viren Sardana, Harsh Mahajan, Arjun Kalyanpur, Atanendu Shekhar Mandal, Vidur Mahajan, Anurag Agrawal, Anjali Agrawal, Vasantha Kumar Venugopal, Sanjay Singh, Debasis Dash*
+
+1. **"Synthesis of COVID-19 Chest X-rays using Unpaired Image-to-Image Translation."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2010.10266
+
+    *Hasib Zunair, A. Ben Hamza*
+
+1. **"FLANNEL: Focal Loss Based Neural Network Ensemble for COVID-19 Detection."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2010.16039
+
+    *Zhi Qiao, Austin Bae, Lucas M. Glass, Cao Xiao, Jimeng Sun*
+
 
 
 
