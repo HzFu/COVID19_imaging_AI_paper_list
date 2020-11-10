@@ -6,7 +6,7 @@ This is a collection of COVID-19 imaging-based AI research papers and datasets. 
  
 Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Deng-Ping Fan*](https://dpfan.net/), [*Geng Chen*](https://www.researchgate.net/profile/Geng_Chen13), and [*Tao Zhou*](https://taozh2017.github.io).
 
---- *Last updated: 2020/11/04* --- 
+--- *Last updated: 2020/11/09* --- 
 
 
 *Caution: We list the peer-reviewed papers before the preprints (e.g., arXiv and medRxiv). <br> 
@@ -365,6 +365,10 @@ doi: https://doi.org/10.1101/2020.05.18.20097444
 
     *Kristof Smet, Dieter De Smet, Ingel Demedts, Bernard Bouckaert, Thomas Ryckaert, Emanuel Laridon, Birgit Heremans, Ruben Vandenbulcke, Stefaan Gryspeerdt, Geert Antoine Martens*
 
+1. **"Coronavirus Disease 2019 (COVID-19) Candidate Chest CT Features: A Systematic Review of Extracted Imaging Features from 7571 Individuals."** medRxiv 2020.11.03.20225326, 2020. <br> 
+doi: https://doi.org/10.1101/2020.11.03.20225326
+
+    *Javad Zahiri, Mohammad Hossein Afsharinia, Zhaleh Hekmati, Mohsen Khodarahmi, Shahrzad Hekmati, Ramin Pourghorban*
 
 
 
@@ -1593,7 +1597,10 @@ arXiv: https://arxiv.org/abs/2010.16039
 
     *Zhi Qiao, Austin Bae, Lucas M. Glass, Cao Xiao, Jimeng Sun*
 
+1. **"Transfer learning to detect COVID-19 automatically from X-ray images, using convolutional neural networks."** medRxiv 2020.08.25.20182170, 2020. <br> 
+doi: https://doi.org/10.1101/2020.08.25.20182170
 
+    *Mundher Taresh Sr., Ningbo Zhu Sr., Talal Ahmed Ali Ali Sr.*
 
 
 
