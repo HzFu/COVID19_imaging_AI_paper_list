@@ -6,7 +6,7 @@ This is a collection of COVID-19 imaging-based AI research papers and datasets. 
  
 Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Deng-Ping Fan*](https://dpfan.net/), [*Geng Chen*](https://www.researchgate.net/profile/Geng_Chen13), and [*Tao Zhou*](https://taozh2017.github.io).
 
---- *Last updated: 2020/11/09* --- 
+--- *Last updated: 2020/11/11* --- 
 
 
 *Caution: We list the peer-reviewed papers before the preprints (e.g., arXiv and medRxiv). <br> 
@@ -160,7 +160,10 @@ doi: https://doi.org/10.1101/2020.09.02.20187096
 
     *Jannis Born, David Beymer, Deepta Rajan, Adam Coy, Vandana V Mukherjee, Matteo Manica, Prasanth Prasanna, Deddeh Ballah, Pallav L Shah, Emmanouil Karteris, Jan Lukas Robertus, Maria Gabrani, Michal Rosen-Zvi*
 
+1. **"Challenges of Deep Learning Methods for COVID-19 Detection Using Public Datasets."** medRxiv 2020.11.07.20227504, 2020. <br> 
+doi: https://doi.org/10.1101/2020.11.07.20227504
 
+    *Md. Kamrul Hasan, Md. Ashraful Alam, Lavsen Dahal, Md. Toufick E Elahi, Shidhartho Roy, Sifat Redwan Wahid, Robert Marti, Bishesh Khanal*
 
 
 
@@ -953,6 +956,22 @@ doi: https://doi.org/10.1101/2020.10.23.20218461
 
     *Aram Ter-Sarkisov*
 
+1. **"Explainable COVID-19 Detection Using Chest CT Scans and Deep Learning."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2011.05317
+
+    *Hammam Alshazly, Christoph Linse, Erhardt Barth, Thomas Martinetz*
+
+1. **"Lightweight Model For The Prediction of COVID-19 Through The Detection And Segmentation of Lesions in Chest CT Scans."** medRxiv 2020.10.30.20223586, 2020. <br> 
+doi: https://doi.org/10.1101/2020.10.30.20223586
+
+    *Aram Ter-Sarkisov*
+
+1. **"Deep learning Enables Accurate Diagnosis of Novel Coronavirus (COVID-19) with CT images."** medRxiv 2020.02.23.20026930, 2020. <br> 
+doi: https://doi.org/10.1101/2020.02.23.20026930
+
+    *Song Ying, Shuangjia Zheng, Liang Li, Xiang Zhang, Xiaodong Zhang, Ziwang Huang, Jianwen Chen, Huiying Zhao, Ruixuan Wang, Yutian Chong, Jun Shen, Yunfei Zha, Yuedong Yang*
+
+
 
 
 
@@ -1601,6 +1620,19 @@ arXiv: https://arxiv.org/abs/2010.16039
 doi: https://doi.org/10.1101/2020.08.25.20182170
 
     *Mundher Taresh Sr., Ningbo Zhu Sr., Talal Ahmed Ali Ali Sr.*
+
+1. **"Pristine annotations-based multi-modal trained artificial intelligence solution to triage chest X-ray for COVID-19."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2011.05186
+
+    *Tao Tan, Bipul Das, Ravi Soni, Mate Fejes, Sohan Ranjan, Daniel Attila Szabo, Vikram Melapudi, K S Shriram, Utkarsh Agrawal, Laszlo Rusko, Zita Herczeg, Barbara Darazs, Pal Tegzes, Lehel Ferenczi, Rakesh Mullick, Gopal Avinash*
+
+1. **"Automated covid-19 detection from frontal Chest X-Ray images using Deep Learning: an online feasibility study."** medRxiv 2020.07.16.20155093, 2020. <br> 
+doi: https://doi.org/10.1101/2020.07.16.20155093
+
+    *Xavier P. Burgos-Artizzu*
+
+
+
 
 
 
