@@ -6,7 +6,7 @@ This is a collection of COVID-19 imaging-based AI research papers and datasets. 
  
 Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Deng-Ping Fan*](https://dpfan.net/), [*Geng Chen*](https://www.researchgate.net/profile/Geng_Chen13), and [*Tao Zhou*](https://taozh2017.github.io).
 
---- *Last updated: 2020/11/11* --- 
+--- *Last updated: 2020/11/18* --- 
 
 
 *Caution: We list the peer-reviewed papers before the preprints (e.g., arXiv and medRxiv). <br> 
@@ -971,6 +971,11 @@ doi: https://doi.org/10.1101/2020.02.23.20026930
 
     *Song Ying, Shuangjia Zheng, Liang Li, Xiang Zhang, Xiaodong Zhang, Ziwang Huang, Jianwen Chen, Huiying Zhao, Ruixuan Wang, Yutian Chong, Jun Shen, Yunfei Zha, Yuedong Yang*
 
+1. **"Quantitative Assessment of Chest CT Patterns in COVID-19 and Bacterial Pneumonia patients: A Deep Learning Perspective."** medRxiv 2020.11.13.20231118, 2020. <br>
+doi: https://doi.org/10.1101/2020.11.13.20231118
+
+    *Myeongkyun Kang, Philip Chikontwe, Miguel Luna, Kyung Soo Hong, Jong Geol Jang, Jongsoo Park, Kyeong-Cheol Shin, June Hong Ahn, Sang Hyun Park*
+
 
 
 
@@ -1631,6 +1636,15 @@ doi: https://doi.org/10.1101/2020.07.16.20155093
 
     *Xavier P. Burgos-Artizzu*
 
+1. **"Decision and Feature Level Fusion of Deep Features Extracted from Public COVID-19 Data-sets."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2011.08528
+
+    *Hamza Osman Ilhan, Gorkem Serbes, Nizamettin Aydin*
+
+1. **"Automatic COVID-19 Detection from chest radiographic images using Convolutional Neural Network."** medRxiv 2020.11.08.20228080, 2020. <br> 
+doi: https://doi.org/10.1101/2020.11.08.20228080
+
+    *Sohaib Asif, Kamran Amjad*
 
 
 
