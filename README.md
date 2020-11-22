@@ -1,4 +1,4 @@
-# COVID-19 Imaging-based AI Research Collection
+# COVID-19 Imaging-based AI Research Collection[2020 Latest]
 
 ![alt text](./cover.jpg)
 
