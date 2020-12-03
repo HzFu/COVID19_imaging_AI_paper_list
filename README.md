@@ -6,7 +6,7 @@ This is a collection of COVID-19 imaging-based AI research papers and datasets. 
  
 Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Deng-Ping Fan*](https://dpfan.net/), [*Geng Chen*](https://www.researchgate.net/profile/Geng_Chen13), and [*Tao Zhou*](https://taozh2017.github.io).
 
---- *Last updated: 2020/11/18* --- 
+--- *Last updated: 2020/12/01* --- 
 
 
 *Caution: We list the peer-reviewed papers before the preprints (e.g., arXiv and medRxiv). <br> 
@@ -1694,7 +1694,10 @@ arXiv: https://arxiv.org/abs/2009.06116
 
     *Jannis Born, Nina Wiedemann, Gabriel Brändle, Charlotte Buhre, Bastian Rieck, Karsten Borgwardt*  
 
+1. **"Ultrasound Diagnosis of COVID-19: Robustness and Explainability."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2012.01145
 
+    *Jay Roberts, Theodoros Tsiligkaridis*  
 
 
 
