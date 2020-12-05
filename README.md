@@ -6,7 +6,7 @@ This is a collection of COVID-19 imaging-based AI research papers and datasets. 
  
 Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Deng-Ping Fan*](https://dpfan.net/), [*Geng Chen*](https://www.researchgate.net/profile/Geng_Chen13), and [*Tao Zhou*](https://taozh2017.github.io).
 
---- *Last updated: 2020/12/01* --- 
+--- *Last updated: 2020/12/05* --- 
 
 
 *Caution: We list the peer-reviewed papers before the preprints (e.g., arXiv and medRxiv). <br> 
@@ -480,13 +480,17 @@ doi: https://doi.org/10.1038/s41591-020-0931-3
 
     *Stephanie A. Harmon, Thomas H. Sanford, Sheng Xu, Evrim B. Turkbey, Holger Roth, Ziyue Xu, Dong Yang, Andriy Myronenko, Victoria Anderson, Amel Amalou, Maxime Blain, Michael Kassin, Dilara Long, Nicole Varble, Stephanie M. Walker, Ulas Bagci, Anna Maria Ierardi, Elvira Stellato, Guido Giovanni Plensich, Giuseppe Franceschelli, Cristiano Girlando, Giovanni Irmici, Dominic Labella, Dima Hammoud, Ashkan Malayeri, Elizabeth Jones, Ronald M. Summers, Peter L. Choyke, Daguang Xu, Mona Flores, Kaku Tamura, Hirofumi Obinata, Hitoshi Mori, Francesca Patella, Maurizio Cariati, Gianpaolo Carrafiello, Peng An, Bradford J. Wood, Baris Turkbey*
 
-1. **"Contrastive Cross-site Learning with Redesigned Net for COVID-19 CT Classification"** JBHI, 2020. <br>
+1. **"Contrastive Cross-site Learning with Redesigned Net for COVID-19 CT Classification."** JBHI, 2020. <br>
 doi: https://doi.org/10.1109/JBHI.2020.3023246 <br>
 arXiv: https://arxiv.org/abs/2009.07652 <br>
 code: https://github.com/med-air/Contrastive-COVIDNet
 
     *Zhao Wang, Quande Liu, Qi Dou*
 
+1. **"From community-acquired pneumonia to COVID-19: a deep learning–based method for quantitative analysis of COVID-19 on thick-section CT scans."** European Radiology volume 30, pages: 6828–6837, 2020. <br>
+doi: https://doi.org/10.1007/s00330-020-07042-x
+
+    *Zhang Li, Zheng Zhong, Yang Li, Tianyu Zhang, Liangxin Gao, Dakai Jin, Yue Sun, Xianghua Ye, Li Yu, Zheyu Hu, Jing Xiao, Lingyun Huang, Yuling Tang*
 
 
 
@@ -976,7 +980,16 @@ doi: https://doi.org/10.1101/2020.11.13.20231118
 
     *Myeongkyun Kang, Philip Chikontwe, Miguel Luna, Kyung Soo Hong, Jong Geol Jang, Jongsoo Park, Kyeong-Cheol Shin, June Hong Ahn, Sang Hyun Park*
 
+1. **"CovSegNet: A Multi Encoder-Decoder Architecture for Improved Lesion Segmentation of COVID-19 Chest CT Scans."** arXiv, 2020. <br>
+doi: https://arxiv.org/abs/2012.01473
 
+    *Tanvir Mahmud, Md Awsafur Rahman, Shaikh Anowarul Fattah, Sun-Yuan Kung*
+
+1. **"Supervised Image Classification Algorithm Using Representative Spatial Texture Features: Application to COVID-19 Diagnosis Using CT Images."** medRxiv 2020.12.03.20243493, 2020. <br> 
+doi: https://doi.org/10.1101/2020.12.03.20243493
+
+    *Zehor Belkhatir, Raul San Jose Estepar, Allen R Tannenbaum*
+ 
 
 
 
