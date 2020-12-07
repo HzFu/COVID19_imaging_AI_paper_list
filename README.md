@@ -6,7 +6,7 @@ This is a collection of COVID-19 imaging-based AI research papers and datasets. 
  
 Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Deng-Ping Fan*](https://dpfan.net/), [*Geng Chen*](https://www.researchgate.net/profile/Geng_Chen13), and [*Tao Zhou*](https://taozh2017.github.io).
 
---- *Last updated: 2020/12/05* --- 
+--- *Last updated: 2020/12/07* --- 
 
 
 *Caution: We list the peer-reviewed papers before the preprints (e.g., arXiv and medRxiv). <br> 
@@ -989,7 +989,15 @@ doi: https://arxiv.org/abs/2012.01473
 doi: https://doi.org/10.1101/2020.12.03.20243493
 
     *Zehor Belkhatir, Raul San Jose Estepar, Allen R Tannenbaum*
- 
+
+1. **"COVID-CLNet: COVID-19 Detection with Compressive Deep Learning Approaches."** arXiv, 2020. <br>
+doi: https://arxiv.org/abs/2012.02234
+
+    *Khalfalla Awedat, Almabrok Essa*
+
+
+
+
 
 
 
@@ -1658,6 +1666,16 @@ arXiv: https://arxiv.org/abs/2011.08528
 doi: https://doi.org/10.1101/2020.11.08.20228080
 
     *Sohaib Asif, Kamran Amjad*
+
+1. **"Exploring the Effect of Image Enhancement Techniques on COVID-19 Detection using Chest X-rays Images."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2012.02238
+
+    *Tawsifur Rahman, Amith Khandakar, Yazan Qiblawey, Anas Tahir, Serkan Kiranyaz, Saad Bin Abul Kashem, Mohammad Tariqul Islam, Somaya Al Maadeed, Susu M Zughaier, Muhammad Salman Khan, Muhammad E. H. Chowdhury*
+
+1. **"Multiscale Attention Guided Network for COVID-19 Detection Using Chest X-ray Images."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2012.02278
+
+    *Jingxiong Li, Yaqi Wang, Shuai Wang, Jun Wang, Jun Liu, Qun Jin, Lingling Sun*
 
 
 
