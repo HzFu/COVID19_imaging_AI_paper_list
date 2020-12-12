@@ -6,7 +6,7 @@ This is a collection of COVID-19 imaging-based AI research papers and datasets. 
  
 Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Deng-Ping Fan*](https://dpfan.net/), [*Geng Chen*](https://www.researchgate.net/profile/Geng_Chen13), and [*Tao Zhou*](https://taozh2017.github.io).
 
---- *Last updated: 2020/12/07* --- 
+--- *Last updated: 2020/12/12* --- 
 
 
 *Caution: We list the peer-reviewed papers before the preprints (e.g., arXiv and medRxiv). <br> 
@@ -90,6 +90,13 @@ doi: https://doi.org/10.1136/bmj.m1328
 doi: https://doi.org/10.1007/s10489-020-01770-9
 
     *Youssoufa Mohamadou, Aminou Halidoum, Pascalin Tiam Kapen*
+ 
+1. **"Adoption of Digital Technologies in Health Care During the COVID-19 Pandemic: Systematic Review of Early Scientific Literature."** Journal of Medical Internet Research,  Vol 22, No 11 (2020): November. <br> 
+doi: http://dx.doi.org/10.2196/22280  <br>
+medRxiv: https://doi.org/10.1101/2020.04.26.20080341
+
+    *Davide Golinelli, Erik Boetto, Gherardo Carullo, Andrea Giovanni Nuzzolese, Maria Paola Landini, Maria Pia Fantini*
+
 
 1. **"Detection of Covid-19 From Chest X-ray Images Using Artificial Intelligence: An Early Review."** arXiv, 2020. <br>
 arXiv: https://arxiv.org/abs/2004.05436
@@ -1676,6 +1683,12 @@ arXiv: https://arxiv.org/abs/2012.02238
 arXiv: https://arxiv.org/abs/2012.02278
 
     *Jingxiong Li, Yaqi Wang, Shuai Wang, Jun Wang, Jun Liu, Qun Jin, Lingling Sun*
+
+1. **"Deep Metric Learning-based Image Retrieval System for Chest Radiograph and its Clinical Applications in COVID-19."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2012.03663
+
+    *Aoxiao Zhong, Xiang Li, Dufan Wu, Hui Ren, Kyungsang Kim, Younggon Kim, Varun Buch, Nir Neumark, Bernardo Bizzo, Won Young Tak, Soo Young Park, Yu Rim Lee, Min Kyu Kang, Jung Gil Park, Byung Seok Kim, Woo Jin Chung, Ning Guo, Ittai Dayan, Mannudeep K. Kalra, Quanzheng Li*
+
 
 
 
