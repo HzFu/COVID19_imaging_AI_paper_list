@@ -6,7 +6,7 @@ This is a collection of COVID-19 imaging-based AI research papers and datasets. 
  
 Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Deng-Ping Fan*](https://dpfan.net/), [*Geng Chen*](https://www.researchgate.net/profile/Geng_Chen13), and [*Tao Zhou*](https://taozh2017.github.io).
 
---- *Last updated: 2020/12/12* --- 
+--- *Last updated: 2020/12/15* --- 
 
 
 *Caution: We list the peer-reviewed papers before the preprints (e.g., arXiv and medRxiv). <br> 
@@ -171,6 +171,16 @@ doi: https://doi.org/10.1101/2020.09.02.20187096
 doi: https://doi.org/10.1101/2020.11.07.20227504
 
     *Md. Kamrul Hasan, Md. Ashraful Alam, Lavsen Dahal, Md. Toufick E Elahi, Shidhartho Roy, Sifat Redwan Wahid, Robert Marti, Bishesh Khanal*
+
+1. **"Artificial Intelligence for COVID-19 Detection -- A state-of-the-art review."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2012.06310
+
+    *Parsa Sarosh, Shabir A. Parah, Romany F Mansur, G. M. Bhat*
+
+1. **"Deep Neural Networks for COVID-19 Detection and Diagnosis using Images and Acoustic-based Techniques: A Recent Review."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2012.07655
+
+    *Walid Hariri, Ali Narin*
 
 
 
@@ -1002,7 +1012,10 @@ doi: https://arxiv.org/abs/2012.02234
 
     *Khalfalla Awedat, Almabrok Essa*
 
+1. **"CHS-Net: A Deep learning approach for hierarchical segmentation of COVID-19 infected CT images."** arXiv, 2020. <br>
+doi: https://arxiv.org/abs/2012.07079
 
+    *Narinder Singh Punn, Sonali Agarwal*
 
 
 
@@ -1688,6 +1701,12 @@ arXiv: https://arxiv.org/abs/2012.02278
 arXiv: https://arxiv.org/abs/2012.03663
 
     *Aoxiao Zhong, Xiang Li, Dufan Wu, Hui Ren, Kyungsang Kim, Younggon Kim, Varun Buch, Nir Neumark, Bernardo Bizzo, Won Young Tak, Soo Young Park, Yu Rim Lee, Min Kyu Kang, Jung Gil Park, Byung Seok Kim, Woo Jin Chung, Ning Guo, Ittai Dayan, Mannudeep K. Kalra, Quanzheng Li*
+
+1. **"AIforCOVID: predicting the clinical outcomes in patients with COVID-19 applying AI to chest-X-rays. An Italian multicentre study."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2012.06531
+
+    *Paolo Soda, Natascha Claudia D'Amico, Jacopo Tessadori, Giovanni Valbusa, Valerio Guarrasi, Chandra Bortolotto, Muhammad Usman Akbar, Rosa Sicilia, Ermanno Cordelli, Deborah Fazzini, Michaela Cellina, Giancarlo Oliva, Giovanni Callea, Silvia Panella, Maurizio Cariati, Diletta Cozzi, Vittorio Miele, Elvira Stellato, Gian Paolo Carrafiello, Giulia Castorani, Annalisa Simeone, Lorenzo Preda, Giulio Iannello, Alessio Del Bue, Fabio Tedoldi, Marco Alì, Diego Sona, Sergio Papa*
+
 
 
 
