@@ -6,7 +6,7 @@ This is a collection of COVID-19 imaging-based AI research papers and datasets. 
  
 Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Deng-Ping Fan*](https://dpfan.net/), [*Geng Chen*](https://www.researchgate.net/profile/Geng_Chen13), and [*Tao Zhou*](https://taozh2017.github.io).
 
---- *Last updated: 2020/12/15* --- 
+--- *Last updated: 2020/12/29* --- 
 
 
 *Caution: We list the peer-reviewed papers before the preprints (e.g., arXiv and medRxiv). <br> 
@@ -133,7 +133,7 @@ arXiv: https://arxiv.org/abs/2004.14143
 1. **"Diagnostic performance of CT and its key signs for COVID-19: A systematic review and meta-analysis."** medRxiv 2020.05.24.20111773, 2020. <br> 
 doi: https://doi.org/10.1101/2020.05.24.20111773
 
-    *Kai Li, Xiuting Wu, Yuhui Zhong, Wanyue Qin, Zhenxi Zhang*
+    *Xiuting Wu, Yuhui Zhong, Wanyue Qin, Zhenxi Zhang, and Kai Li*
 
 1. **"A Review of Automatically Diagnosing COVID-19 based on Scanning Image."** arXiv, 2020. <br>
 doi: https://arxiv.org/abs/2006.05245
@@ -181,6 +181,24 @@ arXiv: https://arxiv.org/abs/2012.06310
 arXiv: https://arxiv.org/abs/2012.07655
 
     *Walid Hariri, Ali Narin*
+
+1. **"Do not repeat these mistakes -- a critical appraisal of applications of explainable artificial intelligence for image based COVID-19 detection."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2012.08333
+
+    *Weronika Hryniewska, Przemysław Bombiński, Patryk Szatkowski, Paulina Tomaszewska, Przemysław Biecek*
+
+1. **"Deep Learning in Detection and Diagnosis of Covid-19 using Radiology Modalities: A Systematic Review."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2012.11577
+
+    *Mustafa Ghaderzadeh, Farkhondeh Asadi*
+
+1. **"Diagnosis/Prognosis of COVID-19 Images: Challenges, Opportunities, and Applications."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2012.14106
+
+    *Arash Mohammadi, Yingxu Wang, Nastaran Enshaei, Parnian Afshar, Farnoosh Naderkhani, Anastasia Oikonomou, Moezedin Javad Rafiee, Helder C. R. Oliveira, Svetlana Yanushkevich, Konstantinos N. Plataniotis*
+
+
+
 
 
 
@@ -1008,15 +1026,19 @@ doi: https://doi.org/10.1101/2020.12.03.20243493
     *Zehor Belkhatir, Raul San Jose Estepar, Allen R Tannenbaum*
 
 1. **"COVID-CLNet: COVID-19 Detection with Compressive Deep Learning Approaches."** arXiv, 2020. <br>
-doi: https://arxiv.org/abs/2012.02234
+arXiv: https://arxiv.org/abs/2012.02234
 
     *Khalfalla Awedat, Almabrok Essa*
 
 1. **"CHS-Net: A Deep learning approach for hierarchical segmentation of COVID-19 infected CT images."** arXiv, 2020. <br>
-doi: https://arxiv.org/abs/2012.07079
+arXiv: https://arxiv.org/abs/2012.07079
 
     *Narinder Singh Punn, Sonali Agarwal*
 
+1. **"Screening COVID-19 Based on CT/CXR Images & Building a Publicly Available CT-scan Dataset of COVID-19."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2012.14204
+
+    *Maryam Dialameh, Ali Hamzeh, Hossein Rahmani, Amir Reza Radmard, Safoura Dialameh*
 
 
 
@@ -1707,6 +1729,20 @@ arXiv: https://arxiv.org/abs/2012.06531
 
     *Paolo Soda, Natascha Claudia D'Amico, Jacopo Tessadori, Giovanni Valbusa, Valerio Guarrasi, Chandra Bortolotto, Muhammad Usman Akbar, Rosa Sicilia, Ermanno Cordelli, Deborah Fazzini, Michaela Cellina, Giancarlo Oliva, Giovanni Callea, Silvia Panella, Maurizio Cariati, Diletta Cozzi, Vittorio Miele, Elvira Stellato, Gian Paolo Carrafiello, Giulia Castorani, Annalisa Simeone, Lorenzo Preda, Giulio Iannello, Alessio Del Bue, Fabio Tedoldi, Marco Alì, Diego Sona, Sergio Papa*
 
+1. **"Constructing and Evaluating an Explainable Model for COVID-19 Diagnosis from Chest X-rays."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2012.10787
+
+    *Rishab Khincha, Soundarya Krishnan, Krishnan Guru-Murthy, Tirtharaj Dash, Lovekesh Vig, Ashwin Srinivasan* 
+
+1. **"LungAI: A Deep Learning Convolutional Neural Network for Automated Detection of COVID-19 from Posteroanterior Chest X-Rays."** medRxiv 2020.12.19.20248530, 2020. <br>
+doi: https://doi.org/10.1101/2020.12.19.20248530
+
+    *Aryan Gulati*
+
+1. **"COVIDX: Computer-aided diagnosis of Covid-19 and its severity prediction with raw digital chest X-ray images."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2012.13605
+
+    *Wajid Arshad Abbasi, Syed Ali Abbas, Saiqa Andleeb*
 
 
 
