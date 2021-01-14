@@ -1764,7 +1764,10 @@ arXiv: https://arxiv.org/abs/2012.13605
 
     *Wajid Arshad Abbasi, Syed Ali Abbas, Saiqa Andleeb*
 
+1. **"COVID-19 Deterioration Prediction via Self-Supervised Representation Learning and Multi-Image Prediction."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2101.04909
 
+    *Anuroop Sriram, Matthew Muckley, Koustuv Sinha, Farah Shamout, Joelle Pineau, Krzysztof J. Geras, Lea Azour, Yindalon Aphinyanaphongs, Nafissa Yakubova, William Moore*
 
 
 
