@@ -6,7 +6,7 @@ This is a collection of COVID-19 imaging-based AI research papers and datasets. 
  
 Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Deng-Ping Fan*](https://dpfan.net/), [*Geng Chen*](https://www.researchgate.net/profile/Geng_Chen13), and [*Tao Zhou*](https://taozh2017.github.io).
 
---- *Last updated: 2020/12/29* --- 
+--- *Last updated: 14/01/2021* --- 
 
 
 *Caution: We list the peer-reviewed papers before the preprints (e.g., arXiv and medRxiv). <br> 
@@ -197,7 +197,10 @@ arXiv: https://arxiv.org/abs/2012.14106
 
     *Arash Mohammadi, Yingxu Wang, Nastaran Enshaei, Parnian Afshar, Farnoosh Naderkhani, Anastasia Oikonomou, Moezedin Javad Rafiee, Helder C. R. Oliveira, Svetlana Yanushkevich, Konstantinos N. Plataniotis*
 
+1. **"Intelligent Pneumonia Identification from Chest X-Rays: A Systematic Literature Review."** medRxiv 2020.07.09.20150342, 2020. <br> 
+doi: https://doi.org/10.1101/2020.07.09.20150342
 
+    *Wasif Khan, Nazar Zaki, Luqman Ali*
 
 
 
@@ -526,6 +529,11 @@ code: https://github.com/med-air/Contrastive-COVIDNet
 doi: https://doi.org/10.1007/s00330-020-07042-x
 
     *Zhang Li, Zheng Zhong, Yang Li, Tianyu Zhang, Liangxin Gao, Dakai Jin, Yue Sun, Xianghua Ye, Li Yu, Zheyu Hu, Jing Xiao, Lingyun Huang, Yuling Tang*
+
+1. **"A deep transfer learning model with classical data augmentation and CGAN to detect COVID-19 from chest CT radiography digital images."** Neural Comput & Applic, 2020. <br>
+doi: https://doi.org/10.1007/s00521-020-05437-x
+
+    *Mohamed Loey, Gunasekaran Manogaran, Nour Eldeen M. Khalifa*
 
 
 
@@ -1057,6 +1065,18 @@ doi: https://doi.org/10.1016/j.media.2020.101794 <br>
 arXiv: https://arxiv.org/abs/2004.09363
 
     *Shervin Minaee, Rahele Kafieh, Milan Sonka, Shakib Yazdani, Ghazaleh Jamalipour Soufi*
+
+
+1. **"Within the Lack of Chest COVID-19 X-ray Dataset: A Novel Detection Model Based on GAN and Deep Transfer Learning."** Symmetry, 2020, 12(4), 651. <br>
+doi: https://doi.org/10.3390/sym12040651
+
+    *Mohamed Loey, Florentin Smarandache, Nour Eldeen M. Khalifa*
+
+1. **"A Study of the Neutrosophic Set Significance on Deep Transfer Learning Models: an Experimental Case on a Limited COVID-19 Chest X-ray Dataset."** Cognitive Computation, 2021. <br>
+doi: https://doi.org/10.1007/s12559-020-09802-9
+
+    *Nour Eldeen M. Khalifa, Florentin Smarandache, Gunasekaran Manogaran, Mohamed Loey*
+
 
 1. **"COVID-Net: A Tailored Deep Convolutional Neural Network Design for Detection of COVID-19 Cases from Chest Radiography Images."** arXiv, 2020. <br>
 arXiv: https://arxiv.org/abs/2003.09871
@@ -1798,5 +1818,18 @@ arXiv: https://arxiv.org/abs/2012.01145
 
     *Jay Roberts, Theodoros Tsiligkaridis*  
 
+1. **"A hybrid deep transfer learning model with machine learning methods for face mask detection in the era of the COVID-19 pandemic."** Measurement, Volume 167, 1 January 2021, 108288. <br>
+doi: https://doi.org/10.1016/j.measurement.2020.108288
 
+    *Mohamed Loey, Gunasekaran Manogaran, Mohamed Hamed N. Taha, Nour Eldeen M. Khalifa*
+
+1. **"A deep learning model and machine learning methods for the classification of potential coronavirus treatments on a single human cell."** Journal of Nanoparticle Research,  2020. <br>
+doi: https://doi.org/10.1007/s11051-020-05041-z
+
+    *Nour Eldeen M. Khalifa, Mohamed Hamed N. Taha, Gunasekaran Manogaran, Mohamed Loey*
+
+1. **"Fighting against COVID-19: A novel deep learning model based on YOLO-v2 with ResNet-50 for medical face mask detection."** Sustainable Cities and Society, 2021. <br>
+doi: https://doi.org/10.1016/j.scs.2020.102600
+
+    *Mohamed Loey, Gunasekaran Manogaran, Mohamed Hamed N. Taha, Nour Eldeen M. Khalifa*
 
