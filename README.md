@@ -6,7 +6,7 @@ This is a collection of COVID-19 imaging-based AI research papers and datasets. 
  
 Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Deng-Ping Fan*](https://dpfan.net/), [*Geng Chen*](https://www.researchgate.net/profile/Geng_Chen13), and [*Tao Zhou*](https://taozh2017.github.io).
 
---- *Last updated: 14/01/2021* --- 
+--- *Last updated: 02/02/2021* --- 
 
 
 *Caution: We list the peer-reviewed papers before the preprints (e.g., arXiv and medRxiv). <br> 
@@ -86,6 +86,7 @@ doi: https://doi.org/10.1136/bmj.m1328
 
     *Laure Wynants, Ben Van Calster, Marc MJ Bonten, Gary S Collins, Thomas PA Debray, Maarten De Vos, Maria C Haller, Georg Heinze, Karel GM Moons, Richard D Riley, Ewoud Schuit, Luc Smits, Kym IE Snell, Ewout W Steyerberg, Christine Wallisch,  Maarten van Smeden*
 
+ 
 1. **"A review of mathematical modeling, artificial intelligence and datasets used in the study, prediction and management of COVID-19."** Applied Intelligence, 2020. <br>
 doi: https://doi.org/10.1007/s10489-020-01770-9
 
@@ -1048,7 +1049,10 @@ arXiv: https://arxiv.org/abs/2012.14204
 
     *Maryam Dialameh, Ali Hamzeh, Hossein Rahmani, Amir Reza Radmard, Safoura Dialameh*
 
+1. **"An Explainable AI System for Automated COVID-19 Assessment and Lesion Categorization from CT-scans."** arXiv, 2020. <br>
+arXiv: https://arxiv.org/abs/2101.11943
 
+    *Matteo Pennisi, Isaak Kavasidis, Concetto Spampinato, Vincenzo Schininà, Simone Palazzo, Francesco Rundo, Massimo Cristofaro, Paolo Campioni, Elisa Pianura, Federica Di Stefano, Ada Petrone, Fabrizio Albarello, Giuseppe Ippolito, Salvatore Cuzzocrea, Sabrina Conoci*
 
 
 
@@ -1768,6 +1772,11 @@ arXiv: https://arxiv.org/abs/2012.13605
 arXiv: https://arxiv.org/abs/2101.04909
 
     *Anuroop Sriram, Matthew Muckley, Koustuv Sinha, Farah Shamout, Joelle Pineau, Krzysztof J. Geras, Lea Azour, Yindalon Aphinyanaphongs, Nafissa Yakubova, William Moore*
+
+1. **"Artificial Intelligence–assisted chest X-ray assessment scheme for COVID-19."** European Radiology, 2021. <br>
+doi: https://doi.org/10.1007/s00330-020-07628-5
+
+    *Krithika Rangarajan, Sumanyu Muku, Amit Kumar Garg, Pavan Gabra, Sujay Halkur Shankar, Neeraj Nischal, Kapil Dev Soni, Ashu Seith Bhalla, Anant Mohan, Pawan Tiwari, Sushma Bhatnagar, Raghav Bansal, Atin Kumar, Shivanand Gamanagati, Richa Aggarwal, Upendra Baitha, Ashutosh Biswas, Arvind Kumar, Pankaj Jorwal, Shalimar, A. Shariff, Naveet Wig, Rajeshwari Subramanium, Anjan Trikha, Rajesh Malhotra, Randeep Guleria, Vinay Namboodiri, Subhashis Banerjee, Chetan Arora*
 
 
 
