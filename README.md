@@ -1054,6 +1054,12 @@ arXiv: https://arxiv.org/abs/2101.11943
 
     *Matteo Pennisi, Isaak Kavasidis, Concetto Spampinato, Vincenzo Schininà, Simone Palazzo, Francesco Rundo, Massimo Cristofaro, Paolo Campioni, Elisa Pianura, Federica Di Stefano, Ada Petrone, Fabrizio Albarello, Giuseppe Ippolito, Salvatore Cuzzocrea, Sabrina Conoci*
 
+1. **"Uncertainty-Aware Semi-supervised Method using Large Unlabelled and Limited Labeled COVID-19 Data."** arXiv, 2021. <br>
+arXiv: https://arxiv.org/abs/2102.06388
+
+    *Roohallah Alizadehsani, Danial Sharifrazi, Navid Hoseini Izadi, Javad Hassannataj Joloudari, Afshin Shoeibi, Juan M. Gorriz, Sadiq Hussain, Juan E. Arco, Zahra Alizadeh Sani, Fahime Khozeimeh, Abbas Khosravi, Saeid Nahavandi, Sheikh Mohammed Shariful Islam, U Rajendra Acharya*
+
+
 
 
 ### CXR-based methods: <a id="technical_CXR" class="anchor" href="#technical_CXR" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
@@ -1778,7 +1784,15 @@ doi: https://doi.org/10.1007/s00330-020-07628-5
 
     *Krithika Rangarajan, Sumanyu Muku, Amit Kumar Garg, Pavan Gabra, Sujay Halkur Shankar, Neeraj Nischal, Kapil Dev Soni, Ashu Seith Bhalla, Anant Mohan, Pawan Tiwari, Sushma Bhatnagar, Raghav Bansal, Atin Kumar, Shivanand Gamanagati, Richa Aggarwal, Upendra Baitha, Ashutosh Biswas, Arvind Kumar, Pankaj Jorwal, Shalimar, A. Shariff, Naveet Wig, Rajeshwari Subramanium, Anjan Trikha, Rajesh Malhotra, Randeep Guleria, Vinay Namboodiri, Subhashis Banerjee, Chetan Arora*
 
+1. **"Hybrid quantum convolutional neural networks model for COVID-19 prediction using chest X-Ray images."** arXiv, 2021. <br>
+arXiv: https://arxiv.org/abs/2102.06535
 
+    *Essam H. Houssein, Zainab Abohashima, Mohamed Elhoseny, Waleed M. Mohamed*
+
+1. **"Deep learning models for COVID-19 chest x-ray classification: Preventing shortcut learning using feature disentanglement."** medRxiv 2021.02.11.20196766, 2021. <br> 
+doi: https://doi.org/10.1101/2021.02.11.20196766
+
+    *Caleb Robinson, Anusua Trivedi, Marian Blazes, Anthony Ortiz, Jocelyn Desbiens, Sunil Gupta, Rahul Dodhia, Pavan K Bhatraju, W. Conrad Liles, Aaron Lee, Jayashree Kalpathy-Cramer, Juan M Lavista Ferres*
 
 
 
