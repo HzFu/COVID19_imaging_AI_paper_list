@@ -1059,6 +1059,16 @@ arXiv: https://arxiv.org/abs/2102.06388
 
     *Roohallah Alizadehsani, Danial Sharifrazi, Navid Hoseini Izadi, Javad Hassannataj Joloudari, Afshin Shoeibi, Juan M. Gorriz, Sadiq Hussain, Juan E. Arco, Zahra Alizadeh Sani, Fahime Khozeimeh, Abbas Khosravi, Saeid Nahavandi, Sheikh Mohammed Shariful Islam, U Rajendra Acharya*
 
+1. **"Boosting Deep Transfer Learning for COVID-19 Classification."** arXiv, 2021. <br>
+arXiv: https://arxiv.org/abs/2102.08085
+
+    *Fouzia Altaf, Syed M.S. Islam, Naeem K. Janjua, Naveed Akhtar*
+
+
+
+
+
+
 
 
 
@@ -1793,6 +1803,27 @@ arXiv: https://arxiv.org/abs/2102.06535
 doi: https://doi.org/10.1101/2021.02.11.20196766
 
     *Caleb Robinson, Anusua Trivedi, Marian Blazes, Anthony Ortiz, Jocelyn Desbiens, Sunil Gupta, Rahul Dodhia, Pavan K Bhatraju, W. Conrad Liles, Aaron Lee, Jayashree Kalpathy-Cramer, Juan M Lavista Ferres*
+
+1. **"Interpretable COVID-19 Chest X-Ray Classification via Orthogonality Constraint."** arXiv, 2021. <br>
+arXiv: https://arxiv.org/abs/2102.08360
+
+    *Ella Y. Wang, Anirudh Som, Ankita Shukla, Hongjun Choi, Pavan Turaga*
+
+1. **"Twin Augmented Architectures for Robust Classification of COVID-19 Chest X-Ray Images."** arXiv, 2021. <br>
+arXiv: https://arxiv.org/abs/2102.07975
+
+    *Kartikeya Badola, Sameer Ambekar, Himanshu Pant, Sumit Soman, Anuradha Sural, Rajiv Narang, Suresh Chandra, Jayadeva*
+
+
+
+
+
+
+
+
+
+
+
 
 
 
