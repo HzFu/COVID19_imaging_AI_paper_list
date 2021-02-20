@@ -203,6 +203,12 @@ doi: https://doi.org/10.1101/2020.07.09.20150342
 
     *Wasif Khan, Nazar Zaki, Luqman Ali*
 
+1. **"Public Covid-19 X-ray datasets and their impact on model bias - a systematic review of a significant problem."** medRxiv 2021.02.15.21251775, 2021. <br> 
+doi: https://doi.org/10.1101/2021.02.15.21251775
+
+    *Beatriz Garcia Santa Cruz, Matias Nicolas Bossa, Jan Soelter, Andreas Domink Husch*
+
+
 
 
 
@@ -475,7 +481,6 @@ arXiv: https://arxiv.org/abs/2004.14133 <br>
 doi: https://doi.org/10.1109/TMI.2020.2996645 <br>
 Project: https://github.com/DengPingFan/Inf-Net
 
-
     *Deng-Ping Fan, Tao Zhou, Ge-Peng Ji, Yi Zhou, Geng Chen, Huazhu Fu, Jianbing Shen, and Ling Shao*
 
 1. **"Relational Modeling for Robust and Efficient Pulmonary Lobe Segmentation in CT Scans."**  in IEEE Transactions on Medical Imaging, 2020. <br> 
@@ -509,15 +514,20 @@ doi: https://doi.org/10.1109/TMI.2020.3001810
 
     *Longxi Zhou, Zhongxiao Li, Juexiao Zhou, Haoyang Li, Yupeng Chen, Yuxin Huang, Dexuan Xie, Lintao Zhao, Ming Fan, Shahrukh Hashmi, Faisal AbdelKareem, Riham Eiada, Xigang Xiao, Lihua Li, Zhaowen Qiu, Xin Gao*
 
-1. **"Artificial intelligence–enabled rapid diagnosis of patients with COVID-19."** in Nature Medicine, 2020. <br>
+1. **"Artificial intelligence–enabled rapid diagnosis of patients with COVID-19."** Nature Medicine, 2020. <br>
 doi: https://doi.org/10.1038/s41591-020-0931-3
 
     *Xueyan Mei, Hao-Chih Lee, Kai-yue Diao, Mingqian Huang, Bin Lin, Chenyu Liu, Zongyu Xie, Yixuan Ma, Philip M. Robson, Michael Chung, Adam Bernheim, Venkatesh Mani, Claudia Calcagno, Kunwei Li, Shaolin Li, Hong Shan, Jian Lv, Tongtong Zhao, Junli Xia, Qihua Long, Sharon Steinberger, Adam Jacobi, Timothy Deyer, Marta Luksza, Fang Liu, Brent P. Little, Zahi A. Fayad, Yang Yang*
 
-1. **"Artificial intelligence for the detection of COVID-19 pneumonia on chest CT using multinational datasets."** in Nature Communications, 2020. <br>
-doi: https://doi.org/10.1038/s41591-020-0931-3
+1. **"Artificial intelligence for the detection of COVID-19 pneumonia on chest CT using multinational datasets."** Nature Communications, volume 11, Article number: 4080, 2020. <br>
+doi: https://doi.org/10.1038/s41467-020-17971-2
 
     *Stephanie A. Harmon, Thomas H. Sanford, Sheng Xu, Evrim B. Turkbey, Holger Roth, Ziyue Xu, Dong Yang, Andriy Myronenko, Victoria Anderson, Amel Amalou, Maxime Blain, Michael Kassin, Dilara Long, Nicole Varble, Stephanie M. Walker, Ulas Bagci, Anna Maria Ierardi, Elvira Stellato, Guido Giovanni Plensich, Giuseppe Franceschelli, Cristiano Girlando, Giovanni Irmici, Dominic Labella, Dima Hammoud, Ashkan Malayeri, Elizabeth Jones, Ronald M. Summers, Peter L. Choyke, Daguang Xu, Mona Flores, Kaku Tamura, Hirofumi Obinata, Hitoshi Mori, Francesca Patella, Maurizio Cariati, Gianpaolo Carrafiello, Peng An, Bradford J. Wood, Baris Turkbey*
+
+1. **"Integrating deep learning CT-scan model, biological and clinical variables to predict severity of COVID-19 patients."** Nature Communications, volume 12, Article number: 634, 2021. <br>
+doi: https://doi.org/10.1038/s41467-020-20657-4
+
+    *Nathalie Lassau, Samy Ammari, Emilie Chouzenoux, Hugo Gortais, Paul Herent, Matthieu Devilder, Samer Soliman, Olivier Meyrignac, Marie-Pauline Talabard, Jean-Philippe Lamarque, Remy Dubois, Nicolas Loiseau, Paul Trichelair, Etienne Bendjebbar, Gabriel Garcia, Corinne Balleyguier, Mansouria Merad, Annabelle Stoclin, Simon Jegou, Franck Griscelli, Nicolas Tetelboum, Yingping Li, Sagar Verma, Matthieu Terris, Tasnim Dardouri, Kavya Gupta, Ana Neacsu, Frank Chemouni, Meriem Sefta, Paul Jehanno, Imad Bousaid, Yannick Boursin, Emmanuel Planchet, Mikael Azoulay, Jocelyn Dachary, Fabien Brulport, Adrian Gonzalez, Olivier Dehaene, Jean-Baptiste Schiratti, Kathryn Schutte, Jean-Christophe Pesquet, Hugues Talbot, Elodie Pronier, Gilles Wainrib, Thomas Clozel, Fabrice Barlesi, Marie-France Bellin, Michael G. B. Blum*
 
 1. **"Contrastive Cross-site Learning with Redesigned Net for COVID-19 CT Classification."** JBHI, 2020. <br>
 doi: https://doi.org/10.1109/JBHI.2020.3023246 <br>
@@ -1063,6 +1073,13 @@ arXiv: https://arxiv.org/abs/2102.06388
 arXiv: https://arxiv.org/abs/2102.08085
 
     *Fouzia Altaf, Syed M.S. Islam, Naeem K. Janjua, Naveed Akhtar*
+
+1. **"One Shot Model For COVID-19 Classification and Lesions Segmentation In Chest CT Scans Using LSTM With Attention Mechanism."** medRxiv 2021.02.16.21251754, 2021. <br>
+doi: https://doi.org/10.1101/2021.02.16.21251754
+
+    *Aram Ter-Sarkisov*
+
+
 
 
 
