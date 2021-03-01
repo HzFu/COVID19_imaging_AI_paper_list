@@ -894,8 +894,8 @@ arXiv: https://arxiv.org/abs/2007.12303
 
     *Narges Saeedizadeh, Shervin Minaee, Rahele Kafieh, Shakib Yazdani, Milan Sonka*
 
-1. **"COVID-19 CT Image Synthesis with a Conditional Generative Adversarial Network."** arXiv, 2020. <br>
-arXiv: https://arxiv.org/abs/2007.14638
+1. **"COVID-19 CT Image Synthesis with a Conditional Generative Adversarial Network."** IEEE JBHI, 2021. <br>
+doi: https://doi.org/10.1109/JBHI.2020.3042523
 
     *Yifan Jiang, Han Chen, Murray Loew, Hanseok Ko*
 
