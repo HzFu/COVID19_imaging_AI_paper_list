@@ -9,8 +9,7 @@ Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Deng-Ping Fan*](https:/
 --- *Last updated: 02/02/2021* --- 
 
 
-*Caution: We list the peer-reviewed papers before the preprints (e.g., arXiv and medRxiv). <br> 
-Preprints are preliminary reports of work that have not been certified by peer review. They should not be relied on to guide clinical practice or health-related behavior and should not be reported in news media as established information.*
+*Caution: Preprints are preliminary reports of work that have not been certified by peer review. They should not be relied on to guide clinical practice or health-related behavior and should not be reported in news media as established information.*
 
 
 ------
@@ -1079,7 +1078,11 @@ doi: https://doi.org/10.1101/2021.02.16.21251754
 
     *Aram Ter-Sarkisov*
 
+1. **"Automated Model Design and Benchmarking of 3D Deep Learning Models for COVID-19 Detection with Chest CT Scans."** AAAI, 2021. <br>
+arXiv: https://arxiv.org/abs/2101.05442 <br>
+Code: https://github.com/HKBU-HPML/CovidNet3D
 
+    *Xin He, Shihao Wang, Xiaowen Chu, Shaohuai Shi, Jiangping Tang, Xin Liu, Chenggang Yan, Jiyong Zhang, Guiguang Ding*
 
 
 
