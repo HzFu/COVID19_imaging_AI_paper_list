@@ -6,7 +6,7 @@ This is a collection of COVID-19 imaging-based AI research papers and datasets. 
  
 Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Deng-Ping Fan*](https://dpfan.net/), [*Geng Chen*](https://www.researchgate.net/profile/Geng_Chen13), and [*Tao Zhou*](https://taozh2017.github.io).
 
---- *Last updated: 02/02/2021* --- 
+--- *Last updated: 11/03/2021* --- 
 
 
 *Caution: Preprints are preliminary reports of work that have not been certified by peer review. They should not be relied on to guide clinical practice or health-related behavior and should not be reported in news media as established information.*
@@ -1834,7 +1834,10 @@ arXiv: https://arxiv.org/abs/2102.07975
 
     *Kartikeya Badola, Sameer Ambekar, Himanshu Pant, Sumit Soman, Anuradha Sural, Rajiv Narang, Suresh Chandra, Jayadeva*
 
+1. **"Semi-supervised Learning for COVID-19 Image Classification via ResNet."** arXiv, 2021. <br>
+arXiv: https://arxiv.org/abs/2103.06140
 
+    *Lucy Nwuso, Xiangfang Li, Lijun Qian, Seungchan Kim, Xishuang Dong*
 
 
 
