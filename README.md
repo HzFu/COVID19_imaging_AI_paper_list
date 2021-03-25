@@ -6,7 +6,7 @@ This is a collection of COVID-19 imaging-based AI research papers and datasets. 
  
 Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Deng-Ping Fan*](https://dpfan.net/), [*Geng Chen*](https://www.researchgate.net/profile/Geng_Chen13), and [*Tao Zhou*](https://taozh2017.github.io).
 
---- *Last updated: 11/03/2021* --- 
+--- *Last updated: 25/03/2021* --- 
 
 
 *Caution: Preprints are preliminary reports of work that have not been certified by peer review. They should not be relied on to guide clinical practice or health-related behavior and should not be reported in news media as established information.*
@@ -1839,6 +1839,11 @@ arXiv: https://arxiv.org/abs/2103.06140
 
     *Lucy Nwuso, Xiangfang Li, Lijun Qian, Seungchan Kim, Xishuang Dong*
 
+
+1. **"Bias Analysis on Public X-Ray Image Datasets of Pneumonia and COVID-19 Patients."** IEEE Access, 2021. <br>
+doi: https://doi.org/10.1109/ACCESS.2021.3065456
+
+    *O. D. T. Catalá, I. S. Igual, F. J. Pérez-Benito, D. M. Escrivá, V. O. Castelló, R. Llobet, J. -C. {Peréz-Cortés}*
 
 
 
