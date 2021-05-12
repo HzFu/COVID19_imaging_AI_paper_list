@@ -6,7 +6,7 @@ This is a collection of COVID-19 imaging-based AI research papers and datasets. 
  
 Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Deng-Ping Fan*](https://dpfan.net/), [*Geng Chen*](https://www.researchgate.net/profile/Geng_Chen13), and [*Tao Zhou*](https://taozh2017.github.io).
 
---- *Last updated: 25/03/2021* --- 
+--- *Last updated: 28/04/2021* --- 
 
 
 *Caution: Preprints are preliminary reports of work that have not been certified by peer review. They should not be relied on to guide clinical practice or health-related behavior and should not be reported in news media as established information.*
@@ -1084,8 +1084,20 @@ Code: https://github.com/HKBU-HPML/CovidNet3D
 
     *Xin He, Shihao Wang, Xiaowen Chu, Shaohuai Shi, Jiangping Tang, Xin Liu, Chenggang Yan, Jiyong Zhang, Guiguang Ding*
 
+1. **"Rapid quantification of COVID-19 pneumonia burden from computed tomography with convolutional LSTM networks."** arXiv, 2021. <br>
+arXiv: https://arxiv.org/abs/2104.00138
 
+    *Kajetan Grodecki, Aditya Killekar, Andrew Lin, Sebastien Cadet, Priscilla McElhinney, Aryabod Razipour, Cato Chan, Barry D. Pressman, Peter Julien, Judit Simon, Pal Maurovich-Horvat, Nicola Gaibazzi, Udit Thakur, Elisabetta Mancini, Cecilia Agalbato, Jiro Munechika, Hidenari Matsumoto, Roberto Menè, Gianfranco Parati, Franco Cernigliaro, Nitesh Nerlekar, Camilla Torlasco, Gianluca Pontone, Damini Dey, Piotr J. Slomka*
 
+1. **"Efficient Multi-objective Evolutionary 3D Neural Architecture Search for COVID-19 Detection with Chest CT Scans."** arXiv, 2021. <br>
+arXiv: https://arxiv.org/abs/2101.10667
+
+    *Xin He, Shihao Wang, Guohao Ying, Jiyong Zhang, Xiaowen Chu*
+
+1. **"COVID-Nets: Deep CNN Architectures for Detecting COVID-19 Using Chest CT Scans."** medRxiv 2021.04.19.21255763. <br> 
+doi: https://doi.org/10.1101/2021.04.19.21255763 
+
+    *Hammam Alshazly, Christoph Linse, Mohamed Abdalla, Erhardt Barth, Thomas Martinetz*
 
 
 
@@ -1845,7 +1857,10 @@ doi: https://doi.org/10.1109/ACCESS.2021.3065456
 
     *O. D. T. Catalá, I. S. Igual, F. J. Pérez-Benito, D. M. Escrivá, V. O. Castelló, R. Llobet, J. -C. {Peréz-Cortés}*
 
+1. **"Explaining COVID-19 and Thoracic Pathology Model Predictions by Identifying Informative Input Features."** arXiv, 2021. <br>
+arXiv: https://arxiv.org/abs/2104.00411
 
+    *Ashkan Khakzar, Yang Zhang, Wejdene Mansour, Yuezhi Cai, Yawei Li, Yucheng Zhang, Seong Tae Kim, Nassir Navab*
 
 
 
