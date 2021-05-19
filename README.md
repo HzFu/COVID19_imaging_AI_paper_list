@@ -6,7 +6,7 @@ This is a collection of COVID-19 imaging-based AI research papers and datasets. 
  
 Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Deng-Ping Fan*](https://dpfan.net/), [*Geng Chen*](https://www.researchgate.net/profile/Geng_Chen13), and [*Tao Zhou*](https://taozh2017.github.io).
 
---- *Last updated: 28/04/2021* --- 
+--- *Last updated: 19/05/2021* --- 
 
 
 *Caution: Preprints are preliminary reports of work that have not been certified by peer review. They should not be relied on to guide clinical practice or health-related behavior and should not be reported in news media as established information.*
@@ -1099,6 +1099,21 @@ doi: https://doi.org/10.1101/2021.04.19.21255763
 
     *Hammam Alshazly, Christoph Linse, Mohamed Abdalla, Erhardt Barth, Thomas Martinetz*
 
+1. **"Dual-Attention Residual Network for Automatic Diagnosis of COVID-19."** arXiv, 2021. <br>
+arXiv: https://arxiv.org/abs/2105.06779
+
+    *Jun Shi, Huite Yi, Xiaoyu Hao, Hong An, Wei Wei*
+
+1. **"UncertaintyFuseNet: Robust Uncertainty-aware Hierarchical Feature Fusion with Ensemble Monte Carlo Dropout for COVID-19 Detection."** arXiv, 2021. <br>
+arXiv:  https://arxiv.org/abs/2105.08590
+
+    *Moloud Abdar, Soorena Salari, Sina Qahremani, Hak-Keung Lam, Fakhri Karray, Sadiq Hussain, Abbas Khosravi, U. Rajendra Acharya, Saeid Nahavandi*
+
+1. **"COVID-19 Detection in Computed Tomography Images with 2D and 3D Approaches."** arXiv, 2021. <br>
+arXiv:  https://arxiv.org/abs/2105.08506
+
+    *Sara Atito Ali Ahmed, Mehmet Can Yavuz, Mehmet Umut Sen, Fatih Gulsen, Onur Tutar, Bora Korkmazer, Cesur Samanci, Sabri Sirolu, Rauf Hamid, Ali Ergun Eryurekli, Toghrul Mammadov, Berrin Yanikoglu*
+
 
 
 
@@ -1862,9 +1877,25 @@ arXiv: https://arxiv.org/abs/2104.00411
 
     *Ashkan Khakzar, Yang Zhang, Wejdene Mansour, Yuezhi Cai, Yawei Li, Yucheng Zhang, Seong Tae Kim, Nassir Navab*
 
+1. **"COVID-Net CXR-2: An Enhanced Deep Convolutional Neural Network Design for Detection of COVID-19 Cases from Chest X-ray Images."** arXiv, 2021. <br>
+arXiv:  https://arxiv.org/abs/2105.06640
 
+    *Maya Pavlova, Naomi Terhljan, Audrey G. Chung, Andy Zhao, Siddharth Surana, Hossein Aboutalebi, Hayden Gunraj, Ali Sabri, Amer Alaref, and Alexander Wong*
 
+1. **"COVID-19 Lung Lesion Segmentation Using a Sparsely Supervised Mask R-CNN on Chest X-rays Automatically Computed from Volumetric CTs."** arXiv, 2021. <br>
+arXiv:  https://arxiv.org/abs/2105.08147
 
+    *Vignav Ramesh, Blaine Rister, Daniel L. Rubin*
+
+1. **"Randomly Initialized Convolutional Neural Network for the Recognition of COVID-19 using X-ray Images."** arXiv, 2021. <br>
+arXiv:  https://arxiv.org/abs/2105.08199
+
+    *Safa Ben Atitallah, Maha Driss, Wadii Boulila, Henda Ben Ghézala*
+
+1. **"UncertaintyFuseNet: Robust Uncertainty-aware Hierarchical Feature Fusion with Ensemble Monte Carlo Dropout for COVID-19 Detection."** arXiv, 2021. <br>
+arXiv:  https://arxiv.org/abs/2105.08590
+
+    *Moloud Abdar, Soorena Salari, Sina Qahremani, Hak-Keung Lam, Fakhri Karray, Sadiq Hussain, Abbas Khosravi, U. Rajendra Acharya, Saeid Nahavandi*
 
 
 
