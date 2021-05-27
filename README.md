@@ -6,7 +6,7 @@ This is a collection of COVID-19 imaging-based AI research papers and datasets. 
  
 Contributed by  [*Huazhu Fu*](https://hzfu.github.io), [*Deng-Ping Fan*](https://dpfan.net/), [*Geng Chen*](https://www.researchgate.net/profile/Geng_Chen13), and [*Tao Zhou*](https://taozh2017.github.io).
 
---- *Last updated: 19/05/2021* --- 
+--- *Last updated: 25/05/2021* --- 
 
 
 *Caution: Preprints are preliminary reports of work that have not been certified by peer review. They should not be relied on to guide clinical practice or health-related behavior and should not be reported in news media as established information.*
@@ -1113,6 +1113,11 @@ arXiv:  https://arxiv.org/abs/2105.08590
 arXiv:  https://arxiv.org/abs/2105.08506
 
     *Sara Atito Ali Ahmed, Mehmet Can Yavuz, Mehmet Umut Sen, Fatih Gulsen, Onur Tutar, Bora Korkmazer, Cesur Samanci, Sabri Sirolu, Rauf Hamid, Ali Ergun Eryurekli, Toghrul Mammadov, Berrin Yanikoglu*
+
+1. **"Generation of COVID-19 Chest CT Scan Images using Generative Adversarial Networks."** arXiv, 2021. <br>
+arXiv: https://arxiv.org/abs/2105.11241
+
+    *Prerak Mann, Sahaj Jain, Saurabh Mittal, Aruna Bhat*
 
 
 
